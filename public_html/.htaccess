@@ -1,0 +1,4 @@
+SetEnv PHPRC /home/customer/www/isnaad.sa/public_html/php.ini
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^isnaad.sa [NC]
+RewriteRule ^(.*)$ http://www.isnaad.sa/$1 [L,R=301]

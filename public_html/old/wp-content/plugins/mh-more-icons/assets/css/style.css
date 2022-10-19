@@ -1,0 +1,30 @@
+@font-face {font-family: 'Steadysets'; src:url('fonts/Steadysets.eot?-wyu8en'); src:url('fonts/Steadysets.eot?#iefix-wyu8en') format('embedded-opentype'), url('fonts/Steadysets.woff?-wyu8en') format('woff'), url('/fonts/Steadysets.ttf?-wyu8en') format('truetype'), url('fonts/Steadysets.svg?-wyu8en#Steadysets') format('svg'); font-weight: normal;font-style: normal;}
+
+@font-face {font-family: 'FontAwesome'; src:url('fonts/FontAwesome.eot?ksuua4'); src:url('fonts/FontAwesome.eot?#iefixksuua4') format('embedded-opentype'), url('fonts/FontAwesome.woff?ksuua4') format('woff'), url('fonts/FontAwesome.ttf?ksuua4') format('truetype'), url('fonts/FontAwesome.svg?ksuua4#FontAwesome') format('svg'); font-weight: normal; font-style: normal;}
+
+@font-face {font-family: 'Linecons'; src:url('fonts/Linecons.eot?7mlawu'); src:url('fonts/Linecons.eot?#iefix7mlawu') format('embedded-opentype'), url('fonts/Linecons.woff?7mlawu') format('woff'), url('fonts/Linecons.ttf?7mlawu') format('truetype'), url('fonts/Linecons.svg?7mlawu#Linecons') format('svg');font-weight: normal;font-style: normal;}
+
+@font-face {font-family: 'ETlineicons'; src:url('fonts/ETlineicons.eot?faewcw'); src:url('fonts/ETlineicons.eot?#iefixfaewcw') format('embedded-opentype'), url('fonts/ETlineicons.woff?faewcw') format('woff'), url('fonts/ETlineicons.ttf?faewcw') format('truetype'), url('fonts/ETlineicons.svg?faewcw#ETlineicons') format('svg');font-weight: normal; font-style: normal;}
+
+@font-face {font-family: 'IcoMoon'; src:url('fonts/IcoMoon.eot?6ipj2j'); src:url('fonts/IcoMoon.eot?#iefix6ipj2j') format('embedded-opentype'), url('fonts/IcoMoon.woff?6ipj2j') format('woff'), url('fonts/IcoMoon.ttf?6ipj2j') format('truetype'), url('fonts/IcoMoon.svg?6ipj2j#IcoMoon') format('svg'); font-weight: normal;font-style: normal;}
+
+@font-face {font-family: 'Linearicons'; src:url('fonts/Linearicons.eot?40l1h9'); src:url('fonts/Linearicons.eot?40l1h9#iefix') format('embedded-opentype'), url('fonts/Linearicons.ttf?40l1h9') format('truetype'),url('fonts/Linearicons.woff?40l1h9') format('woff'), url('fonts/Linearicons.svg?40l1h9#Linearicons') format('svg'); font-weight: normal; font-style: normal;}
+
+#mh-panel div.box-content ul.mhc-icon li:before { content: attr(data-icon); speak: none; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.mhc-icon.mhicons li:before {font-family: 'mhicons';}
+.mhc-icon.steadysets li:before { font-family: 'Steadysets';}
+.mhc-icon.awesome li:before { font-family: 'FontAwesome';}
+.mhc-icon.lineicons li:before { font-family: 'Linecons';}
+.mhc-icon.etline li:before { font-family: 'ETlineicons';}
+.mhc-icon.icomoon li:before { font-family: 'IcoMoon';}
+.mhc-icon.linearicons li:before { font-family: 'Linearicons';}
+#mh-panel div.box-content ul.mhc-icon { overflow-y: scroll; height: 220px; z-index:90; position:relative }
+
+#mh-panel div.box-content .mhc-icon li { font-size: 20px; display: inline-block; background: #eef2f3; padding: 10px; margin: 0; cursor: default; -webkit-transition: all .2s ease-in-out; transition: all .2s ease-in-out; text-align: center; width: 27px;
+border:1px solid #fff;}
+#mh-panel div.box-content .mhc-icon li:hover{
+    background-color: #2fb3d1;
+    color: #fff;
+}
+
+#mh-panel div.box-content .iconpreview{ clear: both; margin-bottom: 20px;}

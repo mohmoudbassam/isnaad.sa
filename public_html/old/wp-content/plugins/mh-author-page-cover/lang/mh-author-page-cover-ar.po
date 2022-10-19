@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty - Author's Page Cover\n"
+"POT-Creation-Date: 2016-02-24 23:38+0000\n"
+"PO-Revision-Date: 2016-02-24 23:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mh-author-page-cover.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:26 includes/functions.php:114
+msgid "Author's Page Cover"
+msgstr "غلاف الكاتب"
+
+#: includes/functions.php:33
+msgid "Display Author's Cover"
+msgstr "عرض غلاف الكاتب"
+
+#: includes/functions.php:37
+msgid "Disabling this option will remove the covers from your site."
+msgstr "تعطيل هذا الاختيار سيزيل خاصية غلاف الكاتب من موقعك."
+
+#: includes/functions.php:40
+msgid "Author's Cover Style"
+msgstr "شكل غلاف الكاتب"
+
+#: includes/functions.php:44
+msgid "Side"
+msgstr "جانب"
+
+#: includes/functions.php:45
+msgid "Centre"
+msgstr "وسط"
+
+#: includes/functions.php:48
+msgid "Here you can choose the look of your website author's cover."
+msgstr "هنا يمكنك اختيار الشكل الذي ترغبه لغلاف الكاتب في موقعك."
+
+#: includes/functions.php:52
+msgid "Display Author's Box After Posts"
+msgstr "عرض مربع الكاتب أسفل المقالات"
+
+#: includes/functions.php:56
+msgid "Disabling this option will remove the authors box from your site."
+msgstr "تعطيل هذا الخيار سيزيل مربع الكاتب من موقعك."
+
+#: includes/functions.php:58
+msgid "Display Author's social links"
+msgstr "عرض روابط التواصل الاجتماعي للكاتب"
+
+#: includes/functions.php:62
+msgid ""
+"Disabling this option will remove the social links/icons on the author's "
+"cover and the author's box."
+msgstr ""
+"تعطيل هذا الاختيار سيزيل أيقونات وروابط التواصل الاجتماعي في غلاف الكاتب "
+"ومربع الكاتب."
+
+#: includes/functions.php:89
+msgid "Author's Cover"
+msgstr "غلاف الكاتب"
+
+#: includes/functions.php:106 includes/functions.php:142
+msgid "Upload New Image"
+msgstr "ارفع صورة جديدة"
+
+#: includes/functions.php:109
+msgid "Change Image"
+msgstr "تغيير الصورة"
+
+#: includes/functions.php:119 includes/functions.php:132
+msgid "Choose Photo"
+msgstr "اختر صورة"
+
+#: includes/functions.php:126 includes/functions.php:132
+msgid "Remove"
+msgstr "إزالة"
+
+#: includes/functions.php:127
+msgid "Edit"
+msgstr "تحرير"
+
+#: includes/functions.php:144
+msgid "Use External URL"
+msgstr "ضع رابطا لصورة"
+
+#: includes/functions.php:160
+msgid "Upload a photo for your page or use a URL to a pre-existing photo."
+msgstr "ارفع صورة لصفحتك، أو استخدم رابطاً لصورة."
+
+#: includes/functions.php:161
+msgid "Please Update Profile to save your changes."
+msgstr "لا تنس حفظ التغييرات."
+
+#: includes/mharty-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "حدث خطأ HTTP غير متوقع عند محاولة إرسال الطلب."
+
+#: includes/mharty-updater.php:380 includes/mharty-updater.php:545
+msgid "Try again"
+msgstr "أعد المحاولة"
+
+#: includes/mharty-updater.php:421
+msgid "An unknown error occurred"
+msgstr "حدث خطأ غير معروف"
+
+#: includes/mharty-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr "تم تحديث الإضافة ولكن تعثر تفعيلها، من فضلك قم بالتفعيل يدوياً."
+
+#: includes/mharty-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: includes/mharty-updater.php:480
+msgid " Plugin Updates"
+msgstr "تحديثات الإضافة"
+
+#: includes/mharty-updater.php:519
+msgid "Username: "
+msgstr "اسم المستخدم:"
+
+#: includes/mharty-updater.php:523
+msgid "Email: "
+msgstr "البريد الإلكتروني:"
+
+#: includes/mharty-updater.php:529
+msgid "Key: "
+msgstr "المفتاح:"
+
+#: includes/mharty-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>تحديثات إضافتك <span style=\"color:green\">مفعلة</span></p>"
+
+#: includes/mharty-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ماأدخلته <span style=\"color:red\">غير صالح</span>، التحديثات التلقائية "
+"<span style=\"color:red\">غير مفعلة</span>.</p>"
+
+#: includes/mharty-updater.php:540
+msgid "Edit Key"
+msgstr "تعديل المفتاح"
+
+#: includes/mharty-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>غير قادر على التحقق من صحة تفعيل التحديثات.</p>"
+
+#: includes/mharty-updater.php:550
+msgid "Add Key"
+msgstr "أضف مفتاح"
+
+#: includes/mharty-updater.php:636
+msgid "User name"
+msgstr "اسم المستخدم"
+
+#: includes/mharty-updater.php:642
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/mharty-updater.php:651
+msgid "Activation Key"
+msgstr "مفتاح التفعيل"
+
+#. Plugin Name of the plugin/theme
+msgid "Mharty - Author's Page Cover"
+msgstr "مهارتي - غلاف الكاتب"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr "http://mharty.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"This extension provides the ability to add covers to author's page, also "
+"adds an author box after posts."
+msgstr ""
+"هذه الإضافة ستوفر إمكانية إضافة أغلفة لصفحات الكتاب. وتضيف أيضا مربع الكاتب "
+"أسفل المقالات."
+
+#. Author of the plugin/theme
+msgid "mharty.com"
+msgstr "mharty.com"
+
+#~ msgid "Center"
+#~ msgstr "Centre"

@@ -1,0 +1,3815 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty\n"
+"POT-Creation-Date: 2018-05-06 19:57+0100\n"
+"PO-Revision-Date: 2018-05-06 19:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: bbpress\n"
+
+#: app/admin/includes/assets.php:17
+msgid "Ok, thanks!"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:171
+msgid "The export process failed. Please refresh the page and try again."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:797
+msgid ""
+"The browser version you are currently using is outdated. Please update to "
+"the latest version."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:798
+msgid ""
+"You reached your server memory limit. Please try increasing your PHP memory "
+"limit."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:799
+msgid ""
+"This file cannot be imported. It may be caused by file_uploads being "
+"disabled in your php.ini. It may also be caused by post_max_size or/and "
+"upload_max_filesize being smaller than file selected. Please contact your "
+"website hosting company."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:800
+msgid "Invalid File format. You should be uploading a JSON file."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:801
+msgid "This file should not be imported in this context."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:802
+#, php-format
+msgid "Import estimated time remaining: %smin"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:803
+#, php-format
+msgid "Export estimated time remaining: %smin"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:804
+#, php-format
+msgid "Backup estimated time remaining: %smin"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:824
+msgid "Import/Export"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:828
+msgid "Import"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:829
+msgid "Export"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:834
+#, php-format
+msgid "Importing %s file will overwrite all content currently on this page."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:836
+msgid "Select Mharty - Page Composer Layouts file to begin the import process:"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:838
+#, php-format
+msgid ""
+"Importing %s file will overwrite all current data. Please proceed with "
+"caution!"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:842
+msgid "No File Selected"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:843
+msgid "Choose File"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:847
+msgid "Recommended: Export a backup of your settings."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:850
+msgid ""
+"Note: Large files or files contain large images may take several minutes to "
+"upload."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:853
+#, php-format
+msgid "Import %s"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:854
+msgid "Cancel Import"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:858
+#, php-format
+msgid ""
+"Exporting your %s will create a JSON file that can be imported later, or "
+"into a different website uses Mharty Theme."
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:859
+msgid "Export File Name"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:864
+msgid "Only export selected items"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:868
+#, php-format
+msgid "Export %s"
+msgstr ""
+
+#: app/admin/includes/class-impoexpo.php:869
+msgid "Cancel Export"
+msgstr ""
+
+#: app/admin/includes/impoexpo.php:82
+msgid "Import & Export"
+msgstr ""
+
+#: app/metabox.php:196
+msgid "Reset"
+msgstr ""
+
+#: app/metabox.php:197
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:636
+msgid "Upload"
+msgstr ""
+
+#: author.php:16 bbpress.php:10 includes/functions/mh_shortcodes.php:10
+#: index.php:15
+msgctxt "This is the breadcrumb separator."
+msgid " / "
+msgstr ""
+
+#: author.php:17 bbpress.php:11 includes/functions/mh_functions.php:530
+#: includes/functions/mh_shortcodes.php:11 includes/mh_menu/breadcrumb.php:177
+#: includes/mh_menu/mh_menu.php:51 index.php:16
+msgid "Home"
+msgstr ""
+
+#: author.php:141 functions.php:1112 includes/functions/mh_functions.php:2203
+#: includes/functions/mh_functions.php:2296
+#: includes/mh_panel/mh_options.php:296 includes/mh_panel/mh_options.php:299
+#: index.php:153
+msgid "Read more"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13
+msgid "Comments 0"
+msgstr ""
+
+#: comments.php:13
+msgid "Comment 1"
+msgstr ""
+
+#: comments.php:13 includes/mh_panel/mh_panel.php:510
+msgid "Comments"
+msgstr ""
+
+#: comments.php:18 comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:19 comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:56
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Submit a Comment"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: footer.php:5 footer.php:45
+#, php-format
+msgid "Powered by %1$s | %2$s"
+msgstr ""
+
+#: footer.php:5 footer.php:45
+msgid "Premium RTL Wordpress Theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#. Author of the plugin/theme
+#: footer.php:5 footer.php:45
+msgid "Mharty"
+msgstr ""
+
+#: footer.php:5 footer.php:45
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "App Menu"
+msgstr ""
+
+#: functions.php:197
+msgid ""
+"Please check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+
+#: functions.php:198
+msgid "Fill"
+msgstr ""
+
+#: functions.php:199
+msgid "field"
+msgstr ""
+
+#: functions.php:200
+msgid "Invalid email"
+msgstr ""
+
+#: functions.php:201
+msgid "Captcha"
+msgstr ""
+
+#: functions.php:202
+msgid "Prev"
+msgstr ""
+
+#: functions.php:203
+msgid "Previous"
+msgstr ""
+
+#: functions.php:204
+msgid "Next"
+msgstr ""
+
+#: functions.php:205
+msgid "Please fill in the following fields:"
+msgstr ""
+
+#: functions.php:206
+msgid "Please fix the following errors:"
+msgstr ""
+
+#: functions.php:207
+msgid "You entered the wrong number in captcha."
+msgstr ""
+
+#: functions.php:209
+msgid "Close (Esc)"
+msgstr ""
+
+#: functions.php:210
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:211
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+#: functions.php:212
+msgid "Next (Right arrow key)"
+msgstr ""
+
+#: functions.php:213
+msgid "%curr% of %total%"
+msgstr ""
+
+#: functions.php:214
+msgid "<a href=\"%url%\">The image</a> could not be loaded."
+msgstr ""
+
+#: functions.php:215
+msgid "<a href=\"%url%\">The content</a> could not be loaded."
+msgstr ""
+
+#: functions.php:335
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: functions.php:351
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:353
+msgid "0 Comments"
+msgstr ""
+
+#: functions.php:355
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:439
+msgid "0 comments"
+msgstr ""
+
+#: functions.php:439
+msgid "1 comment"
+msgstr ""
+
+#: functions.php:439
+msgid "comments"
+msgstr ""
+
+#: functions.php:454
+msgid "Skills"
+msgstr ""
+
+#: functions.php:455
+msgctxt "This is a comma preceded by a space."
+msgid " ,"
+msgstr ""
+
+#: functions.php:457
+msgid "Posted on"
+msgstr ""
+
+#: functions.php:776
+msgid "Password Protected"
+msgstr ""
+
+#: functions.php:777
+msgid "To view this protected post, enter the password below"
+msgstr ""
+
+#: functions.php:780
+msgid "Password"
+msgstr ""
+
+#: functions.php:781
+msgid "Submit"
+msgstr ""
+
+#: functions.php:912
+msgid ""
+"This theme works better with MH Page Composer plugin. Please activate it now."
+msgstr ""
+
+#: includes/functions/mh_functions.php:221
+msgid "&hellip;"
+msgstr ""
+
+#: includes/functions/mh_functions.php:771 includes/mh_menu/breadcrumb.php:179
+msgid "Archives"
+msgstr ""
+
+#: includes/functions/mh_functions.php:773
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: includes/functions/mh_functions.php:775 includes/mh_menu/breadcrumb.php:178
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/functions/mh_functions.php:849
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr ""
+
+#: includes/functions/mh_functions.php:865 index.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/functions/mh_functions.php:1086
+msgid "Image doesn't exist"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2065
+#: includes/mh_panel/mh_options.php:627
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2066
+#: includes/mh_panel/mh_options.php:619
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2067
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2068
+#: includes/mh_panel/mh_options.php:739
+msgid "Snapchat URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2069
+#: includes/mh_panel/mh_options.php:643
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2070
+#: includes/mh_panel/mh_options.php:651
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2071
+#: includes/mh_panel/mh_options.php:659
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2072
+#: includes/mh_panel/mh_options.php:667
+msgid "Behance URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2073
+#: includes/mh_panel/mh_options.php:675
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2074
+#: includes/mh_panel/mh_options.php:755
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2075
+#: includes/mh_panel/mh_options.php:683
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2099
+msgid "<div class=\"mh-post-navigation\">Go to article</div>"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2227
+#: includes/mh_panel/mh_options.php:818
+msgid "Thank you for contacting us."
+msgstr ""
+
+#: includes/functions/mh_functions.php:2258
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2264
+msgid "Reply"
+msgstr ""
+
+#: includes/functions/mh_functions.php:2273
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/functions/mh_sidebars.php:4
+msgid "Sidebar"
+msgstr ""
+
+#: includes/functions/mh_sidebars.php:13 includes/functions/mh_sidebars.php:22
+#: includes/functions/mh_sidebars.php:31 includes/functions/mh_sidebars.php:40
+msgid "Footer Widget"
+msgstr ""
+
+#: includes/metabox.php:8
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/metabox.php:20 includes/metabox.php:27
+#: includes/mh_panel/mh_options.php:32 includes/mh_panel/mh_options.php:39
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox.php:21 includes/metabox.php:26
+#: includes/mh_panel/mh_options.php:33 includes/mh_panel/mh_options.php:38
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox.php:22 includes/metabox.php:28
+#: includes/mh_customizer/customizer.php:422
+#: includes/mh_panel/mh_options.php:34 includes/mh_panel/mh_options.php:40
+#: includes/widgets/widget-social-follow.php:58
+msgid "Full-width"
+msgstr ""
+
+#: includes/metabox.php:33 includes/mh_customizer/customizer.php:423
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:37
+#: includes/mh_panel/mh_options.php:113
+msgid "Default"
+msgstr ""
+
+#: includes/metabox.php:34 page-template-noheader.php:5
+msgid "No Header Page"
+msgstr ""
+
+#: includes/metabox.php:35 page-template-blank.php:5
+msgid "Blank Page"
+msgstr ""
+
+#: includes/metabox.php:39 includes/mh_customizer/customizer.php:998
+#: includes/mh_customizer/customizer.php:1081
+#: includes/mh_customizer/customizer.php:1123
+#: includes/mh_customizer/customizer.php:1155
+#: includes/mh_customizer/customizer.php:1265
+msgid "Light"
+msgstr ""
+
+#: includes/metabox.php:40 includes/mh_customizer/customizer.php:997
+#: includes/mh_customizer/customizer.php:1080
+#: includes/mh_customizer/customizer.php:1124
+#: includes/mh_customizer/customizer.php:1154
+#: includes/mh_customizer/customizer.php:1264
+msgid "Dark"
+msgstr ""
+
+#: includes/metabox.php:45 includes/mh_panel/mh_options.php:224
+msgid "Page Layout"
+msgstr ""
+
+#: includes/metabox.php:50
+msgid "Side Navigation"
+msgstr ""
+
+#: includes/metabox.php:53
+msgid "Off"
+msgstr ""
+
+#: includes/metabox.php:54
+msgid "On"
+msgstr ""
+
+#: includes/metabox.php:61
+msgid "Menu Colour"
+msgstr ""
+
+#: includes/metabox.php:62
+msgid ""
+"Change this if you want to adjust the menu text colour to be more visible."
+msgstr ""
+
+#: includes/metabox.php:65 includes/metabox.php:91
+#: includes/mh_customizer/customizer.php:1272
+msgid "Background Colour"
+msgstr ""
+
+#: includes/metabox.php:66
+msgid "Change this if you want to adjust the background colour."
+msgstr ""
+
+#: includes/metabox.php:72
+msgid "Post Template"
+msgstr ""
+
+#: includes/metabox.php:81
+msgid "Use Background Colour"
+msgstr ""
+
+#: includes/metabox.php:86
+msgid "Use Featured Thumbnail as Background"
+msgstr ""
+
+#: includes/metabox.php:94
+msgid "Text Colour"
+msgstr ""
+
+#: includes/metabox.php:99
+msgid "Quote Author"
+msgstr ""
+
+#: includes/metabox.php:145 includes/metabox.php:154 includes/metabox.php:195
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:95
+msgid "Hex Value"
+msgstr ""
+
+#: includes/metabox.php:219
+msgid "Author Name"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:25
+msgid "Site Settings"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:30
+#: includes/mh_customizer/customizer.php:31
+#: includes/mh_customizer/customizer.php:60
+msgid "Header Settings"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:34
+msgid "Primary Navigation"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:39
+msgid "Secondary Navigation"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:44
+msgid "App-like Menu"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:49
+#: includes/mh_customizer/customizer.php:744
+msgid "Promo Bar"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:54
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:59
+#: includes/mh_customizer/customizer.php:1266
+msgid "Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:63
+msgid "Accent Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:68
+msgid "Primary Navigation Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:73
+msgid "Secondary Navigation Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:78
+msgid "App Menu Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:83
+#, fuzzy
+#| msgid "Footer Colors"
+msgid "Promo Bar Colours"
+msgstr "Footer Colours"
+
+#: includes/mh_customizer/customizer.php:88
+msgid "Footer Colours"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:93
+msgid "Fonts"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:97
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:116
+msgid "Header Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:125
+msgid "Body Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:135
+msgid "Primary Navigation Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:140
+#: includes/mh_customizer/customizer.php:153
+#: includes/mh_customizer/customizer.php:166
+#: includes/mh_customizer/customizer.php:179
+msgid "Header"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:141
+#: includes/mh_customizer/customizer.php:154
+#: includes/mh_customizer/customizer.php:167
+#: includes/mh_customizer/customizer.php:180
+msgid "Body"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:148
+msgid "Secondary Navigation Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:161
+msgid "App Menu Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:174
+msgid "Footer Font"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:186
+msgid "Site Title as a Logo"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:190
+msgid ""
+"If you want to use your site name and tagline instead of an image based logo "
+"enable this option."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:195
+msgid "Logo Image"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:199
+msgid "Click the button to upload your logo."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:204
+msgid "Open Graph Image"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:208
+msgid ""
+"‫Click the button to upload an image which will be used by default when "
+"sharing this website on social network."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:215
+msgid "Layout style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:219
+msgid "Choose between full-width or boxed."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:229
+msgid "Website width"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:233
+msgid "Choose between wide or narrow."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:243
+msgid "Corners Style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:247
+msgid "This will affect buttons and icons."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:258
+msgid "Header and footer Icons Style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:262
+msgid "Choose between simple or border."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:272
+msgid "Widgets Title Style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:276
+msgid "Toggle between the various styles."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:290
+msgid "Back To Top Button"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:295
+#: includes/mh_customizer/customizer.php:309
+#: includes/mh_customizer/customizer.php:340
+#: includes/mh_customizer/customizer.php:421
+#: includes/mh_customizer/customizer.php:508
+#: includes/mh_customizer/customizer.php:561
+#: includes/mh_customizer/customizer.php:576
+#: includes/mh_customizer/customizer.php:690
+#: includes/mh_customizer/customizer.php:725
+#: includes/mh_customizer/customizer.php:749
+#: includes/mh_customizer/customizer.php:832
+#: includes/mh_customizer/customizer.php:1051
+#: includes/mh_customizer/customizer.php:1101
+msgid "Hide"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:296
+#: includes/mh_customizer/customizer.php:310
+#: includes/mh_customizer/customizer.php:341
+#: includes/mh_customizer/customizer.php:509
+#: includes/mh_customizer/customizer.php:562
+#: includes/mh_customizer/customizer.php:577
+#: includes/mh_customizer/customizer.php:689
+#: includes/mh_customizer/customizer.php:726
+#: includes/mh_customizer/customizer.php:750
+#: includes/mh_customizer/customizer.php:833
+#: includes/mh_customizer/customizer.php:1052
+#: includes/mh_customizer/customizer.php:1102
+msgid "Show"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:298
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:304
+msgid "Sidebar Border"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:312
+msgid "Use this option to hide the sidebar border."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:317
+msgid "Enable Nice Scrollbar"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:325
+msgid "Fixed Navigation Bar"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:329
+msgid ""
+"If you want the navigation bar to stay on top of the screen at all times."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:335
+msgid "Sticky Logo Icon"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:343
+msgid ""
+"If you enable this option, use the option below to upload your sticky logo."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:348
+msgid "Sticky Logo"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:357
+msgid "Navigation Position"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:362
+#: includes/mh_customizer/customizer.php:984
+#: includes/mh_panel/mh_options.php:115
+msgid "Horizontal"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:363
+#: includes/mh_customizer/customizer.php:985
+msgid "Vertical"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:370
+msgid "Logo Position"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:375
+#: includes/mh_customizer/customizer.php:666
+#: includes/mh_customizer/customizer.php:819
+msgid "Side"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:376
+#: includes/mh_customizer/customizer.php:452
+#: includes/mh_customizer/customizer.php:466
+#: includes/mh_customizer/customizer.php:820
+#: includes/mh_customizer/customizer.php:855
+#: includes/mh_customizer/customizer.php:869
+msgid "Centre"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:382
+msgid "Logo Size"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:385
+msgid ""
+"By default the logo height is around 40 pixels, but you can input your value "
+"here (Numeric value only)."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:390
+msgid "Remove Logo Padding"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:394
+msgid ""
+"This option will remove the default padding around the logo and menu items."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:399
+msgid "Add Top Padding"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:402
+msgid "Add more padding space to top of you header. Use numbers only e.g. 50"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:407
+msgid "Add Bottom Padding"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:410
+msgid ""
+"Add more padding space to bottom of you header. Use numbers only e.g. 50"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:416
+msgid "Show Search Icon"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:429
+msgid "Full-width Search Text"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:432
+msgid "Default is: Type and Press \"Enter\"."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:437
+msgid "Header Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:441
+msgid "Upload or choose a background image for the header area."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:447
+#: includes/mh_customizer/customizer.php:461
+msgid "Align Header Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:453
+#: includes/mh_customizer/customizer.php:856
+msgid "Right"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:454
+#: includes/mh_customizer/customizer.php:857
+msgid "Left"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:467
+#: includes/mh_customizer/customizer.php:785
+#: includes/mh_customizer/customizer.php:870
+msgid "Top"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:468
+#: includes/mh_customizer/customizer.php:786
+#: includes/mh_customizer/customizer.php:871
+msgid "Bottom"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:475
+#: includes/mh_customizer/customizer.php:878
+msgid "Background Size"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:480
+#: includes/mh_customizer/customizer.php:883
+msgid "Auto"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:481
+#: includes/mh_customizer/customizer.php:884
+msgid "Cover"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:482
+#: includes/mh_customizer/customizer.php:885
+msgid "Contain"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:489
+#: includes/mh_customizer/customizer.php:892
+msgid "Repeat Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:494
+#: includes/mh_customizer/customizer.php:897
+msgid "No Repeat"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:495
+#: includes/mh_customizer/customizer.php:898
+msgid "Repeat X"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:496
+#: includes/mh_customizer/customizer.php:899
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:503
+msgid "Header Shadow"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:515
+msgid "Main Menu Links Font Size"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:519
+#: includes/mh_customizer/customizer.php:528
+msgid "Default is 14px, You could change it to your desired size."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:524
+#, fuzzy
+#| msgid "Sub Navigation Text Color"
+msgid "Sub Navigation Links Font Size"
+msgstr "Sub Navigation Text Colour"
+
+#: includes/mh_customizer/customizer.php:533
+msgid "Hide Navigation links?"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:542
+msgid "Secondary Navigation Position"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:547
+msgid "Below"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:548
+msgid "Above"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:550
+msgid ""
+"Choose the Position of your Secondary Navigation. The Secondary Navigation "
+"appears when it has some contents filled."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:556
+msgid "Social Icons in Header"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:564
+#: includes/mh_customizer/customizer.php:835
+#: includes/widgets/widget-social-follow.php:65
+msgid "You may need to activate the desired icons from the theme panel."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:571
+#: includes/widgets/widget-latest-posts.php:151
+#: includes/widgets/widget-popular-posts.php:148
+msgid "Show Date"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:579
+msgid ""
+"You could change how your dates are displayed from the theme panel \"Header "
+"Date format\"."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:584
+msgid "Custom Phrase"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:587
+msgid "Use this field to show custom phrase. Keep it short for better results."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:592
+msgid "Phone Number"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:599 includes/mharty-updater.php:507
+msgid "Email"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:606
+msgid "Secondary Navigation Font Size"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:610
+msgid "Default is 13px, You could change it to your desired size."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:615
+msgid "Phone Icon"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:619
+#: includes/mh_customizer/customizer.php:628
+#: includes/mh_customizer/customizer.php:637
+#, php-format
+msgid ""
+"%1$sClick here%2$s to go to the icons index. (Paste the code for your "
+"desired icon here)."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:624
+msgid "Email Icon"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:633
+msgid "Date Icon"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:642
+msgid "Always Show Menu?"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:646
+msgid "Enable this option to show the Menu on small screens."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:651
+msgid "Enable App Menu?"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:655
+msgid "This will enable the App-like menu.To mangae its content go to > Menus"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:661
+msgid "App Menu Style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:667
+msgid "Overlay"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:669
+msgid "Choose the desired style for your App menu."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:674
+msgid "App menu Logo "
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:678
+msgid ""
+"Click the Upload Image button to upload or choose your logo for the app menu."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:684
+msgid "Show Tagline"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:692
+msgid "Show or hide your site tagline i the app menu area."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:697
+msgid "Custom Tagline"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:700
+msgid "Use this field, if you want to show a custom tagline."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:705
+msgid "Phone Number in App menu"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:712
+msgid "Email in App menu"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:720
+msgid "Social Icons in App menu"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:732
+msgid "Always Show?"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:736
+msgid "Disable this option to show the App Menu on small screens only."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:752
+msgid ""
+"If you have the Secondary Menu shown on your website this bar will overlay "
+"its current content until dismissed. Note: to change the position of the bar "
+"please change the Secondary Menu position."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:757
+msgid "Promo Bar Text"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:760
+msgid ""
+"Use this field to display a message on the Promo Bar. This field must be "
+"filled for the bar to be shown. Keep it short!"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:765
+msgid "Promo Bar Button Text"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:768
+msgid "If you want to show a button, put your link in the field below."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:773
+msgid "Promo Bar Button URL"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:780
+msgid "Promo Bar Animation"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:787
+msgid "Scale Up"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:788
+msgid "Bouncing"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:794
+msgid "Show Promo Bar Once Per Session?"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:798
+msgid "Enable this option to show the Promo Bar once per browser session."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:805
+msgid "Website Copyrights"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:808
+msgid "Optional- Add Copyright notice to the footer of your site."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:814
+msgid "Footer Style"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:827
+msgid "Social Icons in Footer"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:840
+msgid "Footer Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:844
+msgid "Upload or choose a background image for the footer area."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:850
+#: includes/mh_customizer/customizer.php:864
+msgid "Align Footer Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:905
+msgid "Accent Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:913
+msgid "Main Font Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:921
+msgid "Heading Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:929
+msgid "Link Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:937
+msgid "Sidebar Heading Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:945
+msgid "Sidebar Heading Background Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:949
+#: includes/mh_customizer/customizer.php:1213
+msgid ""
+"This colour works with some of the Widget Header Styles. You could choose a "
+"style in \"Site Settings\"."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:954
+msgid "Sidebar Link Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:962
+msgid "Primary Navigation Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:970
+msgid "Primary Navigation Gradient"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:979
+msgid "Gradient Direction"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:992
+msgid "Primary Navigation Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1000
+msgid ""
+"If you choose light option it will override \"Menu Links Colour\" option "
+"below."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1005
+msgid "Menu Links Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1013
+msgid "Menu Icons Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1021
+msgid "Menu Link Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1029
+msgid "Active Menu Link Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1037
+msgid "Active Menu Link Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1046
+msgid "Menu Link Separator"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1058
+msgid "Menu Link Separator Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1066
+msgid "Sub Navigation Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1075
+msgid "Sub Navigation Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1087
+msgid "Secondary Navigation Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1096
+msgid "Secondary Navigation Separator"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1104
+msgid ""
+"Enable this option to display a separator line for the secondary navigation. "
+"Use the option below to choose your desired colour."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1109
+msgid "Secondary Navigation Separator Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1118
+msgid "Secondary Navigation Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1125
+msgid "Custom"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1131
+msgid "Secondary Navigation Custom Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1135
+msgid "This option works if you choose \"Custom\" in the option above."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1140
+msgid "App Menu Background"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1149
+msgid "App Menu Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1161
+#, fuzzy
+#| msgid "Footer Background Color"
+msgid "Promo Bar Background Colour"
+msgstr "Footer Background Colour"
+
+#: includes/mh_customizer/customizer.php:1169
+#, fuzzy
+#| msgid "Footer Text Color"
+msgid "Promo Bar Text Colour"
+msgstr "Footer Text Colour"
+
+#: includes/mh_customizer/customizer.php:1177
+#, fuzzy
+#| msgid "Primary Navigation Colors"
+msgid "Promo Bar Button Colour"
+msgstr "Primary Navigation Colorus"
+
+#: includes/mh_customizer/customizer.php:1185
+#, fuzzy
+#| msgid "Primary Navigation Text Color"
+msgid "Promo Bar Button Text Colour"
+msgstr "Primary Navigation Text Colour"
+
+#: includes/mh_customizer/customizer.php:1193
+msgid "Footer Background Colour (Widgets)"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1201
+msgid "Widgets Heading Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1209
+msgid "Widgets Heading Background Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1218
+msgid "Widgets Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1226
+msgid "Widgets Link Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1234
+msgid "Footer Background Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1242
+msgid "Footer Text Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1250
+msgid "Footer Link Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1259
+msgid "Footer Social Icons Colour"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1279
+msgid "Stretch Background Image"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1286
+msgid "Fix Transparent"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1290
+msgid ""
+"(Optional) This is a fix for trnasparent background when custom background "
+"images is used."
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1295
+#: includes/mh_panel/mh_options.php:190
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/mh_customizer/customizer.php:1298
+#: includes/mh_panel/mh_options.php:194
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:152
+msgid "No Image"
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:156
+msgid "Upload New"
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:157
+msgid "Uploaded"
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:239
+msgid "Remove Image"
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:277
+#, php-format
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:281
+msgid "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:284
+msgid "Select File"
+msgstr ""
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:637
+#: includes/mh_menu/wp-nav-custom-walker.php:351
+msgid "Remove"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:176
+msgid "Browse:"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:181
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:183
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:185
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:187
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:721
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:739
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:774 includes/mh_menu/breadcrumb.php:804
+#: includes/mh_menu/breadcrumb.php:832 includes/mh_menu/breadcrumb.php:860
+#: includes/mh_menu/breadcrumb.php:1051
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:775 includes/mh_menu/breadcrumb.php:833
+#: includes/mh_menu/breadcrumb.php:1055
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:776 includes/mh_menu/breadcrumb.php:1059
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:805
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1152 includes/mh_menu/breadcrumb.php:1184
+#: includes/mh_menu/breadcrumb.php:1199 includes/mh_menu/breadcrumb.php:1226
+msgid "Edit"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1176
+msgid "Split"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1180
+msgid "Merge"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1276
+msgid "Create an Account"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1278
+msgid "Activate your Account"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1282
+msgid "Create a Group"
+msgstr ""
+
+#: includes/mh_menu/breadcrumb.php:1286
+msgid "Create a Blog"
+msgstr ""
+
+#: includes/mh_menu/mega-menu.php:44
+msgid ""
+"Your server is running Suhosin, and your current maxvars settings may limit "
+"the number of menu items you can save."
+msgstr ""
+
+#: includes/mh_menu/mega-menu.php:52
+msgid ""
+"You are approaching the post variable limit imposed by your server "
+"configuration.  Exceeding this limit may automatically delete menu items "
+"when you save.  Please increase the value for the following directive in php."
+"ini: "
+msgstr ""
+
+#: includes/mh_menu/mega-menu.php:61
+msgid "Menu Item Limit Warning"
+msgstr ""
+
+#: includes/mh_menu/mega-menu.php:74
+msgid "Menu Item Post variable count on last save"
+msgstr ""
+
+#: includes/mh_menu/mega-menu.php:78
+msgid "Approximate remaining menu items"
+msgstr ""
+
+#: includes/mh_menu/mh_menu.php:75
+msgid "Select Page"
+msgstr ""
+
+#: includes/mh_menu/mh_menu.php:229
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/mh_menu/mh_menu.php:229
+msgid "Search for:"
+msgstr ""
+
+#: includes/mh_menu/mh_menu.php:328
+msgid "Type and Press &ldquo;Enter&rdquo;"
+msgstr ""
+
+#: includes/mh_menu/mh_menu_icons.php:21
+msgid "Mharty Theme Icons index"
+msgstr ""
+
+#: includes/mh_menu/mh_menu_icons.php:26
+msgid "Copy and paste the icon code in the specified field (Menu Item Icon)"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:194
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:198
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:222
+msgid "Move up"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:235
+msgid "Move down"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:237
+#: includes/mh_menu/wp-nav-custom-walker.php:239
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:248
+msgid "URL"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:255
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:261
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:268
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:273
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:279
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:285
+msgid "Description"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:287
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:292
+msgid "Menu Item Icon"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:295
+msgid "Click here"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:295
+msgid "to go to the icons index. (Paste the code for your desired icon here)."
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:308
+msgid "Mega Menu?"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:314
+msgid "Set Background Image"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:327
+msgid "Mega Menu Custom CSS"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:329
+msgid "Here you could add custom css styles for your Mega Menu e.g."
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:338
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/mh_menu/wp-nav-custom-walker.php:352
+msgid "Cancel"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:53 includes/mh_panel/mh_options.php:212
+#: includes/mh_panel/mh_options.php:861
+msgid "General"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:60
+msgid "Mharty Activation ID"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:65
+#, php-format
+msgid ""
+"Enter your ID here. You will find your ID in Your Profile section. <a href="
+"\"%1$s\" target=\"_blank\">Click here</a>"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:68
+msgid "Mharty Activation Email"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:73
+msgid "Enter your email. This should be the email registered at mharty.com"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:76
+msgid "Colour Scheme"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:81
+msgid "Define the default colour scheme for colour pickers for easy access."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:86
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:90
+msgid "This option will show a breadcrumb in your site."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:93
+msgid "Home Page Layout"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:98
+msgid ""
+"Here you can choose Home Page Layout. This option will only work if you have "
+"the default homepage on your site."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:101
+msgid "Archive Pages Layout"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:106
+msgid ""
+"Here you can choose Archive Pages Layout such as Categories, tags, search "
+"pages etc"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:109
+msgid "Archive Pages Style"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:114
+msgid "Grid"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:118
+msgid ""
+"Here you can choose Archive Pages Style such as Categories, tags, search "
+"pages etc"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:121
+msgid "Number of Posts displayed on Category page"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:125
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:129
+msgid "Number of Posts displayed on Archive pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:133
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:137
+msgid "Number of Posts displayed on Search pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:141
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:145
+msgid "Number of Posts displayed on Tag pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:149
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:153
+msgid "Date format"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:157 includes/mh_panel/mh_options.php:165
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href=\"http://codex."
+"wordpress.org/Formatting_Date_and_Time\" target=\"_blank\">Formatting Date "
+"and Time</a>"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:161
+msgid "Header Date format"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:169
+msgid "Blog Style Mode"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:173
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages, like a traditional blog, then you can activate this feature."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:176
+msgid "Use excerpts when defined"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:180
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:183
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:187
+msgid ""
+"Enable this option to to get a smooth scrolling effect with mouse wheel."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:216
+msgid "Post Layout"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:220
+msgid "Project Layout"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:232
+msgid "Show Archive Titles"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:236
+msgid ""
+"Enable this option to show Archive Pages title e.g category, tag, search "
+"results page."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:238
+msgid "Show Archive Description"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:242
+msgid "Enable this option to show Archive Pages description e.g category, tag."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:245
+msgid "Post info separator"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:249
+msgid ""
+"Here you can change which character separates your post info. Default value "
+"is |"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:253
+msgid "Pre post author"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:256
+msgid "By"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:257
+msgid "Here you can change the word before the post author. Default is 'By'."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:261
+msgid "Post info alt style"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:265
+msgid ""
+"This option will change the look for your post info to be in a stylish two-"
+"line format."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:267
+msgid "Choose which items to display in the postinfo section in archive pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:272
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is area is usually below the post title and displays basic information "
+"about your post. The highlighted items shown below will appear."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:276 includes/mh_panel/mh_options.php:330
+msgid "Post info position"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:280 includes/mh_panel/mh_options.php:334
+msgid "Above title and media"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:281
+msgid "Above title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:282 includes/mh_panel/mh_options.php:335
+msgid "Below title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:285 includes/mh_panel/mh_options.php:339
+msgid "Here you can choose where you want the post info block."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:289
+msgid "Show Thumbs on Index pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:293
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:300
+msgid "Here you can change the word 'Read more'."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:303
+msgid "Show Read More on Archive pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:307
+msgid "Enable this option to show Read More link on Archive Pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:309
+msgid "Read More Button Style"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:313
+msgid "Here you can define whether to display \"read more\" link as a button."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:322
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:326
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"pages. This is area is usually below the post title and displays basic "
+"information about your post. The highlighted items shown below will appear."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:336
+msgid "Below title and media"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:342
+msgid "Place Thumbs on Posts"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:346
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:349
+msgid "Grab the first post image"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:353
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:356
+msgid "Video Cover Style"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:360
+msgid ""
+"By default videos are placed at the beginning of your post on single post "
+"pages. If you would like to feature the video enable this option. This will "
+"work only on video post format."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:363
+msgid "Show related posts"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:367
+msgid ""
+"You can enable this option if you want to display the related posts section "
+"on single post."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:369
+msgid "Related posts title (if enabled)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:373
+msgid ""
+"If you have enabled related posts on your posts you can add your custom "
+"title here."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:378
+msgid "Show comments on posts"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:382
+msgid ""
+"You can disable this option if you want to remove the comment form and the "
+"comments from all single post pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:384
+msgid "Show post Navigation"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:388
+msgid "Enable this option If you want to display the post navigation."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:397
+msgid "Place Thumbs on Projects"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:401
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"project pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:404
+msgid "Show comments on projects"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:408
+msgid ""
+"You can disable this option if you want to remove the comment form and the "
+"comments from all single project pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:410
+msgid "Show project Navigation"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:414
+msgid "Enable this option If you want to display the project navigation."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:417
+msgid "Project Tags Title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:421
+msgid "Here you can change the title. Default value is: Skills"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:425
+msgid "Show related projects"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:429
+msgid ""
+"You can enable this option if you want to display the related projects "
+"section on single project."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:431
+msgid "Related projects title (if enabled)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:435
+msgid ""
+"If you have enabled related projetcs, you can add your custom title here."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:445
+msgid "Place Thumbs on Pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:449
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:452
+msgid "Show comments on pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:456
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:473
+msgid "Social Icons"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:477
+msgid "Quick Contact"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:486
+msgid "Facebook Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:490 includes/mh_panel/mh_options.php:497
+#: includes/mh_panel/mh_options.php:504 includes/mh_panel/mh_options.php:511
+#: includes/mh_panel/mh_options.php:518 includes/mh_panel/mh_options.php:525
+#: includes/mh_panel/mh_options.php:532 includes/mh_panel/mh_options.php:539
+#: includes/mh_panel/mh_options.php:546 includes/mh_panel/mh_options.php:553
+#: includes/mh_panel/mh_options.php:560 includes/mh_panel/mh_options.php:567
+#: includes/mh_panel/mh_options.php:574 includes/mh_panel/mh_options.php:581
+#: includes/mh_panel/mh_options.php:588 includes/mh_panel/mh_options.php:595
+#: includes/mh_panel/mh_options.php:602 includes/mh_panel/mh_options.php:609
+msgid ""
+"Here you can choose to display the Icon on your website. Add your URL in the "
+"field below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:493
+msgid "Twitter Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:500
+msgid "Instagram Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:507
+msgid "Google+ Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:514
+msgid "YouTube Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:521
+msgid "LinkedIn Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:528
+msgid "Behance Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:535
+msgid "Dribbble Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:542
+msgid "Flickr Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:549
+msgid "SoundCloud Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:556
+msgid "Skype Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:563
+msgid "Telegram Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:570
+msgid "Mixlr Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:577
+msgid "Periscope Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:584
+msgid "YouNow Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:591
+msgid "Snapchat Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:598
+msgid "TripAdvisor Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:605
+msgid "Pinterest Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:612
+msgid "RSS Icon"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:616
+msgid "Here you can choose to display the Icon on your website."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:624
+msgid "Enter the URL of your Facebook Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:632
+msgid "Enter the URL of your Twitter Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:635
+msgid "instagram URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:640
+msgid "Enter the URL of your instagram Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:648
+msgid "Enter the URL of your Google+ Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:656
+msgid "Enter the URL of your YouTube Channel."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:664
+msgid "Enter the URL of your LinkedIn Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:672
+msgid "Enter the URL of your Behance Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:680
+msgid "Enter the URL of your Dribbble Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:688
+msgid "Enter the URL of your Flickr Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:691
+msgid "SoundCloud URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:696
+msgid "Enter the URL of your SoundCloud Profile."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:699
+msgid "Skype Username"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:704
+msgid "Enter the URL of your Skype Username."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:707
+msgid "Telegram URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:712
+msgid "Enter the URL of your Telegram Broadcast."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:715
+msgid "Mixlr URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:720 includes/mh_panel/mh_options.php:728
+#: includes/mh_panel/mh_options.php:736 includes/mh_panel/mh_options.php:744
+#: includes/mh_panel/mh_options.php:752 includes/mh_panel/mh_options.php:760
+msgid "Enter the URL of your Account."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:723
+msgid "Periscope URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:731
+msgid "YouNow URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:747
+msgid "TripAdvisor URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:763
+msgid "RSS Url"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:768
+msgid "Enter the URL of your RSS feed."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:777
+msgid "This feature requires MH Page Composer plugin. Please activate it now."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:780
+msgid "Show Quick Contact Form"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:784
+msgid "Here you can choose to display the Quick contact form on your website."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:786
+msgid "Enable Captcha"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:790
+msgid "You can enable captcha for your contact form."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:794
+msgid "Quick Contact Form Email"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:798
+msgid "Put the email to which messages will be sent."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:801
+msgid "Quick Contact Form Title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:805
+msgid ""
+"You could use this field to display a title for your quick contact form."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:808
+msgid "Quick Contact Form Excerpt"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:812
+msgid ""
+"You could use this field to display an excerpt for your quick contact form."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:815
+msgid "Quick Contact Form Success Message"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:819
+msgid ""
+"Define a message to display after successful form submission. Leave empty to "
+"use the default message."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:822
+msgid "Quick Contact Form Use Redirect"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:826
+msgid "Redirect visitors after successful form submission."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:828
+msgid "Quick Contact Form Redirect URL"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:832
+msgid ""
+"Input the Redirect URL here, This will redirect visitors after successful "
+"form submission."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:851
+msgid "Pages"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:856 includes/mh_panel/mh_panel.php:506
+msgid "Categories"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:869 includes/mh_panel/mh_options.php:920
+msgid "Show dropdown menus"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:873
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:876
+msgid "Display Home link"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:880
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:883
+msgid "Sort Pages Links"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:887
+msgid "Here you can choose to sort your pages links."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:890
+msgid "Order Pages Links by Ascending/Descending"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:894
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:897 includes/mh_panel/mh_options.php:934
+msgid "Number of dropdown tiers shown"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:901 includes/mh_panel/mh_options.php:938
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:905
+msgid "Exclude pages from the navigation bar"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:909
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:924
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:927
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:931
+msgid ""
+"If you would like categories to be displayed in your navigation bar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:942
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:946
+msgid ""
+"By default pages are sorted by name. However, if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:949
+msgid "Order Category Links by Ascending/Descending"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:953
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:955
+msgid "Exclude categories from the navigation bar"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:959
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:970
+msgid "Disable top tier dropdown menu links"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:974
+msgid ""
+"Sometimes users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:994
+msgid "Homepage SEO"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:999
+msgid "Single Post Page SEO"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1004
+msgid "Index Page SEO"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1012
+msgid " Enable custom title "
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1016
+msgid ""
+"By default the theme creates your homepage titles using a combination of "
+"your blog name and your blog description, as defined when you created your "
+"blog. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1019
+msgid " Enable meta description"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1023
+msgid ""
+"By default the theme fills in the meta description field using your blog "
+"description, as defined when you created your blog. If you would like to use "
+"a different description then enable this option and fill in the custom "
+"description field below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1026
+msgid " Enable meta keywords"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1030
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site any more, but some people "
+"define them anyway just in case. If you want to add meta keywords to your "
+"header then enable this option and fill in the custom keywords field below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1035
+msgid "Homepage custom title (if enabled)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1039
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1043
+msgid "Homepage meta description (if enabled)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1047
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1051
+msgid "Homepage meta keywords (if enabled)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1055
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by commas. For example: wordpress,themes,"
+"templates"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1059 includes/mh_panel/mh_options.php:1138
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1064 includes/mh_panel/mh_options.php:1143
+msgid ""
+"If you are not using custom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1067 includes/mh_panel/mh_options.php:1146
+#: includes/mh_panel/mh_options.php:1185
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1071 includes/mh_panel/mh_options.php:1150
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1074 includes/mh_panel/mh_options.php:1192
+msgid " Enable canonical URL's"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1078 includes/mh_panel/mh_options.php:1157
+#: includes/mh_panel/mh_options.php:1196
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URL's all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs on your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1089
+msgid "Enable custom titles"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1093
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1096
+msgid "Enable custom description"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1100
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"on the custom field name you define below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1105
+msgid "Enable custom keywords"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1109
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based on the "
+"custom field name you define below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1114
+msgid "Custom field Name to be used for title"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1118
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1122
+msgid "Custom field Name to be used for description"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1126
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1130
+msgid "Custom field Name to be used for keywords"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1134
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by commas."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1153
+msgid "Enable canonical URL's"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1168
+msgid "Enable meta descriptions"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1172
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1177
+msgid "Choose title autogeneration method"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1182
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1189
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1216
+msgid "Advanced Options"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1224
+msgid "Google API Key"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1229
+#, php-format
+msgid ""
+"The Maps component uses the Google Maps API and requires a valid Google API "
+"Key to work. Before using the map component, please make sure you input your "
+"API key in the field. Learn more about how to create your Google API Key <a "
+"target=\"_blank\" href=\"%1$s\">here</a>."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1233
+msgid "MailChimp API Key"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1238
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1240
+msgid "Regenerate MailChimp Lists"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1244
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the SignUp module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1247
+msgid "Google Fonts subsets"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1251
+msgid ""
+"For Non-Arabic websites only. This will enable Google Fonts languages like "
+"Latin and Cyrillic."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1255
+msgid "Code inside < head >"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1259
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1262
+msgid "Code inside body < body >"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1266
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1271
+msgid "Code inside single post (top)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1275
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1278
+msgid "Code inside single post (bottom)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1282
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1287
+msgid "Add code to the < head > of your blog"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1291
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1294
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1298
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1301
+msgid "Add code to the top of your posts"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1305
+msgid "Any code you place here will be placed at the top of all single posts."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1308
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1312
+msgid ""
+"Any code you place here will be placed at the bottom of all single posts."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1315
+msgid "Show Footer Notice"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1319
+msgid ""
+"Disabling this option will hide the footer copyright notice. Important note: "
+"to get support for your site you must leave this notice visible."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1339
+msgid "Manage non-widget advertisements"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1347
+msgid "Enable Single Post 468x60 banner"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1351
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1354
+msgid "Input 468x60 advertisement banner image"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1358
+msgid "Here you can provide 468x60 banner image url"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1362
+msgid "Input 468x60 advertisement destination url"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1366
+msgid "Here you can provide 468x60 banner destination url"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1370
+msgid "Input 468x60 Ad code"
+msgstr ""
+
+#: includes/mh_panel/mh_options.php:1374
+msgid "Place your Ad Javascript code here."
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:28
+msgid "Select"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:29
+#, fuzzy
+#| msgid "Accent Color"
+msgid "Current Colour"
+msgstr "Accent Colour"
+
+#: includes/mh_panel/mh_panel.php:99 includes/mh_panel/mh_panel.php:107
+#: includes/mh_panel/mh_panel.php:157
+msgid "Theme Panel"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:108
+msgid "Theme Customizer"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:109
+msgid "Mharty Theme Icons"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:136
+msgid "Mharty settings saved."
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:139
+msgid "Mharty settings reset."
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:148 includes/mh_panel/mh_panel.php:453
+msgid "Save Changes"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:166
+msgid "General Settings"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:169
+msgid "Layouts"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:172
+msgid "Social"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:175
+msgid "Navigation"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:178
+msgid "Ads"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:181
+msgid "SEO"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:184
+msgid "Advanced"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:273
+msgid "You don't have pages"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:462
+msgid "Reset Theme Panel Options"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:468
+msgid "Yes"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:471
+msgid "No"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:486
+msgid "Enabled"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:488
+msgid "Disabled"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:495
+msgid "Avatar"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:498
+msgid "Author"
+msgstr ""
+
+#: includes/mh_panel/mh_panel.php:502
+msgid "Date"
+msgstr ""
+
+#: includes/mharty-updater.php:305
+msgid "Executing upgrader_source_selection filter function..."
+msgstr ""
+
+#: includes/mharty-updater.php:315
+msgid "Renamed theme folder successfully."
+msgstr ""
+
+#: includes/mharty-updater.php:320
+msgid "**Unable to rename downloaded theme."
+msgstr ""
+
+#: includes/mharty-updater.php:326
+msgid "**Source or Remote Source is unavailable."
+msgstr ""
+
+#: includes/mharty-updater.php:347
+msgid " Theme Updates"
+msgstr ""
+
+#: includes/mharty-updater.php:385
+msgid "Username: "
+msgstr ""
+
+#: includes/mharty-updater.php:389
+msgid "Email: "
+msgstr ""
+
+#: includes/mharty-updater.php:395
+msgid "Key: "
+msgstr ""
+
+#: includes/mharty-updater.php:400
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: includes/mharty-updater.php:404
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:405
+msgid "Edit Key"
+msgstr ""
+
+#: includes/mharty-updater.php:409
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:410
+msgid "Try again"
+msgstr ""
+
+#: includes/mharty-updater.php:415
+msgid "Add Key"
+msgstr ""
+
+#: includes/mharty-updater.php:501
+msgid "User name"
+msgstr ""
+
+#: includes/mharty-updater.php:516
+msgid "Activation Key"
+msgstr ""
+
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+
+#: includes/widgets/widget-about.php:4
+msgid "About Me with an image."
+msgstr ""
+
+#: includes/widgets/widget-about.php:6
+msgid "MH About Me Widget"
+msgstr ""
+
+#: includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr ""
+
+#: includes/widgets/widget-about.php:48 includes/widgets/widget-ads.php:172
+#: includes/widgets/widget-foursixeight.php:46
+#: includes/widgets/widget-info.php:84
+#: includes/widgets/widget-latest-comments.php:60
+#: includes/widgets/widget-latest-posts.php:144
+#: includes/widgets/widget-popular-posts.php:141
+#: includes/widgets/widget-reviews-posts.php:157
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-about.php:50
+msgid "Image: "
+msgstr ""
+
+#: includes/widgets/widget-about.php:52
+#: includes/widgets/widget-custom-logo.php:44
+msgid "Text: "
+msgstr ""
+
+#: includes/widgets/widget-ads.php:4
+msgid "8 Optional Advertisement banners"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:6
+msgid "MH Advertisement"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:180
+msgid "If you don't want to display some banners, leave its fields empty."
+msgstr ""
+
+#: includes/widgets/widget-ads.php:182 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:198 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:214 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:230 includes/widgets/widget-ads.php:238
+msgid "Banner Image:"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:192
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:208
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:224
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:240
+msgid "Banner Url:"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:186 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:202 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:218 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:234 includes/widgets/widget-ads.php:242
+msgid "Banner Title:"
+msgstr ""
+
+#: includes/widgets/widget-ads.php:188 includes/widgets/widget-ads.php:196
+#: includes/widgets/widget-ads.php:204 includes/widgets/widget-ads.php:212
+#: includes/widgets/widget-ads.php:220 includes/widgets/widget-ads.php:228
+#: includes/widgets/widget-ads.php:236 includes/widgets/widget-ads.php:244
+msgid "Banner Alt:"
+msgstr ""
+
+#: includes/widgets/widget-custom-logo.php:4
+msgid "Logo or an image with text."
+msgstr ""
+
+#: includes/widgets/widget-custom-logo.php:6
+msgid "MH Custom Logo Widget"
+msgstr ""
+
+#: includes/widgets/widget-custom-logo.php:42
+msgid "Logo Image URL: "
+msgstr ""
+
+#: includes/widgets/widget-foursixeight.php:4
+msgid "Displays 468 Ads"
+msgstr ""
+
+#: includes/widgets/widget-foursixeight.php:6
+msgid "MH 468 Ad Widget"
+msgstr ""
+
+#: includes/widgets/widget-foursixeight.php:40
+msgid "Ad"
+msgstr ""
+
+#: includes/widgets/widget-foursixeight.php:48
+msgid "Ad Code:"
+msgstr ""
+
+#: includes/widgets/widget-info.php:4
+msgid "Displays email, phone and location."
+msgstr ""
+
+#: includes/widgets/widget-info.php:6
+msgid "MH Info"
+msgstr ""
+
+#: includes/widgets/widget-info.php:72
+msgid "Info"
+msgstr ""
+
+#: includes/widgets/widget-info.php:88
+msgid "Show icons"
+msgstr ""
+
+#: includes/widgets/widget-info.php:91
+msgid "If you don't want to display some info, leave its fields empty."
+msgstr ""
+
+#: includes/widgets/widget-info.php:93
+msgid "Email #1"
+msgstr ""
+
+#: includes/widgets/widget-info.php:95
+msgid "Email #2"
+msgstr ""
+
+#: includes/widgets/widget-info.php:97
+msgid "Phone #1"
+msgstr ""
+
+#: includes/widgets/widget-info.php:99
+msgid "Phone #2"
+msgstr ""
+
+#: includes/widgets/widget-info.php:101
+msgid "Location"
+msgstr ""
+
+#: includes/widgets/widget-latest-comments.php:4
+msgid "The most recent comments."
+msgstr ""
+
+#: includes/widgets/widget-latest-comments.php:6
+msgid "MH Latest Comments"
+msgstr ""
+
+#: includes/widgets/widget-latest-comments.php:65
+msgid "Number of comments:"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:5
+msgid "Displays most recent posts with thumbnails."
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:7
+msgid "MH Latest Posts."
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:147
+#: includes/widgets/widget-popular-posts.php:144
+#: includes/widgets/widget-reviews-posts.php:160
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:153
+#: includes/widgets/widget-popular-posts.php:150
+#: includes/widgets/widget-reviews-posts.php:166
+msgid "Which Categories to show?"
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:4
+msgid "Displays popular posts.."
+msgstr ""
+
+#: includes/widgets/widget-popular-posts.php:6
+msgid "MH Popular Posts."
+msgstr ""
+
+#: includes/widgets/widget-reviews-posts.php:4
+msgid "Displays reviews."
+msgstr ""
+
+#: includes/widgets/widget-reviews-posts.php:6
+msgid "MH Reviews Posts"
+msgstr ""
+
+#: includes/widgets/widget-reviews-posts.php:164
+msgid "Order by Score"
+msgstr ""
+
+#: includes/widgets/widget-social-follow.php:4
+msgid "Displays links to your social websites."
+msgstr ""
+
+#: includes/widgets/widget-social-follow.php:6
+msgid "MH Social Follow"
+msgstr ""
+
+#: includes/widgets/widget-social-follow.php:47
+msgid "Follow Us"
+msgstr ""
+
+#: includes/widgets/widget-social-follow.php:60
+msgid "Default Colours"
+msgstr ""
+
+#: includes/widgets/widget-social-follow.php:62
+msgid "Solid Colour"
+msgstr ""
+
+#: page-template-blank.php:37 page-template-noheader.php:37
+#: page-template-trans.php:37 page.php:33 single-project.php:51 single.php:141
+msgid "Pages:"
+msgstr ""
+
+#: page-template-trans.php:5
+msgid "Transparent Header"
+msgstr ""
+
+#: single-project.php:27
+msgctxt "This is a comma followed by a space."
+msgid ", "
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Flexibel & versatile theme with dedicated support for RTL, works beautifully "
+"with MH Page Composer."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "mharty.com"
+msgstr ""
+
+#~ msgid ""
+#~ "Please, check the fields below to make sure you entered the correct "
+#~ "information."
+#~ msgstr ""
+#~ "Please check the fields below to make sure you entered the correct "
+#~ "information."
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Nothing found in Bin"
+
+#~ msgid "Menu Color"
+#~ msgstr "Menu Colour"
+
+#~ msgid "Text Color"
+#~ msgstr "Text Colour"
+
+#~ msgid "Get How to do tutorials, and more via your account at "
+#~ msgstr "Get How-to tutorials and more via your account at "
+
+#~ msgid ""
+#~ "Usually a more compact version of your logo e.g. icon only. Do no forget "
+#~ "to enable it from the option above."
+#~ msgstr ""
+#~ "Usually a more compact version of your logo e.g. icon only. Do no forget "
+#~ "to enable it using the option above."
+
+#~ msgid ""
+#~ "If you would like to use your own custom favicon image click the Upload "
+#~ "button. 32x32 Pixel."
+#~ msgstr ""
+#~ "If you would like to use your own custom favicon image click the Upload "
+#~ "button. 32x32 pixels."
+
+#~ msgid "Fullwidth"
+#~ msgstr "Full-width"
+
+#~ msgid "Main Font Color"
+#~ msgstr "Main Font Colour"
+
+#~ msgid "Link Color"
+#~ msgstr "Link Colour"
+
+#~ msgid "Menu Links Color"
+#~ msgstr "Menu Links Colour"
+
+#~ msgid "Menu Link Separator Color"
+#~ msgstr "Menu Link Separator Colour"
+
+#~ msgid "This color is the gradient color."
+#~ msgstr "This colour is the gradient colour."
+
+#~ msgid "Secondary Navigation Colors"
+#~ msgstr "Secondary Navigation Colours"
+
+#~ msgid "Secondary Navigation Border Color"
+#~ msgstr "Secondary Navigation Border Colour"
+
+#~ msgid "Secondary Navigation Text Color"
+#~ msgstr "Secondary Navigation Text Colour"
+
+#~ msgid "Footer link Color"
+#~ msgstr "Footer Link Colour"
+
+#~ msgid ""
+#~ "Here you can choose Home Page Layout. this option will only work if you "
+#~ "have the default homepage on your site."
+#~ msgstr ""
+#~ "Here you can choose Home Page Layout. This option will only work if you "
+#~ "have the default homepage on your site."
+
+# this option
+# or
+# these options
+#~ msgid ""
+#~ "In some cases users will want to create parent categories or links as "
+#~ "placeholders to hold a list of child links or categories. In this case it "
+#~ "is not desirable to have the parent links lead anywhere, but instead "
+#~ "merely serve an organizational function. Enabling this options will "
+#~ "remove the links from all parent pages/categories so that they don't lead "
+#~ "anywhere when clicked."
+#~ msgstr ""
+#~ "Sometimes users will want to create parent categories or links as "
+#~ "placeholders to hold a list of child links or categories. In this case it "
+#~ "is not desirable to have the parent links lead anywhere, but instead "
+#~ "merely serve an organizational function. Enabling this options will "
+#~ "remove the links from all parent pages/categories so that they don't lead "
+#~ "anywhere when clicked."
+
+#~ msgid ""
+#~ "This option will change the look for your post info to be in a stylish "
+#~ "two line."
+#~ msgstr ""
+#~ "This option will change the look for your post info to be in a stylish "
+#~ "two-line format."
+
+#~ msgid ""
+#~ "Here you can choose which items appear in the postinfo section on pages. "
+#~ "This is the area, usually below the post title, which displays basic "
+#~ "information about your post. The highlighted itmes shown below will "
+#~ "appear. "
+#~ msgstr ""
+#~ "Here you can choose which items appear in the postinfo section on pages. "
+#~ "This is area is usually below the post title and displays basic "
+#~ "information about your post. The highlighted items shown below will "
+#~ "appear. "
+
+#~ msgid ""
+#~ "Here you can choose which items appear in the postinfo section on single "
+#~ "post pages. This is the area, usually below the post title, which "
+#~ "displays basic information about your post. The highlighted itmes shown "
+#~ "below will appear. "
+#~ msgstr ""
+#~ "Here you can choose which items appear in the postinfo section on single "
+#~ "pages. This is area is usually below the post title and displays basic "
+#~ "information about your post. The highlighted items shown below will "
+#~ "appear. "
+
+#~ msgid ""
+#~ "You can disable this option if you want to remove the comments and "
+#~ "comment form from single post pages. "
+#~ msgstr ""
+#~ "You can disable this option if you want to remove the comment form and "
+#~ "the comments from all single post pages. "
+
+#~ msgid ""
+#~ "You can disable this option if you want to remove the comments and "
+#~ "comment form from single project pages. "
+#~ msgstr ""
+#~ "You can disable this option if you want to remove the comment form and "
+#~ "the comments from all single project pages. "
+
+#~ msgid ""
+#~ "If you have enabled meta keywords you can add your custom keywords here. "
+#~ "Keywords should be separated by comas. For example: wordpress,themes,"
+#~ "templates,mharty"
+#~ msgstr ""
+#~ "If you have enabled meta keywords you can add your custom keywords here. "
+#~ "Keywords should be separated by commas. For example: wordpress,themes,"
+#~ "templates,mharty"
+
+#~ msgid ""
+#~ "If you are not using cutsom post titles you can still have control over "
+#~ "how your titles are generated. Here you can choose which order you would "
+#~ "like your post title and blog name to be displayed, or you can remove the "
+#~ "blog name from the title completely."
+#~ msgstr ""
+#~ "If you are not using custom post titles you can still have control over "
+#~ "how your titles are generated. Here you can choose which order you would "
+#~ "like your post title and blog name to be displayed, or you can remove the "
+#~ "blog name from the title completely."
+
+# again, “based on” in the last sentence
+#~ msgid ""
+#~ "If you would like to add a meta description to your post you can do so "
+#~ "using custom fields. This option must be enabled for descriptions to be "
+#~ "displayed on post pages. You can add your meta description using custom "
+#~ "fields based off the custom field name you define below."
+#~ msgstr ""
+#~ "If you would like to add a meta description to your post you can do so "
+#~ "using custom fields. This option must be enabled for descriptions to be "
+#~ "displayed on post pages. You can add your meta description using custom "
+#~ "fields based on the custom field name you define below."
+
+# again, “based on” in the last sentence
+#~ msgid ""
+#~ "If you would like to add meta keywords to your post you can do so using "
+#~ "custom fields. This option must be enabled for keywords to be displayed "
+#~ "on post pages. You can add your meta keywords using custom fields based "
+#~ "off the custom field name you define below."
+#~ msgstr ""
+#~ "If you would like to add meta keywords to your post you can do so using "
+#~ "custom fields. This option must be enabled for keywords to be displayed "
+#~ "on post pages. You can add your meta keywords using custom fields based "
+#~ "on the custom field name you define below."
+
+# I corrected “coma” to “comma” but might have missed other instances :(
+# “comma” is correct
+#~ msgid ""
+#~ "When you define your keywords using custom fields you should use this "
+#~ "value for the custom field Name. The Value of your custom field should be "
+#~ "the meta keywords you would like to use, separated by comas."
+#~ msgstr ""
+#~ "When you define your keywords using custom fields you should use this "
+#~ "value for the custom field Name. The Value of your custom field should be "
+#~ "the meta keywords you would like to use, separated by commas."
+
+#~ msgid ""
+#~ "If you are not using cutsom post titles you can still have control over "
+#~ "hw your titles are generated. Here you can choose which order you would "
+#~ "like your post title and blog name to be displayed, or you can remove the "
+#~ "blog name from the title completely."
+#~ msgstr ""
+#~ "If you are not using custom post titles you can still have control over "
+#~ "how your titles are generated. Here you can choose which order you would "
+#~ "like your post title and blog name to be displayed, or you can remove the "
+#~ "blog name from the title completely."
+
+#~ msgid "Manage Un-widgetized Advertisements"
+#~ msgstr "Manage non-widget advertisements"
+
+#~ msgid ""
+#~ "Enable this option to display another version if your logo to appear when "
+#~ "the Fixed Navigation Bar is active. use the field below to upload it."
+#~ msgstr ""
+#~ "Enable this option to display alternative version of your logo when the "
+#~ "Fixed Navigation Bar is active. Use the field below to upload it."
+
+#~ msgid "Footer Background Color (Widgets)"
+#~ msgstr "Footer Background Colour (Widgets)"
+
+#~ msgid ""
+#~ "Change this in case you wanted to adjust the menu text color to be more "
+#~ "visiable."
+#~ msgstr ""
+#~ "Change this if you want to adjust the menu text colour to be more visible."
+
+#~ msgid "Change this in case you wanted to adjust the background color."
+#~ msgstr "Change this if you want to adjust the background colour."
+
+#~ msgid "Bckground Color"
+#~ msgstr "Background Colour"
+
+#~ msgid "Use Background Color"
+#~ msgstr "Use Background Colour"
+
+#~ msgid "Background Color"
+#~ msgstr "Background Colour"
+
+#~ msgid "Choose between fullwidth or boxed."
+#~ msgstr "Choose between full-width or boxed."
+
+#~ msgid ""
+#~ "By default the logo height is around 40 pixels you could input your value "
+#~ "here, smaller or bigger! Please use numbers only."
+#~ msgstr ""
+#~ "By default the logo height is around 40 pixels, but you can input your "
+#~ "value here. Please use numbers only."
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Active Menu Link Color"
+#~ msgstr "Active Menu Link Colour"
+
+#~ msgid ""
+#~ "Enable this option to display a border line under the Secondary "
+#~ "Navigation. Use the option below to choose your desired color."
+#~ msgstr ""
+#~ "Enable this option to display a border line under the Secondary "
+#~ "Navigation. Use the option below to choose your desired colour."
+
+#~ msgid "App Menu Colors"
+#~ msgstr "App Menu Colours"
+
+#~ msgid "App Menu Text Color"
+#~ msgstr "App Menu Text Colour"
+
+#~ msgid ""
+#~ "By default the theme truncates your posts on index/homepages "
+#~ "automatically to create post previews. If you would rather show your "
+#~ "posts in full on index pages like a traditional blog then you can "
+#~ "activate this feature."
+#~ msgstr ""
+#~ "By default the theme truncates your posts on index/homepages "
+#~ "automatically to create post previews. If you would rather show your "
+#~ "posts in full on index pages, like a traditional blog, then you can "
+#~ "activate this feature."
+
+#~ msgid ""
+#~ "By default pages are sorted by name. However if you would rather have "
+#~ "them sorted by ID you can adjust this setting."
+#~ msgstr ""
+#~ "By default pages are sorted by name. However, if you would rather have "
+#~ "them sorted by ID you can adjust this setting."
+
+#~ msgid ""
+#~ "By default the theme uses a combination of your blog name and your blog "
+#~ "description, as defined when you created your blog, to create your "
+#~ "homepage titles. However if you want to create a custom title then simply "
+#~ "enable this option and fill in the custom title field below. "
+#~ msgstr ""
+#~ "By default the theme creates your homepage titles using a combination of "
+#~ "your blog name and your blog description, as defined when you created "
+#~ "your blog. However if you want to create a custom title then simply "
+#~ "enable this option and fill in the custom title field below. "
+
+#~ msgid ""
+#~ "By default the theme uses your blog description, as defined when you "
+#~ "created your blog, to fill in the meta description field. If you would "
+#~ "like to use a different description then enable this option and fill in "
+#~ "the custom description field below. "
+#~ msgstr ""
+#~ "By default the theme fills in the meta description field using your blog "
+#~ "description, as defined when you created your blog. If you would like to "
+#~ "use a different description then enable this option and fill in the "
+#~ "custom description field below. "
+
+#~ msgid ""
+#~ "By default the theme does not add keywords to your header. Most search "
+#~ "engines don't use keywords to rank your site anymore, but some people "
+#~ "define them anyway just in case. If you want to add meta keywords to your "
+#~ "header then enable this option and fill in the custom keywords field "
+#~ "below. "
+#~ msgstr ""
+#~ "By default the theme does not add keywords to your header. Most search "
+#~ "engines don't use keywords to rank your site any more, but some people "
+#~ "define them anyway just in case. If you want to add meta keywords to your "
+#~ "header then enable this option and fill in the custom keywords field "
+#~ "below. "
+
+# I corrected “off” to “on” in the last sentence, but not sure if that’s what you meant?
+#~ msgid ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content "
+#~ "penalties and pagerank degradation. Some pages may have different URL's "
+#~ "all leading to the same place. For example domain.com, domain.com/index."
+#~ "html, and www.domain.com are all different URLs leading to your homepage. "
+#~ "From a search engine's perspective these duplicate URLs, which also occur "
+#~ "often due to custom permalinks, may be treated individually instead of as "
+#~ "a single destination. Defining a canonical URL tells the search engine "
+#~ "which URL you would like to use officially. The theme bases its canonical "
+#~ "URLs off your permalinks and the domain name defined in the settings tab "
+#~ "of wp-admin."
+#~ msgstr ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content "
+#~ "penalties and pagerank degradation. Some pages may have different URL's "
+#~ "all leading to the same place. For example domain.com, domain.com/index."
+#~ "html, and www.domain.com are all different URLs leading to your homepage. "
+#~ "From a search engine's perspective these duplicate URLs, which also occur "
+#~ "often due to custom permalinks, may be treated individually instead of as "
+#~ "a single destination. Defining a canonical URL tells the search engine "
+#~ "which URL you would like to use officially. The theme bases its canonical "
+#~ "URLs on your permalinks and the domain name defined in the settings tab "
+#~ "of wp-admin."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the top of all single posts. "
+#~ "This is useful if you are looking to integrating things such as social "
+#~ "bookmarking links."
+#~ msgstr ""
+#~ "Any code you place here will be placed at the top of all single posts. "
+#~ "This is useful if you are looking to integrate things such as social "
+#~ "bookmarking links."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the bottom of all single posts. "
+#~ "This is useful if you are looking to integrating things such as social "
+#~ "bookmarking links."
+#~ msgstr ""
+#~ "Any code you place here will be placed at the bottom of all single posts. "
+#~ "This is useful if you are looking to integrate things such as social "
+#~ "bookmarking links."

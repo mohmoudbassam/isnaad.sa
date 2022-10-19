@@ -1,0 +1,4630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty\n"
+"POT-Creation-Date: 2018-05-06 19:57+0100\n"
+"PO-Revision-Date: 2018-05-06 19:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: bbpress\n"
+
+#: app/admin/includes/assets.php:17
+msgid "Ok, thanks!"
+msgstr "نعم، شكراً"
+
+#: app/admin/includes/class-impoexpo.php:171
+msgid "The export process failed. Please refresh the page and try again."
+msgstr "فشلت عملية التصدير. يرجى تحديث الصفحة والمحاولة مرة أخرى."
+
+#: app/admin/includes/class-impoexpo.php:797
+msgid ""
+"The browser version you are currently using is outdated. Please update to the "
+"latest version."
+msgstr "أنت تستخدم متصفح منتهي الصلاحية، يرجى تحديث المستعرض إلى الإصدار الأحدث."
+
+#: app/admin/includes/class-impoexpo.php:798
+msgid ""
+"You reached your server memory limit. Please try increasing your PHP memory "
+"limit."
+msgstr ""
+"لقد بلغت حد الذاكرة المتاحة على سيرفرك. الرجاء محاولة رفع الذاكرة الخاصة "
+"بسيرفرك (PHP memory limit) ‪-‬ أو تواصل مع شركة الاستضافة الخاصة بك."
+
+#: app/admin/includes/class-impoexpo.php:799
+msgid ""
+"This file cannot be imported. It may be caused by file_uploads being disabled "
+"in your php.ini. It may also be caused by post_max_size or/and "
+"upload_max_filesize being smaller than file selected. Please contact your "
+"website hosting company."
+msgstr ""
+"لا يمكن استيراد هذا الملف. قد يكون السبب أنه تم تعطيل  file_uploads في php.ini "
+"الخاص بك. ويمكن أيضاً أن يكون السبب أنه تم وضع حد لحجم الملفات في post_max_size "
+"أو/و upload_max_filesize - نرجو التواصل مع شركة الاستضافة الخاصة بك."
+
+#: app/admin/includes/class-impoexpo.php:800
+msgid "Invalid File format. You should be uploading a JSON file."
+msgstr "صيغة الملف غير صحيحة. الملف يجب أن يكون بالامتداد ‪.‬json"
+
+#: app/admin/includes/class-impoexpo.php:801
+msgid "This file should not be imported in this context."
+msgstr "هذا الملف لا يمكن استيراده بهذه الامتداد."
+
+#: app/admin/includes/class-impoexpo.php:802
+#, php-format
+msgid "Import estimated time remaining: %smin"
+msgstr "الوقت المتبقي لاكتمال الاستيراد: %s دقيقة"
+
+#: app/admin/includes/class-impoexpo.php:803
+#, php-format
+msgid "Export estimated time remaining: %smin"
+msgstr "الوقت المتبقي لاكتمال التصدير: %s دقيقة"
+
+#: app/admin/includes/class-impoexpo.php:804
+#, php-format
+msgid "Backup estimated time remaining: %smin"
+msgstr "الوقت المتبقي لاكتمال النسخ الاحتياطي: %s دقيقة"
+
+#: app/admin/includes/class-impoexpo.php:824
+msgid "Import/Export"
+msgstr "استيراد/تصدير"
+
+#: app/admin/includes/class-impoexpo.php:828
+msgid "Import"
+msgstr "استيراد"
+
+#: app/admin/includes/class-impoexpo.php:829
+msgid "Export"
+msgstr "تصدير"
+
+#: app/admin/includes/class-impoexpo.php:834
+#, php-format
+msgid "Importing %s file will overwrite all content currently on this page."
+msgstr "استيراد ملف %s سوف يستبدل كل المحتويات الحالية في هذه الصفحة."
+
+#: app/admin/includes/class-impoexpo.php:836
+msgid "Select Mharty - Page Composer Layouts file to begin the import process:"
+msgstr "اختر ملف تنسيقات قالب مهارتي لتبدأ عملية الاستيراد‪:‬"
+
+#: app/admin/includes/class-impoexpo.php:838
+#, php-format
+msgid ""
+"Importing %s file will overwrite all current data. Please proceed with caution!"
+msgstr "استيراد ملف %s سوف يستبدل كل المحتويات الحالية. يرجى المتابعة بحذر."
+
+#: app/admin/includes/class-impoexpo.php:842
+msgid "No File Selected"
+msgstr "لم يتم تحديد ملف"
+
+#: app/admin/includes/class-impoexpo.php:843
+msgid "Choose File"
+msgstr "اختر ملف"
+
+#: app/admin/includes/class-impoexpo.php:847
+msgid "Recommended: Export a backup of your settings."
+msgstr "يستحسن: تصدير نسخة احتياطية للإعدادات الخاصة بك."
+
+#: app/admin/includes/class-impoexpo.php:850
+msgid ""
+"Note: Large files or files contain large images may take several minutes to "
+"upload."
+msgstr ""
+"ملاحظة: رفع الملفات كبيرة الحجم أو الملفات التي تحوي صور كبيرة قد يأخذ وقتاً "
+"أطول."
+
+#: app/admin/includes/class-impoexpo.php:853
+#, php-format
+msgid "Import %s"
+msgstr "استيراد %s"
+
+#: app/admin/includes/class-impoexpo.php:854
+msgid "Cancel Import"
+msgstr "إلغاء الاستيراد"
+
+#: app/admin/includes/class-impoexpo.php:858
+#, php-format
+msgid ""
+"Exporting your %s will create a JSON file that can be imported later, or into "
+"a different website uses Mharty Theme."
+msgstr ""
+"تصدير %s سيقوم بإنشاء ملف بامتداد json لتتمكن من استيراده في وقت لاحق، أو في "
+"موقع آخر يستخدم قالب مهارتي."
+
+#: app/admin/includes/class-impoexpo.php:859
+msgid "Export File Name"
+msgstr "اسم ملف التصدير"
+
+#: app/admin/includes/class-impoexpo.php:864
+msgid "Only export selected items"
+msgstr "تصدير العناصر المحددة فقط"
+
+#: app/admin/includes/class-impoexpo.php:868
+#, php-format
+msgid "Export %s"
+msgstr "تصدير %s"
+
+#: app/admin/includes/class-impoexpo.php:869
+msgid "Cancel Export"
+msgstr "إلغاء التصدير"
+
+#: app/admin/includes/impoexpo.php:82
+msgid "Import & Export"
+msgstr "استيراد وتصدير"
+
+#: app/metabox.php:196
+msgid "Reset"
+msgstr "مسح"
+
+#: app/metabox.php:197
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:636
+msgid "Upload"
+msgstr "رفع"
+
+#: author.php:16 bbpress.php:10 includes/functions/mh_shortcodes.php:10
+#: index.php:15
+msgctxt "This is the breadcrumb separator."
+msgid " / "
+msgstr " / "
+
+#: author.php:17 bbpress.php:11 includes/functions/mh_functions.php:530
+#: includes/functions/mh_shortcodes.php:11 includes/mh_menu/breadcrumb.php:177
+#: includes/mh_menu/mh_menu.php:51 index.php:16
+msgid "Home"
+msgstr "الرئيسية"
+
+#: author.php:141 functions.php:1112 includes/functions/mh_functions.php:2203
+#: includes/functions/mh_functions.php:2296 includes/mh_panel/mh_options.php:296
+#: includes/mh_panel/mh_options.php:299 index.php:153
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذه المقالة/الصفحة محمية (خاصة). أدخل كلمة المرور لعرض التعليقات."
+
+#: comments.php:13
+msgid "Comments 0"
+msgstr "التعليقات 0"
+
+#: comments.php:13
+msgid "Comment 1"
+msgstr "التعليقات 1"
+
+#: comments.php:13 includes/mh_panel/mh_panel.php:510
+msgid "Comments"
+msgstr "التعليقات"
+
+#: comments.php:18 comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> التعليقات الأقدم"
+
+#: comments.php:19 comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "التعليقات الأحدث <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "التنبيهات/التعقيبات"
+
+#: comments.php:56
+msgid "Submit Comment"
+msgstr "أرسل"
+
+#: comments.php:56
+msgid "Submit a Comment"
+msgstr "أرسل"
+
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "اترك تعليقا على %s"
+
+#: footer.php:5 footer.php:45
+#, php-format
+msgid "Powered by %1$s | %2$s"
+msgstr "بتقنية %1$s | %2$s"
+
+#: footer.php:5 footer.php:45
+msgid "Premium RTL Wordpress Theme"
+msgstr "قالب ووردبريس عربي احترافي"
+
+#. Theme Name of the plugin/theme
+#. Author of the plugin/theme
+#: footer.php:5 footer.php:45
+msgid "Mharty"
+msgstr "مهارتي"
+
+#: footer.php:5 footer.php:45
+msgid "WordPress"
+msgstr "ووردبريس"
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: functions.php:49
+msgid "Secondary Menu"
+msgstr "القائمة الإضافية"
+
+#: functions.php:50
+msgid "Footer Menu"
+msgstr "قائمة تذييل الموقع"
+
+#: functions.php:51
+msgid "App Menu"
+msgstr "قائمة تطبيق"
+
+#: functions.php:197
+msgid ""
+"Please check the fields below to make sure you entered the correct information."
+msgstr "من فضلك تحقق من الحقول أدناه وتأكد من إدخال معلومات صحيحة."
+
+#: functions.php:198
+msgid "Fill"
+msgstr "املأ"
+
+#: functions.php:199
+msgid "field"
+msgstr "حقل"
+
+#: functions.php:200
+msgid "Invalid email"
+msgstr "بريد إلكتروني غير صحيح"
+
+#: functions.php:201
+msgid "Captcha"
+msgstr "سؤال التحقق"
+
+#: functions.php:202
+msgid "Prev"
+msgstr "السابق"
+
+#: functions.php:203
+msgid "Previous"
+msgstr "السابق"
+
+#: functions.php:204
+msgid "Next"
+msgstr "التالي"
+
+#: functions.php:205
+msgid "Please fill in the following fields:"
+msgstr "يرجى ملء الحقول التالية:"
+
+#: functions.php:206
+msgid "Please fix the following errors:"
+msgstr "يرجى تصحيح الأخطاء أدناه‪:‬"
+
+#: functions.php:207
+msgid "You entered the wrong number in captcha."
+msgstr "أدخلت أرقاما غير مطابقة لسؤال التحقق."
+
+#: functions.php:209
+msgid "Close (Esc)"
+msgstr "خروج (Esc)"
+
+#: functions.php:210
+msgid "Loading..."
+msgstr "جاري التحميل…"
+
+#: functions.php:211
+msgid "Previous (Left arrow key)"
+msgstr "السابق (مفتاح السهم لليسار)"
+
+#: functions.php:212
+msgid "Next (Right arrow key)"
+msgstr "التالي (مفتاح السهم لليمين)"
+
+#: functions.php:213
+msgid "%curr% of %total%"
+msgstr "‫%curr% من %total%"
+
+#: functions.php:214
+msgid "<a href=\"%url%\">The image</a> could not be loaded."
+msgstr "‫<a href=“%url%”>الصورة</a> لايمكن عرضها."
+
+#: functions.php:215
+msgid "<a href=\"%url%\">The content</a> could not be loaded."
+msgstr "‫<a href=“%url%”>المحتوى</a> لايمكن عرضه."
+
+#: functions.php:335
+#, php-format
+msgid "Posts by %s"
+msgstr "مقالات %s"
+
+#: functions.php:351
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: functions.php:353
+msgid "0 Comments"
+msgstr "0 تعليقات"
+
+#: functions.php:355
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: functions.php:439
+msgid "0 comments"
+msgstr "0 تعليقات"
+
+#: functions.php:439
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: functions.php:439
+msgid "comments"
+msgstr "تعليقات"
+
+#: functions.php:454
+msgid "Skills"
+msgstr "المهارات"
+
+#: functions.php:455
+msgctxt "This is a comma preceded by a space."
+msgid " ,"
+msgstr " ،"
+
+#: functions.php:457
+msgid "Posted on"
+msgstr "بتاريخ"
+
+#: functions.php:776
+msgid "Password Protected"
+msgstr "محمي بكلمة مرور"
+
+#: functions.php:777
+msgid "To view this protected post, enter the password below"
+msgstr "هذه المقالة/الصفحة محمية (خاصة). أدخل كلمة المرور"
+
+#: functions.php:780
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: functions.php:781
+msgid "Submit"
+msgstr "أرسل"
+
+#: functions.php:912
+msgid ""
+"This theme works better with MH Page Composer plugin. Please activate it now."
+msgstr ""
+"هذا القالب يعمل بشكل رائع مع إضافة مهارتي - مؤلف الصفحات! قم بتفعيلها الآن."
+
+#: includes/functions/mh_functions.php:221
+msgid "&hellip;"
+msgstr "‏&hellip;"
+
+#: includes/functions/mh_functions.php:771 includes/mh_menu/breadcrumb.php:179
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: includes/functions/mh_functions.php:773
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "نتائج البحث عن \"%s\""
+
+#: includes/functions/mh_functions.php:775 includes/mh_menu/breadcrumb.php:178
+msgid "404 Not Found"
+msgstr "404 صفحة غير موجودة"
+
+#: includes/functions/mh_functions.php:849
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "تستعرض حاليا الأرشيف لـ %1$s"
+
+#: includes/functions/mh_functions.php:865 index.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: includes/functions/mh_functions.php:1086
+msgid "Image doesn't exist"
+msgstr "الصورة غير موجودة"
+
+#: includes/functions/mh_functions.php:2065 includes/mh_panel/mh_options.php:627
+msgid "Twitter URL"
+msgstr "رابط Twitter"
+
+#: includes/functions/mh_functions.php:2066 includes/mh_panel/mh_options.php:619
+msgid "Facebook URL"
+msgstr "رابط Facebook"
+
+#: includes/functions/mh_functions.php:2067
+msgid "Instagram URL"
+msgstr "رابط Instagram"
+
+#: includes/functions/mh_functions.php:2068 includes/mh_panel/mh_options.php:739
+msgid "Snapchat URL"
+msgstr "رابط Snapchat"
+
+#: includes/functions/mh_functions.php:2069 includes/mh_panel/mh_options.php:643
+msgid "Google+ URL"
+msgstr "رابط Google+"
+
+#: includes/functions/mh_functions.php:2070 includes/mh_panel/mh_options.php:651
+msgid "YouTube URL"
+msgstr "رابط YouTube"
+
+#: includes/functions/mh_functions.php:2071 includes/mh_panel/mh_options.php:659
+msgid "LinkedIn URL"
+msgstr "رابط LinkedIn"
+
+#: includes/functions/mh_functions.php:2072 includes/mh_panel/mh_options.php:667
+msgid "Behance URL"
+msgstr "رابط Behance"
+
+#: includes/functions/mh_functions.php:2073 includes/mh_panel/mh_options.php:675
+msgid "Dribbble URL"
+msgstr "رابط Dribbble"
+
+#: includes/functions/mh_functions.php:2074 includes/mh_panel/mh_options.php:755
+msgid "Pinterest URL"
+msgstr "رابط Pinterest"
+
+#: includes/functions/mh_functions.php:2075 includes/mh_panel/mh_options.php:683
+msgid "Flickr URL"
+msgstr "رابط Flickr"
+
+#: includes/functions/mh_functions.php:2099
+msgid "<div class=\"mh-post-navigation\">Go to article</div>"
+msgstr "<div class=\"mh-post-navigation\">الذهاب للمقالة</div>"
+
+#: includes/functions/mh_functions.php:2227 includes/mh_panel/mh_options.php:818
+msgid "Thank you for contacting us."
+msgstr "شكرا لتواصلك معنا."
+
+#: includes/functions/mh_functions.php:2258
+#, php-format
+msgid "on %1$s at %2$s"
+msgstr "بتاريخ  %1$s - %2$s"
+
+#: includes/functions/mh_functions.php:2264
+msgid "Reply"
+msgstr "الرد"
+
+#: includes/functions/mh_functions.php:2273
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك بانتظار الموافقة والنشر."
+
+#: includes/functions/mh_sidebars.php:4
+msgid "Sidebar"
+msgstr "شريط جانبي"
+
+#: includes/functions/mh_sidebars.php:13 includes/functions/mh_sidebars.php:22
+#: includes/functions/mh_sidebars.php:31 includes/functions/mh_sidebars.php:40
+msgid "Footer Widget"
+msgstr "ودجت تذييل الموقع"
+
+#: includes/metabox.php:8
+msgid "Theme Settings"
+msgstr "إعدادات القالب"
+
+#: includes/metabox.php:20 includes/metabox.php:27
+#: includes/mh_panel/mh_options.php:32 includes/mh_panel/mh_options.php:39
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي (يسار)"
+
+#: includes/metabox.php:21 includes/metabox.php:26
+#: includes/mh_panel/mh_options.php:33 includes/mh_panel/mh_options.php:38
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي (يمين)"
+
+#: includes/metabox.php:22 includes/metabox.php:28
+#: includes/mh_customizer/customizer.php:422 includes/mh_panel/mh_options.php:34
+#: includes/mh_panel/mh_options.php:40
+#: includes/widgets/widget-social-follow.php:58
+msgid "Full-width"
+msgstr "عرض كامل"
+
+#: includes/metabox.php:33 includes/mh_customizer/customizer.php:423
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:37
+#: includes/mh_panel/mh_options.php:113
+msgid "Default"
+msgstr "افتراضي"
+
+#: includes/metabox.php:34 page-template-noheader.php:5
+msgid "No Header Page"
+msgstr "بدون أعلى الموقع"
+
+#: includes/metabox.php:35 page-template-blank.php:5
+msgid "Blank Page"
+msgstr "صفحة فارغة"
+
+#: includes/metabox.php:39 includes/mh_customizer/customizer.php:998
+#: includes/mh_customizer/customizer.php:1081
+#: includes/mh_customizer/customizer.php:1123
+#: includes/mh_customizer/customizer.php:1155
+#: includes/mh_customizer/customizer.php:1265
+msgid "Light"
+msgstr "فاتح"
+
+#: includes/metabox.php:40 includes/mh_customizer/customizer.php:997
+#: includes/mh_customizer/customizer.php:1080
+#: includes/mh_customizer/customizer.php:1124
+#: includes/mh_customizer/customizer.php:1154
+#: includes/mh_customizer/customizer.php:1264
+msgid "Dark"
+msgstr "داكن"
+
+#: includes/metabox.php:45 includes/mh_panel/mh_options.php:224
+msgid "Page Layout"
+msgstr "تنسيق صفحة"
+
+#: includes/metabox.php:50
+msgid "Side Navigation"
+msgstr "القائمة الجانبية"
+
+#: includes/metabox.php:53
+msgid "Off"
+msgstr "تعطيل"
+
+#: includes/metabox.php:54
+msgid "On"
+msgstr "تفعيل"
+
+#: includes/metabox.php:61
+msgid "Menu Colour"
+msgstr "لون القائمة"
+
+#: includes/metabox.php:62
+msgid ""
+"Change this if you want to adjust the menu text colour to be more visible."
+msgstr "يمكنك تغيير لون روابط القائمة الرئيسية لوضوح أكبر."
+
+#: includes/metabox.php:65 includes/metabox.php:91
+#: includes/mh_customizer/customizer.php:1272
+msgid "Background Colour"
+msgstr "لون الخلفية"
+
+#: includes/metabox.php:66
+msgid "Change this if you want to adjust the background colour."
+msgstr "يمكنك تغيير لون الخلفية هنا."
+
+#: includes/metabox.php:72
+msgid "Post Template"
+msgstr "نموذج المقالة"
+
+#: includes/metabox.php:81
+msgid "Use Background Colour"
+msgstr "استخدم لون خلفية"
+
+#: includes/metabox.php:86
+msgid "Use Featured Thumbnail as Background"
+msgstr "استخدام الصورة البارزة كخلفية"
+
+#: includes/metabox.php:94
+msgid "Text Colour"
+msgstr "لون النص"
+
+#: includes/metabox.php:99
+msgid "Quote Author"
+msgstr "كاتب الاقتباس"
+
+#: includes/metabox.php:145 includes/metabox.php:154 includes/metabox.php:195
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:95
+msgid "Hex Value"
+msgstr "قيمة اللون"
+
+#: includes/metabox.php:219
+msgid "Author Name"
+msgstr "اسم الكاتب"
+
+#: includes/mh_customizer/customizer.php:25
+msgid "Site Settings"
+msgstr "إعدادات الموقع"
+
+#: includes/mh_customizer/customizer.php:30
+#: includes/mh_customizer/customizer.php:31
+#: includes/mh_customizer/customizer.php:60
+msgid "Header Settings"
+msgstr "إعدادات أعلى الموقع"
+
+#: includes/mh_customizer/customizer.php:34
+msgid "Primary Navigation"
+msgstr "القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:39
+msgid "Secondary Navigation"
+msgstr "القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:44
+msgid "App-like Menu"
+msgstr "قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:49
+#: includes/mh_customizer/customizer.php:744
+msgid "Promo Bar"
+msgstr "الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:54
+msgid "Footer Settings"
+msgstr "إعدادات تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:59
+#: includes/mh_customizer/customizer.php:1266
+msgid "Colours"
+msgstr "الألوان"
+
+#: includes/mh_customizer/customizer.php:63
+msgid "Accent Colours"
+msgstr "الألوان الرئيسية"
+
+#: includes/mh_customizer/customizer.php:68
+msgid "Primary Navigation Colours"
+msgstr "ألوان القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:73
+msgid "Secondary Navigation Colours"
+msgstr "ألوان القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:78
+msgid "App Menu Colours"
+msgstr "ألوان قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:83
+msgid "Promo Bar Colours"
+msgstr "ألوان الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:88
+msgid "Footer Colours"
+msgstr "ألوان تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:93
+msgid "Fonts"
+msgstr "الخطوط"
+
+#: includes/mh_customizer/customizer.php:97
+msgid "Advanced Settings"
+msgstr "إعدادات متقدمة"
+
+#: includes/mh_customizer/customizer.php:116
+msgid "Header Font"
+msgstr "خط العناوين"
+
+#: includes/mh_customizer/customizer.php:125
+msgid "Body Font"
+msgstr "خط النصوص"
+
+#: includes/mh_customizer/customizer.php:135
+msgid "Primary Navigation Font"
+msgstr "خط القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:140
+#: includes/mh_customizer/customizer.php:153
+#: includes/mh_customizer/customizer.php:166
+#: includes/mh_customizer/customizer.php:179
+msgid "Header"
+msgstr "العناوين"
+
+#: includes/mh_customizer/customizer.php:141
+#: includes/mh_customizer/customizer.php:154
+#: includes/mh_customizer/customizer.php:167
+#: includes/mh_customizer/customizer.php:180
+msgid "Body"
+msgstr "النصوص"
+
+#: includes/mh_customizer/customizer.php:148
+msgid "Secondary Navigation Font"
+msgstr "خط القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:161
+msgid "App Menu Font"
+msgstr "خط قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:174
+msgid "Footer Font"
+msgstr "خط تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:186
+msgid "Site Title as a Logo"
+msgstr "عنوان الموقع كشعار نصي"
+
+#: includes/mh_customizer/customizer.php:190
+msgid ""
+"If you want to use your site name and tagline instead of an image based logo "
+"enable this option."
+msgstr ""
+"إن كنت ترغب باستخدام اسم موقعك (الشعار) بدلاً من صورة، قم بتفعيل هذا الاختيار."
+
+#: includes/mh_customizer/customizer.php:195
+msgid "Logo Image"
+msgstr "صورة الشعار"
+
+#: includes/mh_customizer/customizer.php:199
+msgid "Click the button to upload your logo."
+msgstr "اضغط الزر لرفع صورة شعارك."
+
+#: includes/mh_customizer/customizer.php:204
+msgid "Open Graph Image"
+msgstr "صورة Open Graph"
+
+#: includes/mh_customizer/customizer.php:208
+msgid ""
+"‫Click the button to upload an image which will be used by default when sharing "
+"this website on social network."
+msgstr ""
+"‫اضغط الزر لرفع صورة، هذه الصورة هي التي ستظهر بشكل افتراضي عند مشاركة الموقع "
+"على شبكات التواصل الاجتماعي."
+
+#: includes/mh_customizer/customizer.php:215
+msgid "Layout style"
+msgstr "تنسيق الموقع"
+
+#: includes/mh_customizer/customizer.php:219
+msgid "Choose between full-width or boxed."
+msgstr "اختر بين العرض الكامل والمؤطر."
+
+#: includes/mh_customizer/customizer.php:229
+msgid "Website width"
+msgstr "عرض الموقع"
+
+#: includes/mh_customizer/customizer.php:233
+msgid "Choose between wide or narrow."
+msgstr "اختر بين العرض الواسع والضيق."
+
+#: includes/mh_customizer/customizer.php:243
+msgid "Corners Style"
+msgstr "شكل الزوايا"
+
+#: includes/mh_customizer/customizer.php:247
+msgid "This will affect buttons and icons."
+msgstr "هذا سيؤثر على شكل الأزرار والأيقونات."
+
+#: includes/mh_customizer/customizer.php:258
+msgid "Header and footer Icons Style"
+msgstr "شكل أيقونات أعلى وتذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:262
+msgid "Choose between simple or border."
+msgstr "اختر بين البسيط والمحدد."
+
+#: includes/mh_customizer/customizer.php:272
+msgid "Widgets Title Style"
+msgstr "شكل عناوين الودجات"
+
+#: includes/mh_customizer/customizer.php:276
+msgid "Toggle between the various styles."
+msgstr "اختر الشكل المرغوب."
+
+#: includes/mh_customizer/customizer.php:290
+msgid "Back To Top Button"
+msgstr "زر العودة للأعلى"
+
+#: includes/mh_customizer/customizer.php:295
+#: includes/mh_customizer/customizer.php:309
+#: includes/mh_customizer/customizer.php:340
+#: includes/mh_customizer/customizer.php:421
+#: includes/mh_customizer/customizer.php:508
+#: includes/mh_customizer/customizer.php:561
+#: includes/mh_customizer/customizer.php:576
+#: includes/mh_customizer/customizer.php:690
+#: includes/mh_customizer/customizer.php:725
+#: includes/mh_customizer/customizer.php:749
+#: includes/mh_customizer/customizer.php:832
+#: includes/mh_customizer/customizer.php:1051
+#: includes/mh_customizer/customizer.php:1101
+msgid "Hide"
+msgstr "إخفاء"
+
+#: includes/mh_customizer/customizer.php:296
+#: includes/mh_customizer/customizer.php:310
+#: includes/mh_customizer/customizer.php:341
+#: includes/mh_customizer/customizer.php:509
+#: includes/mh_customizer/customizer.php:562
+#: includes/mh_customizer/customizer.php:577
+#: includes/mh_customizer/customizer.php:689
+#: includes/mh_customizer/customizer.php:726
+#: includes/mh_customizer/customizer.php:750
+#: includes/mh_customizer/customizer.php:833
+#: includes/mh_customizer/customizer.php:1052
+#: includes/mh_customizer/customizer.php:1102
+msgid "Show"
+msgstr "إظهار"
+
+#: includes/mh_customizer/customizer.php:298
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr "يعرض زر السهم \"العودة لأعلى\" عند تصفح الموقع."
+
+#: includes/mh_customizer/customizer.php:304
+msgid "Sidebar Border"
+msgstr "إطار الشريط الجانبي"
+
+#: includes/mh_customizer/customizer.php:312
+msgid "Use this option to hide the sidebar border."
+msgstr "استخدم هذا الخيار لإخفاء إطار الشريط الجانبي."
+
+#: includes/mh_customizer/customizer.php:317
+msgid "Enable Nice Scrollbar"
+msgstr "تفعيل شريط التمرير اللطيف"
+
+#: includes/mh_customizer/customizer.php:325
+msgid "Fixed Navigation Bar"
+msgstr "تثبيت شريط القائمة"
+
+#: includes/mh_customizer/customizer.php:329
+msgid "If you want the navigation bar to stay on top of the screen at all times."
+msgstr "إن كنت تود تثبيت شريط القائمة في أعلى الشاشة."
+
+#: includes/mh_customizer/customizer.php:335
+msgid "Sticky Logo Icon"
+msgstr "شعار تثبيت القائمة"
+
+#: includes/mh_customizer/customizer.php:343
+msgid ""
+"If you enable this option, use the option below to upload your sticky logo."
+msgstr "عند تفعيل هذه الخاصية، استخدم الاختيار أدناه لرفع صورة شعار التثبيت."
+
+#: includes/mh_customizer/customizer.php:348
+msgid "Sticky Logo"
+msgstr "شعار التثبيت"
+
+#: includes/mh_customizer/customizer.php:357
+msgid "Navigation Position"
+msgstr "روابط التنقل"
+
+#: includes/mh_customizer/customizer.php:362
+#: includes/mh_customizer/customizer.php:984 includes/mh_panel/mh_options.php:115
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: includes/mh_customizer/customizer.php:363
+#: includes/mh_customizer/customizer.php:985
+msgid "Vertical"
+msgstr "عمودي"
+
+#: includes/mh_customizer/customizer.php:370
+msgid "Logo Position"
+msgstr "مكان الشعار"
+
+#: includes/mh_customizer/customizer.php:375
+#: includes/mh_customizer/customizer.php:666
+#: includes/mh_customizer/customizer.php:819
+msgid "Side"
+msgstr "جانب"
+
+#: includes/mh_customizer/customizer.php:376
+#: includes/mh_customizer/customizer.php:452
+#: includes/mh_customizer/customizer.php:466
+#: includes/mh_customizer/customizer.php:820
+#: includes/mh_customizer/customizer.php:855
+#: includes/mh_customizer/customizer.php:869
+msgid "Centre"
+msgstr "وسط"
+
+#: includes/mh_customizer/customizer.php:382
+msgid "Logo Size"
+msgstr "حجم الشعار"
+
+#: includes/mh_customizer/customizer.php:385
+msgid ""
+"By default the logo height is around 40 pixels, but you can input your value "
+"here (Numeric value only)."
+msgstr ""
+"افتراضيا، تم تحديد ارتفاع الشعار إلى 40 بكسل. يمكنك وضع قيمة مختلفة هنا "
+"(استخدم قيمة رقمية فقط)."
+
+#: includes/mh_customizer/customizer.php:390
+msgid "Remove Logo Padding"
+msgstr "إزالة هوامش الشعار"
+
+#: includes/mh_customizer/customizer.php:394
+msgid ""
+"This option will remove the default padding around the logo and menu items."
+msgstr "تفعيل هذا الاختيار سيزيل الهوامش الافتراضية حول الشعار وعناصر القائمة."
+
+#: includes/mh_customizer/customizer.php:399
+msgid "Add Top Padding"
+msgstr "أضف مساحة أعلى القائمة"
+
+#: includes/mh_customizer/customizer.php:402
+msgid "Add more padding space to top of you header. Use numbers only e.g. 50"
+msgstr "أضف مساحة أعلى القائمة الرئيسية. استخدم قيمة رقمية فقط مثل: 50"
+
+#: includes/mh_customizer/customizer.php:407
+msgid "Add Bottom Padding"
+msgstr "أضف مساحة أسفل القائمة"
+
+#: includes/mh_customizer/customizer.php:410
+msgid "Add more padding space to bottom of you header. Use numbers only e.g. 50"
+msgstr "أضف مساحة أسفل القائمة الرئيسية. استخدم قيمة رقمية فقط مثل: 50"
+
+#: includes/mh_customizer/customizer.php:416
+msgid "Show Search Icon"
+msgstr "أيقونة البحث"
+
+#: includes/mh_customizer/customizer.php:429
+msgid "Full-width Search Text"
+msgstr "نص البحث بالعرض الكامل"
+
+#: includes/mh_customizer/customizer.php:432
+msgid "Default is: Type and Press \"Enter\"."
+msgstr "الافتراضي: اكتب واضغط زر “إدخال”."
+
+#: includes/mh_customizer/customizer.php:437
+msgid "Header Background"
+msgstr "خلفية أعلى الموقع"
+
+#: includes/mh_customizer/customizer.php:441
+msgid "Upload or choose a background image for the header area."
+msgstr "اختر صورة لخلفية أعلى الموقع."
+
+#: includes/mh_customizer/customizer.php:447
+#: includes/mh_customizer/customizer.php:461
+msgid "Align Header Background"
+msgstr "محاذاة الخلفية"
+
+#: includes/mh_customizer/customizer.php:453
+#: includes/mh_customizer/customizer.php:856
+msgid "Right"
+msgstr "يمين"
+
+#: includes/mh_customizer/customizer.php:454
+#: includes/mh_customizer/customizer.php:857
+msgid "Left"
+msgstr "يسار"
+
+#: includes/mh_customizer/customizer.php:467
+#: includes/mh_customizer/customizer.php:785
+#: includes/mh_customizer/customizer.php:870
+msgid "Top"
+msgstr "أعلى"
+
+#: includes/mh_customizer/customizer.php:468
+#: includes/mh_customizer/customizer.php:786
+#: includes/mh_customizer/customizer.php:871
+msgid "Bottom"
+msgstr "أسفل"
+
+#: includes/mh_customizer/customizer.php:475
+#: includes/mh_customizer/customizer.php:878
+msgid "Background Size"
+msgstr "حجم الخلفية"
+
+#: includes/mh_customizer/customizer.php:480
+#: includes/mh_customizer/customizer.php:883
+msgid "Auto"
+msgstr "تلقائي"
+
+#: includes/mh_customizer/customizer.php:481
+#: includes/mh_customizer/customizer.php:884
+msgid "Cover"
+msgstr "غلاف"
+
+#: includes/mh_customizer/customizer.php:482
+#: includes/mh_customizer/customizer.php:885
+msgid "Contain"
+msgstr "احتواء"
+
+#: includes/mh_customizer/customizer.php:489
+#: includes/mh_customizer/customizer.php:892
+msgid "Repeat Background"
+msgstr "تكرار الخلفية"
+
+#: includes/mh_customizer/customizer.php:494
+#: includes/mh_customizer/customizer.php:897
+msgid "No Repeat"
+msgstr "بدون"
+
+#: includes/mh_customizer/customizer.php:495
+#: includes/mh_customizer/customizer.php:898
+msgid "Repeat X"
+msgstr "تكرار أفقي"
+
+#: includes/mh_customizer/customizer.php:496
+#: includes/mh_customizer/customizer.php:899
+msgid "Repeat Y"
+msgstr "تكرار عمودي"
+
+#: includes/mh_customizer/customizer.php:503
+msgid "Header Shadow"
+msgstr "ظل القائمة"
+
+#: includes/mh_customizer/customizer.php:515
+msgid "Main Menu Links Font Size"
+msgstr "حجم خط القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:519
+#: includes/mh_customizer/customizer.php:528
+msgid "Default is 14px, You could change it to your desired size."
+msgstr "الافتراضي هو 14px. يمكنك تغييره إلى الحجم المرغوب مثل: 12px"
+
+#: includes/mh_customizer/customizer.php:524
+msgid "Sub Navigation Links Font Size"
+msgstr "حجم خط القائمة المنسدلة"
+
+#: includes/mh_customizer/customizer.php:533
+msgid "Hide Navigation links?"
+msgstr "إخفاء القائمة الرئيسية؟"
+
+#: includes/mh_customizer/customizer.php:542
+msgid "Secondary Navigation Position"
+msgstr "مكان القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:547
+msgid "Below"
+msgstr "أسفل"
+
+#: includes/mh_customizer/customizer.php:548
+msgid "Above"
+msgstr "أعلى"
+
+#: includes/mh_customizer/customizer.php:550
+msgid ""
+"Choose the Position of your Secondary Navigation. The Secondary Navigation "
+"appears when it has some contents filled."
+msgstr ""
+"اختر المكان المرغوب للقائمة الإضافية. القائمة الإضافية تظهر عندما يكون فيها "
+"محتوى."
+
+#: includes/mh_customizer/customizer.php:556
+msgid "Social Icons in Header"
+msgstr "أيقونات التواصل في أعلى الموقع"
+
+#: includes/mh_customizer/customizer.php:564
+#: includes/mh_customizer/customizer.php:835
+#: includes/widgets/widget-social-follow.php:65
+msgid "You may need to activate the desired icons from the theme panel."
+msgstr "قد تحتاج إلى تفعيل الأيقونات المرغوبة من لوحة القالب."
+
+#: includes/mh_customizer/customizer.php:571
+#: includes/widgets/widget-latest-posts.php:151
+#: includes/widgets/widget-popular-posts.php:148
+msgid "Show Date"
+msgstr "عرض التاريخ"
+
+#: includes/mh_customizer/customizer.php:579
+msgid ""
+"You could change how your dates are displayed from the theme panel \"Header "
+"Date format\"."
+msgstr "يمكنك تغيير صيغة التاريخ في لوحة القالب “صيغة تاريخ أعلى الموقع”."
+
+#: includes/mh_customizer/customizer.php:584
+msgid "Custom Phrase"
+msgstr "عبارة اختيارية"
+
+#: includes/mh_customizer/customizer.php:587
+msgid "Use this field to show custom phrase. Keep it short for better results."
+msgstr "استخدم هذا الحقل لإظهار عبارة اختيارية. اجعلها قصيرة لشكل أفضل."
+
+#: includes/mh_customizer/customizer.php:592
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: includes/mh_customizer/customizer.php:599 includes/mharty-updater.php:507
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/mh_customizer/customizer.php:606
+msgid "Secondary Navigation Font Size"
+msgstr "حجم خط القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:610
+msgid "Default is 13px, You could change it to your desired size."
+msgstr "الافتراضي هو 13px . يمكنك تغييره إلى الحجم المرغوب مثل: 12px"
+
+#: includes/mh_customizer/customizer.php:615
+msgid "Phone Icon"
+msgstr "أيقونة رقم الهاتف"
+
+#: includes/mh_customizer/customizer.php:619
+#: includes/mh_customizer/customizer.php:628
+#: includes/mh_customizer/customizer.php:637
+#, php-format
+msgid ""
+"%1$sClick here%2$s to go to the icons index. (Paste the code for your desired "
+"icon here)."
+msgstr ""
+"‫%1$sاضغط هنا%2$s للذهاب إلى فهرس الأيقونات (قم بلصق الكود الخاص بالأيقونة في "
+"الخانة)."
+
+#: includes/mh_customizer/customizer.php:624
+msgid "Email Icon"
+msgstr "أيقونة البريد الإلكتروني"
+
+#: includes/mh_customizer/customizer.php:633
+msgid "Date Icon"
+msgstr "أيقونة التاريخ"
+
+#: includes/mh_customizer/customizer.php:642
+msgid "Always Show Menu?"
+msgstr "اعرض القائمة دائماً؟"
+
+#: includes/mh_customizer/customizer.php:646
+msgid "Enable this option to show the Menu on small screens."
+msgstr "فعل هذ الاختيار لعرض القائمة على الشاشات الصغيرة."
+
+#: includes/mh_customizer/customizer.php:651
+msgid "Enable App Menu?"
+msgstr "تفعيل قائمة التطبيق؟"
+
+#: includes/mh_customizer/customizer.php:655
+msgid "This will enable the App-like menu.To mangae its content go to > Menus"
+msgstr "هذا الاختيار سيفعل قائمة التطبيق. لإدارة محتوياتها اذهب إلى > قوائم"
+
+#: includes/mh_customizer/customizer.php:661
+msgid "App Menu Style"
+msgstr "تنسيق قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:667
+msgid "Overlay"
+msgstr "غطاء"
+
+#: includes/mh_customizer/customizer.php:669
+msgid "Choose the desired style for your App menu."
+msgstr "اختر التنسيق المرغوب لقائمة التطبيق."
+
+#: includes/mh_customizer/customizer.php:674
+msgid "App menu Logo "
+msgstr "الشعار في قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:678
+msgid ""
+"Click the Upload Image button to upload or choose your logo for the app menu."
+msgstr ""
+"انقر فوق زر \\\"رفع الصورة\\\" لتحميل أو اختيار الشعار الخاص بك لقائمة التطبيق."
+
+#: includes/mh_customizer/customizer.php:684
+msgid "Show Tagline"
+msgstr "إظهار وصف الموقع"
+
+#: includes/mh_customizer/customizer.php:692
+msgid "Show or hide your site tagline i the app menu area."
+msgstr "يمكنك إظهار أو إخفاء وصف الموقع في منطقة قائمة التطبيق."
+
+#: includes/mh_customizer/customizer.php:697
+msgid "Custom Tagline"
+msgstr "وصف مخصص"
+
+#: includes/mh_customizer/customizer.php:700
+msgid "Use this field, if you want to show a custom tagline."
+msgstr "استخدم هذا الحقل إن أردت وضع وصف مخصص."
+
+#: includes/mh_customizer/customizer.php:705
+msgid "Phone Number in App menu"
+msgstr "رقم الهاتف في قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:712
+msgid "Email in App menu"
+msgstr "البريد الإلكتروني في قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:720
+msgid "Social Icons in App menu"
+msgstr "أيقونات التواصل في قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:732
+msgid "Always Show?"
+msgstr "اعرض دائما؟"
+
+#: includes/mh_customizer/customizer.php:736
+msgid "Disable this option to show the App Menu on small screens only."
+msgstr "عطل هذا الاختيار لإظهار قائمة التطبيق على الشاشات الصغيرة فقط."
+
+#: includes/mh_customizer/customizer.php:752
+msgid ""
+"If you have the Secondary Menu shown on your website this bar will overlay its "
+"current content until dismissed. Note: to change the position of the bar "
+"please change the Secondary Menu position."
+msgstr ""
+"إذا كانت \"القائمة الإضافية\" مفعلة وظاهرة على موقعك فإن الشريط التسويقي "
+"سيغطيها مؤقتاً حتى يقوم الزائر بإغلاقه. ملاحظة: لتغيير موضع الشريط الرجاء قم "
+"يتغيير مكان القائمة الإضافية."
+
+#: includes/mh_customizer/customizer.php:757
+msgid "Promo Bar Text"
+msgstr "نص الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:760
+msgid ""
+"Use this field to display a message on the Promo Bar. This field must be "
+"filled for the bar to be shown. Keep it short!"
+msgstr ""
+"استخدم هذا الحقل لعرض رسالة  أو نص على الشريط التسويقي. يجب ملء هذا الحقل "
+"ليظهر الشريط. لنتائج أفضل اجعل النص قصيراً!"
+
+#: includes/mh_customizer/customizer.php:765
+msgid "Promo Bar Button Text"
+msgstr "نص زر الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:768
+msgid "If you want to show a button, put your link in the field below."
+msgstr "إن كنت تود عرض زر في الشريط التسويقي، املأ الخانات التالية."
+
+#: includes/mh_customizer/customizer.php:773
+msgid "Promo Bar Button URL"
+msgstr "رابط زر الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:780
+msgid "Promo Bar Animation"
+msgstr "مؤثر الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:787
+msgid "Scale Up"
+msgstr "تمدد"
+
+#: includes/mh_customizer/customizer.php:788
+msgid "Bouncing"
+msgstr "وثب"
+
+#: includes/mh_customizer/customizer.php:794
+msgid "Show Promo Bar Once Per Session?"
+msgstr "عرض الشريط التسويقي مرة واحدة؟"
+
+#: includes/mh_customizer/customizer.php:798
+msgid "Enable this option to show the Promo Bar once per browser session."
+msgstr "فعل هذ الاختيار لعرض الشريط التسويقي مرة واحدة حتى إغلاق المستعرض."
+
+#: includes/mh_customizer/customizer.php:805
+msgid "Website Copyrights"
+msgstr "جملة الحقوق"
+
+#: includes/mh_customizer/customizer.php:808
+msgid "Optional- Add Copyright notice to the footer of your site."
+msgstr "اختياري - أضف جملة حقوق أو نص اختياري في تذييل الموقع."
+
+#: includes/mh_customizer/customizer.php:814
+msgid "Footer Style"
+msgstr "شكل تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:827
+msgid "Social Icons in Footer"
+msgstr "أيقونات التواصل في تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:840
+msgid "Footer Background"
+msgstr "خلفية تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:844
+msgid "Upload or choose a background image for the footer area."
+msgstr "اختر صورة لخلفية تذييل الموقع."
+
+#: includes/mh_customizer/customizer.php:850
+#: includes/mh_customizer/customizer.php:864
+msgid "Align Footer Background"
+msgstr "محاذاة خلفية تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:905
+msgid "Accent Colour"
+msgstr "اللون الرئيسي"
+
+#: includes/mh_customizer/customizer.php:913
+msgid "Main Font Colour"
+msgstr "لون النصوص"
+
+#: includes/mh_customizer/customizer.php:921
+msgid "Heading Colour"
+msgstr "لون العناوين"
+
+#: includes/mh_customizer/customizer.php:929
+msgid "Link Colour"
+msgstr "لون الروابط"
+
+#: includes/mh_customizer/customizer.php:937
+msgid "Sidebar Heading Colour"
+msgstr "لون عناوين الشريط الجانبي"
+
+#: includes/mh_customizer/customizer.php:945
+msgid "Sidebar Heading Background Colour"
+msgstr "لون خلفية عناوين الشريط الجانبي"
+
+#: includes/mh_customizer/customizer.php:949
+#: includes/mh_customizer/customizer.php:1213
+msgid ""
+"This colour works with some of the Widget Header Styles. You could choose a "
+"style in \"Site Settings\"."
+msgstr ""
+"هذا الاختيار يعمل مع بعض أشكال عناوين الودجات. يمكنك اختيار شكل في “إعدادات "
+"الموقع”."
+
+#: includes/mh_customizer/customizer.php:954
+msgid "Sidebar Link Colour"
+msgstr "لون روابط الشريط الجانبي"
+
+#: includes/mh_customizer/customizer.php:962
+msgid "Primary Navigation Background"
+msgstr "لون خلفية القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:970
+msgid "Primary Navigation Gradient"
+msgstr "تدرج لوني للقائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:979
+msgid "Gradient Direction"
+msgstr "اتجاه التدرج"
+
+#: includes/mh_customizer/customizer.php:992
+msgid "Primary Navigation Text Colour"
+msgstr "لون النص في القائمة الرئيسية"
+
+#: includes/mh_customizer/customizer.php:1000
+msgid ""
+"If you choose light option it will override \"Menu Links Colour\" option below."
+msgstr "إذا قمت باختيار لون فاتح فإنه سيتجاهل الخيار أدناه: “لون روابط القائمة”."
+
+#: includes/mh_customizer/customizer.php:1005
+msgid "Menu Links Colour"
+msgstr "لون روابط القائمة"
+
+#: includes/mh_customizer/customizer.php:1013
+msgid "Menu Icons Colour"
+msgstr "لون أيقونات القائمة"
+
+#: includes/mh_customizer/customizer.php:1021
+msgid "Menu Link Background"
+msgstr "لون خلفية عنصر القائمة"
+
+#: includes/mh_customizer/customizer.php:1029
+msgid "Active Menu Link Colour"
+msgstr "لون رابط القائمة النشط حاليا"
+
+#: includes/mh_customizer/customizer.php:1037
+msgid "Active Menu Link Background"
+msgstr "لون خلفية عنصر القائمة النشط حاليا"
+
+#: includes/mh_customizer/customizer.php:1046
+msgid "Menu Link Separator"
+msgstr "فاصل عناصر القائمة"
+
+#: includes/mh_customizer/customizer.php:1058
+msgid "Menu Link Separator Colour"
+msgstr "لون فاصل عناصر القائمة"
+
+#: includes/mh_customizer/customizer.php:1066
+msgid "Sub Navigation Background"
+msgstr "لون خلفية القائمة الفرعية (المنسدلة)"
+
+#: includes/mh_customizer/customizer.php:1075
+msgid "Sub Navigation Text Colour"
+msgstr "لون نص القائمة الفرعية (المنسدلة)"
+
+#: includes/mh_customizer/customizer.php:1087
+msgid "Secondary Navigation Background"
+msgstr "لون خلفية القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:1096
+msgid "Secondary Navigation Separator"
+msgstr "فاصل القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:1104
+msgid ""
+"Enable this option to display a separator line for the secondary navigation. "
+"Use the option below to choose your desired colour."
+msgstr ""
+"تفعيل هذه الاختيار سيعرض فاصل أسفل القائمة الإضافية. يمكنك اختيار اللون "
+"المرغوب في الحقل أدناه."
+
+#: includes/mh_customizer/customizer.php:1109
+msgid "Secondary Navigation Separator Colour"
+msgstr "لون فاصل القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:1118
+msgid "Secondary Navigation Text Colour"
+msgstr "لون النص في القائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:1125
+msgid "Custom"
+msgstr "مخصص"
+
+#: includes/mh_customizer/customizer.php:1131
+msgid "Secondary Navigation Custom Text Colour"
+msgstr "لون نص مخصص للقائمة الإضافية"
+
+#: includes/mh_customizer/customizer.php:1135
+msgid "This option works if you choose \"Custom\" in the option above."
+msgstr "يعمل هذا الخيار إذا قمت باختيار “مخصص” في الخيار أعلاه."
+
+#: includes/mh_customizer/customizer.php:1140
+msgid "App Menu Background"
+msgstr "خلفية قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:1149
+msgid "App Menu Text Colour"
+msgstr "لون نص قائمة التطبيق"
+
+#: includes/mh_customizer/customizer.php:1161
+msgid "Promo Bar Background Colour"
+msgstr "لون خلفية الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:1169
+msgid "Promo Bar Text Colour"
+msgstr "لون نص الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:1177
+msgid "Promo Bar Button Colour"
+msgstr "لون زر الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:1185
+msgid "Promo Bar Button Text Colour"
+msgstr "لون نص زر الشريط التسويقي"
+
+#: includes/mh_customizer/customizer.php:1193
+msgid "Footer Background Colour (Widgets)"
+msgstr "لون خلفية الودجات"
+
+#: includes/mh_customizer/customizer.php:1201
+msgid "Widgets Heading Colour"
+msgstr "لون عناوين الودجات"
+
+#: includes/mh_customizer/customizer.php:1209
+msgid "Widgets Heading Background Colour"
+msgstr "لون خلفية عناوين الودجات"
+
+#: includes/mh_customizer/customizer.php:1218
+msgid "Widgets Text Colour"
+msgstr "لون نص الودجات"
+
+#: includes/mh_customizer/customizer.php:1226
+msgid "Widgets Link Colour"
+msgstr "لون روابط الودجات"
+
+#: includes/mh_customizer/customizer.php:1234
+msgid "Footer Background Colour"
+msgstr "لون تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:1242
+msgid "Footer Text Colour"
+msgstr "لون نص تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:1250
+msgid "Footer Link Colour"
+msgstr "لون روابط تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:1259
+msgid "Footer Social Icons Colour"
+msgstr "لون أيقونات التواصل في تذييل الموقع"
+
+#: includes/mh_customizer/customizer.php:1279
+msgid "Stretch Background Image"
+msgstr "تمديد صورة الخلفية"
+
+#: includes/mh_customizer/customizer.php:1286
+msgid "Fix Transparent"
+msgstr "ضبط الشفافية"
+
+#: includes/mh_customizer/customizer.php:1290
+msgid ""
+"(Optional) This is a fix for trnasparent background when custom background "
+"images is used."
+msgstr ""
+"(اختياري) أحيانا، عند استخدام خلفية للموقع بعض الصفحات تظهر بدون لون خلفية، "
+"فعل هذا الاختيار."
+
+#: includes/mh_customizer/customizer.php:1295
+#: includes/mh_panel/mh_options.php:190
+msgid "Custom CSS"
+msgstr "مخصص CSS"
+
+#: includes/mh_customizer/customizer.php:1298
+#: includes/mh_panel/mh_options.php:194
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "هنا يمكنك إضافة أكواد CSS الخاصة بك."
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:152
+msgid "No Image"
+msgstr "بدون صورة"
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:156
+msgid "Upload New"
+msgstr "رفع جديد"
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:157
+msgid "Uploaded"
+msgstr "المرفوعة"
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:239
+msgid "Remove Image"
+msgstr "إزالة الصورة"
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:277
+#, php-format
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be able "
+"to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr ""
+"المتصفح الذي تستخدمه لا يمكن استخدامه لرفع الملفات. ربما يمكنك استخدام <a href="
+"\"%s\">متسعرض آخر يدعم جهازك</a> كبديل."
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:281
+msgid "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
+msgstr "اسحب ملف هنا أو <a href=\"#\" class=\"upload\">اختيار ملف</a>."
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:284
+msgid "Select File"
+msgstr "اختر ملف"
+
+#: includes/mh_customizer/includes/class-MHCustomizer_Control.php:637
+#: includes/mh_menu/wp-nav-custom-walker.php:351
+msgid "Remove"
+msgstr "إزالة"
+
+#: includes/mh_menu/breadcrumb.php:176
+msgid "Browse:"
+msgstr "تستعرض:"
+
+#: includes/mh_menu/breadcrumb.php:181
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "نتائج البحث عن &#8220;%s&#8221;"
+
+#: includes/mh_menu/breadcrumb.php:183
+#, php-format
+msgid "Page %s"
+msgstr "صفحة %s"
+
+#: includes/mh_menu/breadcrumb.php:185
+#, php-format
+msgid "Minute %s"
+msgstr "دقيقة %s"
+
+#: includes/mh_menu/breadcrumb.php:187
+#, php-format
+msgid "Week %s"
+msgstr "أسبوع %s"
+
+#: includes/mh_menu/breadcrumb.php:721
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: includes/mh_menu/breadcrumb.php:739
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: includes/mh_menu/breadcrumb.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: includes/mh_menu/breadcrumb.php:774 includes/mh_menu/breadcrumb.php:804
+#: includes/mh_menu/breadcrumb.php:832 includes/mh_menu/breadcrumb.php:860
+#: includes/mh_menu/breadcrumb.php:1051
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: includes/mh_menu/breadcrumb.php:775 includes/mh_menu/breadcrumb.php:833
+#: includes/mh_menu/breadcrumb.php:1055
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: includes/mh_menu/breadcrumb.php:776 includes/mh_menu/breadcrumb.php:1059
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: includes/mh_menu/breadcrumb.php:805
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: includes/mh_menu/breadcrumb.php:1152 includes/mh_menu/breadcrumb.php:1184
+#: includes/mh_menu/breadcrumb.php:1199 includes/mh_menu/breadcrumb.php:1226
+msgid "Edit"
+msgstr "تحرير"
+
+#: includes/mh_menu/breadcrumb.php:1176
+msgid "Split"
+msgstr "تجزئة"
+
+#: includes/mh_menu/breadcrumb.php:1180
+msgid "Merge"
+msgstr "دمج"
+
+#: includes/mh_menu/breadcrumb.php:1276
+msgid "Create an Account"
+msgstr "إنشاء حساب"
+
+#: includes/mh_menu/breadcrumb.php:1278
+msgid "Activate your Account"
+msgstr "تفعيل حسابك"
+
+#: includes/mh_menu/breadcrumb.php:1282
+msgid "Create a Group"
+msgstr "إنشاء مجموعة"
+
+#: includes/mh_menu/breadcrumb.php:1286
+msgid "Create a Blog"
+msgstr "إنشاء مدونة"
+
+#: includes/mh_menu/mega-menu.php:44
+msgid ""
+"Your server is running Suhosin, and your current maxvars settings may limit "
+"the number of menu items you can save."
+msgstr "سيرفرك قد لا يدعم حفظ القوائم الكبيرة بالشكل الصحيح."
+
+#: includes/mh_menu/mega-menu.php:52
+msgid ""
+"You are approaching the post variable limit imposed by your server "
+"configuration.  Exceeding this limit may automatically delete menu items when "
+"you save.  Please increase the value for the following directive in php.ini: "
+msgstr ""
+"‫أنت تقترب من الحد المفروض من قبل السيرفر على استضافتك.  تجاوز هذا الحد تلقائياً "
+"سيحذف عناصر القائمة عند حفظها.  الرجاء زيادة القيمة للعنصر التالي في ملف php."
+"ini على سيرفرك: "
+
+#: includes/mh_menu/mega-menu.php:61
+msgid "Menu Item Limit Warning"
+msgstr "تنبيه عناصر القائمة"
+
+#: includes/mh_menu/mega-menu.php:74
+msgid "Menu Item Post variable count on last save"
+msgstr "تعداد الحفظ الأخير للقائمة"
+
+#: includes/mh_menu/mega-menu.php:78
+msgid "Approximate remaining menu items"
+msgstr "عدد العناصر المتبقية تقريبا"
+
+#: includes/mh_menu/mh_menu.php:75
+msgid "Select Page"
+msgstr "اختر صفحة"
+
+#: includes/mh_menu/mh_menu.php:229
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#: includes/mh_menu/mh_menu.php:229
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: includes/mh_menu/mh_menu.php:328
+msgid "Type and Press &ldquo;Enter&rdquo;"
+msgstr "اكتب واضغط زر &ldquo;إدخال&rdquo;"
+
+#: includes/mh_menu/mh_menu_icons.php:21
+msgid "Mharty Theme Icons index"
+msgstr "فهرس أيقونات قالب مهارتي"
+
+#: includes/mh_menu/mh_menu_icons.php:26
+msgid "Copy and paste the icon code in the specified field (Menu Item Icon)"
+msgstr "انسخ الكود وضعه في المكان المخصص لأيقونة عنصر القائمة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:194
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (غير صالح)"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:198
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (بالانتظار)"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:222
+msgid "Move up"
+msgstr "نقل درجة واحدة للأعلى"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:235
+msgid "Move down"
+msgstr "نقل درجة واحدة للأسفل"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:237
+#: includes/mh_menu/wp-nav-custom-walker.php:239
+msgid "Edit Menu Item"
+msgstr "تحرير عنصر القائمة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:248
+msgid "URL"
+msgstr "الرابط"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:255
+msgid "Navigation Label"
+msgstr "النص في القائمة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:261
+msgid "Title Attribute"
+msgstr "خصائص العنوان"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:268
+msgid "Open link in a new window/tab"
+msgstr "افتح الرابط في نافذة/تبويبة جديدة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:273
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (اختياري)"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:279
+msgid "Link Relationship (XFN)"
+msgstr "علاقات الرابط (XFN)"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:285
+msgid "Description"
+msgstr "وصف"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:287
+msgid ""
+"The description will be displayed in the menu if the current theme supports it."
+msgstr "سيتم عرض الوصف في القائمة إذا كان القالب الحالي يدعم ذلك."
+
+#: includes/mh_menu/wp-nav-custom-walker.php:292
+msgid "Menu Item Icon"
+msgstr "أيقونة عنصر القائمة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:295
+msgid "Click here"
+msgstr "اضغط هنا"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:295
+msgid "to go to the icons index. (Paste the code for your desired icon here)."
+msgstr "للذهاب إلى فهرس الأيقونات (قم بلصق الكود الخاص بالأيقونة المرغوبة هنا)."
+
+#: includes/mh_menu/wp-nav-custom-walker.php:308
+msgid "Mega Menu?"
+msgstr "قائمة كبيرة؟"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:314
+msgid "Set Background Image"
+msgstr "تعيين صورة للخلفية"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:327
+msgid "Mega Menu Custom CSS"
+msgstr "CSS مخصص للقائمة الكبيرة"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:329
+msgid "Here you could add custom css styles for your Mega Menu e.g."
+msgstr "هنا يمكنك إضافة أكواد CSS مخصص للقائمة الكبيرة مثل:"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:338
+#, php-format
+msgid "Original: %s"
+msgstr "الأصل: %s"
+
+#: includes/mh_menu/wp-nav-custom-walker.php:352
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: includes/mh_panel/mh_options.php:53 includes/mh_panel/mh_options.php:212
+#: includes/mh_panel/mh_options.php:861
+msgid "General"
+msgstr "عام"
+
+#: includes/mh_panel/mh_options.php:60
+msgid "Mharty Activation ID"
+msgstr "معرف تفعيل مهارتي"
+
+#: includes/mh_panel/mh_options.php:65
+#, php-format
+msgid ""
+"Enter your ID here. You will find your ID in Your Profile section. <a href="
+"\"%1$s\" target=\"_blank\">Click here</a>"
+msgstr ""
+"أدخل معرفك هنا. ستجد المعرف الخاص بك ضمن بياناتك في موقع مهارتي. <a "
+"href=“%1$s” target=“_blank”>اضغط هنا</a>"
+
+#: includes/mh_panel/mh_options.php:68
+msgid "Mharty Activation Email"
+msgstr "بريدك الإلكتروني في مهارتي"
+
+#: includes/mh_panel/mh_options.php:73
+msgid "Enter your email. This should be the email registered at mharty.com"
+msgstr ""
+"ضع بريدك الإلكتروني هنا. هذا البريد يجب أن يكون موافقا لبريدك المسجل في مهارتي "
+"(mharty.com)"
+
+#: includes/mh_panel/mh_options.php:76
+msgid "Colour Scheme"
+msgstr "لوحة الألوان"
+
+#: includes/mh_panel/mh_options.php:81
+msgid "Define the default colour scheme for colour pickers for easy access."
+msgstr "حدد ألوانك الافتراضية لاستخدامها بسهولة عند اختيار ألوان موقعك."
+
+#: includes/mh_panel/mh_options.php:86
+msgid "Enable Breadcrumbs"
+msgstr "تمكين مسارات التنقل"
+
+#: includes/mh_panel/mh_options.php:90
+msgid "This option will show a breadcrumb in your site."
+msgstr "هذا الاخيار سيظهر مسارات التنقل في موقعك (فتات الخبز -breadcrumb )"
+
+#: includes/mh_panel/mh_options.php:93
+msgid "Home Page Layout"
+msgstr "تنسيق الصفحة الرئيسية"
+
+#: includes/mh_panel/mh_options.php:98
+msgid ""
+"Here you can choose Home Page Layout. This option will only work if you have "
+"the default homepage on your site."
+msgstr ""
+"هنا يمكنك اختيار تنسيق الصفحة الرئيسية. هذا الاختيار سيعمل فقط عندما يكون "
+"موقعك يعرض الصفحة الرئيسية الافتراضية."
+
+#: includes/mh_panel/mh_options.php:101
+msgid "Archive Pages Layout"
+msgstr "تنسيق صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:106
+msgid ""
+"Here you can choose Archive Pages Layout such as Categories, tags, search "
+"pages etc"
+msgstr ""
+"هنا يمكنك اختيار تنسيق صفحات الأرشيف مثل التصنيفات، الوسوم، صفحات البحث الخ"
+
+#: includes/mh_panel/mh_options.php:109
+msgid "Archive Pages Style"
+msgstr "شكل صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:114
+msgid "Grid"
+msgstr "شبكة"
+
+#: includes/mh_panel/mh_options.php:118
+msgid ""
+"Here you can choose Archive Pages Style such as Categories, tags, search pages "
+"etc"
+msgstr ""
+"هنا يمكنك اختيار شكل صفحات الأرشيف مثل التصنيفات، الوسوم، صفحات البحث الخ"
+
+#: includes/mh_panel/mh_options.php:121
+msgid "Number of Posts displayed on Category page"
+msgstr "عدد المقالات في صفحات التصنيفات"
+
+#: includes/mh_panel/mh_options.php:125
+msgid ""
+"Here you can designate how many recent articles are displayed on the Category "
+"page. This option works independently from the Settings > Reading options in "
+"wp-admin."
+msgstr ""
+"هنا يمكنك تحديد عدد المقالات التي تود عرضها في صفحات التصنيفات. هذا الخيار "
+"يعمل مستقلا عن الموجود في لوحة التحكم: إعدادات > قراءة"
+
+#: includes/mh_panel/mh_options.php:129
+msgid "Number of Posts displayed on Archive pages"
+msgstr "عدد المقالات في صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:133
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options in "
+"wp-admin."
+msgstr ""
+"هنا يمكنك تحديد عدد المقالات التي تود عرضها في صفحات الأرشيف. هذا الخيار يعمل "
+"مستقلا عن الموجود في لوحة التحكم: إعدادات > قراءة"
+
+#: includes/mh_panel/mh_options.php:137
+msgid "Number of Posts displayed on Search pages"
+msgstr "عدد المقالات في صفحات البحث"
+
+#: includes/mh_panel/mh_options.php:141
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"هنا يمكنك تحديد عدد المقالات التي تود عرضها في صفحات البحث. هذا الخيار يعمل "
+"مستقلا عن الموجود في لوحة التحكم: إعدادات > قراءة"
+
+#: includes/mh_panel/mh_options.php:145
+msgid "Number of Posts displayed on Tag pages"
+msgstr "عدد المقالات في صفحات الوسوم"
+
+#: includes/mh_panel/mh_options.php:149
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options in "
+"wp-admin."
+msgstr ""
+"هنا يمكنك تحديد عدد المقالات التي تود عرضها في صفحات الوسوم. هذا الخيار يعمل "
+"مستقلا عن الموجود في لوحة التحكم: إعدادات > قراءة"
+
+#: includes/mh_panel/mh_options.php:153
+msgid "Date format"
+msgstr "صيغة التاريخ"
+
+#: includes/mh_panel/mh_options.php:157 includes/mh_panel/mh_options.php:165
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href=\"http://codex."
+"wordpress.org/Formatting_Date_and_Time\" target=\"_blank\">Formatting Date and "
+"Time</a>"
+msgstr ""
+"هذه  الخاصية تمكنك من تغيير صيغة التاريخ المعروضة على موقعك. لمعلومات أكثر "
+"يمكن قراءة <a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\" "
+"target=\"_blank\">وثائق المساعدة - تنسيق الوقت والتاريخ.</a>"
+
+#: includes/mh_panel/mh_options.php:161
+msgid "Header Date format"
+msgstr "صيغة تاريخ أعلى الموقع"
+
+#: includes/mh_panel/mh_options.php:169
+msgid "Blog Style Mode"
+msgstr "مقالات (بدون اقتطاع)"
+
+#: includes/mh_panel/mh_options.php:173
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically to "
+"create post previews. If you would rather show your posts in full on index "
+"pages, like a traditional blog, then you can activate this feature."
+msgstr ""
+"افتراضيا، القالب يقوم بعرض مقتطف من محتوى المقالات على الصفحة الرئيسية وصفحات "
+"الأرشيف (الوسوم ، التصنيفات ...). في حال رغبتك بعرض كامل المقالة على هذه "
+"الصفحات مثل المدونات التقليدية القديمة، قم بتفعيل هذا الخيار."
+
+#: includes/mh_panel/mh_options.php:176
+msgid "Use excerpts when defined"
+msgstr "اعرض المقتطفات"
+
+#: includes/mh_panel/mh_options.php:180
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "هذا سيعرض المقتطفات في حال وجودها في الصفحات والمقالات."
+
+#: includes/mh_panel/mh_options.php:183
+msgid "Smooth Scrolling"
+msgstr "التمرير السلس"
+
+#: includes/mh_panel/mh_options.php:187
+msgid "Enable this option to to get a smooth scrolling effect with mouse wheel."
+msgstr "تمكين هذا الخيار للحصول على تأثير تمرير سلس مع عجلة الماوس."
+
+#: includes/mh_panel/mh_options.php:216
+msgid "Post Layout"
+msgstr "تنسيق مقالة"
+
+#: includes/mh_panel/mh_options.php:220
+msgid "Project Layout"
+msgstr "تنسيق عمل"
+
+#: includes/mh_panel/mh_options.php:232
+msgid "Show Archive Titles"
+msgstr "عرض عناوين صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:236
+msgid ""
+"Enable this option to show Archive Pages title e.g category, tag, search "
+"results page."
+msgstr ""
+"تفعيل هذا الاختيار سيعرض عنوان صفحات الأرشيف، على سبيل المثال: صفحة التصنيف، "
+"الوسم، صفحة نتائج البحث."
+
+#: includes/mh_panel/mh_options.php:238
+msgid "Show Archive Description"
+msgstr "عرض وصف صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:242
+msgid "Enable this option to show Archive Pages description e.g category, tag."
+msgstr ""
+"تفعيل هذا الاختيار سيعرض وصف صفحات الأرشيف، على سبيل المثال: صفحة التصنيف، "
+"الوسم."
+
+#: includes/mh_panel/mh_options.php:245
+msgid "Post info separator"
+msgstr "فاصل معلومات المقالة"
+
+#: includes/mh_panel/mh_options.php:249
+msgid ""
+"Here you can change which character separates your post info. Default value is "
+"|"
+msgstr ""
+"هنا يمكنك تغيير الرمز الذي يفصل بين عناصر معلومات المقالة. الافتراضي هو |"
+
+#: includes/mh_panel/mh_options.php:253
+msgid "Pre post author"
+msgstr "ما قبل الكاتب"
+
+#: includes/mh_panel/mh_options.php:256
+msgid "By"
+msgstr "لـ"
+
+#: includes/mh_panel/mh_options.php:257
+msgid "Here you can change the word before the post author. Default is 'By'."
+msgstr "هنا يمكنك تغيير الكلمة التي تسبق كاتب المقالة. الافتراضي هو لـ"
+
+#: includes/mh_panel/mh_options.php:261
+msgid "Post info alt style"
+msgstr "شكل بديل لمعلومات المقالة"
+
+#: includes/mh_panel/mh_options.php:265
+msgid ""
+"This option will change the look for your post info to be in a stylish two-"
+"line format."
+msgstr "هذا الاختيار سيغير شكل معلومات المقالة إلى شكل أنيق."
+
+#: includes/mh_panel/mh_options.php:267
+msgid "Choose which items to display in the postinfo section in archive pages"
+msgstr "اختر العناصر المرغوب ظهورها في معلومات المقالة على صفحات الأرشيف."
+
+#: includes/mh_panel/mh_options.php:272
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. This "
+"is area is usually below the post title and displays basic information about "
+"your post. The highlighted items shown below will appear."
+msgstr ""
+"- هذا الاختيار للصفحات الأخرى كالصفحة الرئيسية والأرشيف. هنا يمكنك اختيار "
+"العناصر المرغوب ظهورها كمعلومات للمقالة. عادة تظهر هذه المعلومات أسفل و/أو "
+"أعلى المقالة."
+
+#: includes/mh_panel/mh_options.php:276 includes/mh_panel/mh_options.php:330
+msgid "Post info position"
+msgstr "مكان معلومات المقالة"
+
+#: includes/mh_panel/mh_options.php:280 includes/mh_panel/mh_options.php:334
+msgid "Above title and media"
+msgstr "فوق العنوان والوسائط"
+
+#: includes/mh_panel/mh_options.php:281
+msgid "Above title"
+msgstr "أعلى العنوان"
+
+#: includes/mh_panel/mh_options.php:282 includes/mh_panel/mh_options.php:335
+msgid "Below title"
+msgstr "أسفل العنوان"
+
+#: includes/mh_panel/mh_options.php:285 includes/mh_panel/mh_options.php:339
+msgid "Here you can choose where you want the post info block."
+msgstr "هنا يمكنك تحديد مكان ظهور معلومات المقالة."
+
+#: includes/mh_panel/mh_options.php:289
+msgid "Show Thumbs on Index pages"
+msgstr "عرض الصورة البارزة على صفحات الأرشيف."
+
+#: includes/mh_panel/mh_options.php:293
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "فعل هذه الخاصية لعرض الصور البارزة في صفحات الأرشيف."
+
+#: includes/mh_panel/mh_options.php:300
+msgid "Here you can change the word 'Read more'."
+msgstr "هنا يمكنك تغيير كلمة 'اقرأ المزيد'."
+
+#: includes/mh_panel/mh_options.php:303
+msgid "Show Read More on Archive pages"
+msgstr "عرض رابط اقرأ المزيد على صفحات الأرشيف"
+
+#: includes/mh_panel/mh_options.php:307
+msgid "Enable this option to show Read More link on Archive Pages."
+msgstr "تفعيل هذا الخيار سيعرض رابط “اقرأ المزيد” على صفحات الأرشيف."
+
+#: includes/mh_panel/mh_options.php:309
+msgid "Read More Button Style"
+msgstr "اقرأ المزيد على شكل زر"
+
+#: includes/mh_panel/mh_options.php:313
+msgid "Here you can define whether to display \"read more\" link as a button."
+msgstr "هذا الاختيار سيعرض رابط اقرأ المزيد على شكل زر."
+
+#: includes/mh_panel/mh_options.php:322
+msgid "Choose which items to display in the postinfo section"
+msgstr "اختر العناصر المرغوب ظهورها في معلومات المقالة"
+
+#: includes/mh_panel/mh_options.php:326
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"pages. This is area is usually below the post title and displays basic "
+"information about your post. The highlighted items shown below will appear."
+msgstr ""
+"هنا يمكنك اختيار العناصر المرغوب ظهورها في معلومات المقالة، عادة تظهر هذه "
+"المعلومات أسفل و/أو أعلى المقالة."
+
+#: includes/mh_panel/mh_options.php:336
+msgid "Below title and media"
+msgstr "أسفل العنوان والوسائط"
+
+#: includes/mh_panel/mh_options.php:342
+msgid "Place Thumbs on Posts"
+msgstr "عرض الصورة البارزة في المقالة"
+
+#: includes/mh_panel/mh_options.php:346
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single post "
+"pages. If you would like to remove this initial thumbnail image to avoid "
+"repetition simply disable this option."
+msgstr ""
+"افتراضيا، يتم عرض الصورة البارزة للمقالات في أعلى صفحة كل مقالة.  في حال رغبتك "
+"بإدراج الصورة في المقالات بنفسك أو لا تود عرض الصور البارزة نهائيا، عطل هذه "
+"الخاصية."
+
+#: includes/mh_panel/mh_options.php:349
+msgid "Grab the first post image"
+msgstr "تمييز أول صورة في المقالة"
+
+#: includes/mh_panel/mh_options.php:353
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once activcated "
+"thumbnail images will be generated automatically using the first image in your "
+"post. The image must be hosted on your own server."
+msgstr ""
+"افتراضيا، الصورة البارزة للمقالات يمكن اختيارها من خلال مربع \"الصورة البارزة"
+"\" في صفحة إنشاء أو تحرير المقالة. إن كنت ترغب بدلا عن ذلك باختيار الصورة "
+"الأولى في المقالة كصورة بارزة تلقائيا - وتجاوز الصورة البارزة - فعل هذه "
+"الخاصية. بعد التفعيل سيتم تلقائيا اختيار الصورة الأولى ضمن محتوى كل مقالة "
+"كصورة بارزة، ملاحظات: لابد أن يتم رفع الصور إلى الموقع الخاص بك ولا يكفي "
+"استخدام روابط. المقالات التي لا تحوي أي صورة لن يكون لها صورة بارزة."
+
+#: includes/mh_panel/mh_options.php:356
+msgid "Video Cover Style"
+msgstr "غلاف الفيديو"
+
+#: includes/mh_panel/mh_options.php:360
+msgid ""
+"By default videos are placed at the beginning of your post on single post "
+"pages. If you would like to feature the video enable this option. This will "
+"work only on video post format."
+msgstr ""
+"بشكل افتراضي المقالات تعرض الفيديو في بداية المقالة. إن كنت تود تمييز الفيديو "
+"في أعلى الصفحة على شكل غلاف. فعل هذا الاختيار. هذا الاختيار يعمل فقط مع بنية "
+"المقالة \"فيديو\""
+
+#: includes/mh_panel/mh_options.php:363
+msgid "Show related posts"
+msgstr "إظهار مقالات ذات صلة"
+
+#: includes/mh_panel/mh_options.php:367
+msgid ""
+"You can enable this option if you want to display the related posts section on "
+"single post."
+msgstr "يمكنك تفعيل هذا الاختيار لعرض مقالات ذات صلة أسفل المقالات."
+
+#: includes/mh_panel/mh_options.php:369
+msgid "Related posts title (if enabled)"
+msgstr "عنوان مقالات ذات صلة"
+
+#: includes/mh_panel/mh_options.php:373
+msgid ""
+"If you have enabled related posts on your posts you can add your custom title "
+"here."
+msgstr ""
+"إن كنت اخترت إظهار مقالات ذات صلة يمكنك اختيار العنوان المناسب لقسم مقالات ذات "
+"صلة هنا."
+
+#: includes/mh_panel/mh_options.php:378
+msgid "Show comments on posts"
+msgstr "عرض التعليقات في المقالات"
+
+#: includes/mh_panel/mh_options.php:382
+msgid ""
+"You can disable this option if you want to remove the comment form and the "
+"comments from all single post pages."
+msgstr ""
+"إن كنت تود إخفاء التعليقات ونموذج التعليق في المقالات يمكنك تعطيل هذه الخاصية."
+
+#: includes/mh_panel/mh_options.php:384
+msgid "Show post Navigation"
+msgstr "إظهار التنقل بين المقالات"
+
+#: includes/mh_panel/mh_options.php:388
+msgid "Enable this option If you want to display the post navigation."
+msgstr "فعل هذا الخيار لإظهار أسهم التنقل بين المقالات."
+
+#: includes/mh_panel/mh_options.php:397
+msgid "Place Thumbs on Projects"
+msgstr "عرض الصورة البارزة في الأعمال"
+
+#: includes/mh_panel/mh_options.php:401
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"project pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option."
+msgstr ""
+"افتراضيا، يتم عرض الصورة البارزة للأعمال في أعلى صفحة كل عمل. في حال رغبتك "
+"بإدراج الصورة في الأعمال بنفسك أو لا تود عرض الصور البارزة نهائيا، عطل هذه "
+"الخاصية."
+
+#: includes/mh_panel/mh_options.php:404
+msgid "Show comments on projects"
+msgstr "عرض التعليقات في الأعمال"
+
+#: includes/mh_panel/mh_options.php:408
+msgid ""
+"You can disable this option if you want to remove the comment form and the "
+"comments from all single project pages."
+msgstr ""
+"إن كنت تود إخفاء التعليقات ونموذج التعليق في الأعمال يمكنك تعطيل هذه الخاصية."
+
+#: includes/mh_panel/mh_options.php:410
+msgid "Show project Navigation"
+msgstr "إظهار التنقل بين الأعمال"
+
+#: includes/mh_panel/mh_options.php:414
+msgid "Enable this option If you want to display the project navigation."
+msgstr "فعل هذا الخيار لإظهار أسهم التنقل بين الأعمال."
+
+#: includes/mh_panel/mh_options.php:417
+msgid "Project Tags Title"
+msgstr "عنوان وسوم الأعمال"
+
+#: includes/mh_panel/mh_options.php:421
+msgid "Here you can change the title. Default value is: Skills"
+msgstr "هنا يمكنك تغيير عنوان وسوم المشاريع. الافتراضي هو: المهارات"
+
+#: includes/mh_panel/mh_options.php:425
+msgid "Show related projects"
+msgstr "إظهار أعمال ذات صلة"
+
+#: includes/mh_panel/mh_options.php:429
+msgid ""
+"You can enable this option if you want to display the related projects section "
+"on single project."
+msgstr ""
+"يمكنك تفعيل هذا الاختيار، إن كنت ترغب بعرض قسم أعمال ذات صلة في صفحة كل عمل."
+
+#: includes/mh_panel/mh_options.php:431
+msgid "Related projects title (if enabled)"
+msgstr "عنوان أعمال ذات صلة"
+
+#: includes/mh_panel/mh_options.php:435
+msgid "If you have enabled related projetcs, you can add your custom title here."
+msgstr "إن كنت اخترت إظهار أعمال ذات صلة يمكنك اختيار العنوان المناسب للقسم هنا."
+
+#: includes/mh_panel/mh_options.php:445
+msgid "Place Thumbs on Pages"
+msgstr "عرض الصورة البارزة في الصفحات"
+
+#: includes/mh_panel/mh_options.php:449
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option."
+msgstr ""
+"افتراضيا، الصور البارزة فقط للمقالات ولا تظهر في الصفحات، عند رغبتك باستخدامها "
+"في الصفحات ببساطة فعل هذه الخاصية!"
+
+#: includes/mh_panel/mh_options.php:452
+msgid "Show comments on pages"
+msgstr "عرض التعليقات في الصفحات"
+
+#: includes/mh_panel/mh_options.php:456
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option."
+msgstr ""
+"افتراضيا، الصفحات لا تحوي تعليقات. عند رغبتك بظهور التعليقات + نموذج التعليق "
+"في الصفحات، ببساطة فعل هذه الخاصية!"
+
+#: includes/mh_panel/mh_options.php:473
+msgid "Social Icons"
+msgstr "أيقونات التواصل الاجتماعي"
+
+#: includes/mh_panel/mh_options.php:477
+msgid "Quick Contact"
+msgstr "التواصل السريع"
+
+#: includes/mh_panel/mh_options.php:486
+msgid "Facebook Icon"
+msgstr "أيقونة Facebook"
+
+#: includes/mh_panel/mh_options.php:490 includes/mh_panel/mh_options.php:497
+#: includes/mh_panel/mh_options.php:504 includes/mh_panel/mh_options.php:511
+#: includes/mh_panel/mh_options.php:518 includes/mh_panel/mh_options.php:525
+#: includes/mh_panel/mh_options.php:532 includes/mh_panel/mh_options.php:539
+#: includes/mh_panel/mh_options.php:546 includes/mh_panel/mh_options.php:553
+#: includes/mh_panel/mh_options.php:560 includes/mh_panel/mh_options.php:567
+#: includes/mh_panel/mh_options.php:574 includes/mh_panel/mh_options.php:581
+#: includes/mh_panel/mh_options.php:588 includes/mh_panel/mh_options.php:595
+#: includes/mh_panel/mh_options.php:602 includes/mh_panel/mh_options.php:609
+msgid ""
+"Here you can choose to display the Icon on your website. Add your URL in the "
+"field below."
+msgstr ""
+"هنا يمكنك اختيار عرض الأيقونة على موقعك. أضف الرابط الخاص بك في الحقل أدناه."
+
+#: includes/mh_panel/mh_options.php:493
+msgid "Twitter Icon"
+msgstr "أيقونة Twitter"
+
+#: includes/mh_panel/mh_options.php:500
+msgid "Instagram Icon"
+msgstr "أيقونة Instagram"
+
+#: includes/mh_panel/mh_options.php:507
+msgid "Google+ Icon"
+msgstr "أيقونة Google+"
+
+#: includes/mh_panel/mh_options.php:514
+msgid "YouTube Icon"
+msgstr "أيقونة YouTube"
+
+#: includes/mh_panel/mh_options.php:521
+msgid "LinkedIn Icon"
+msgstr "أيقونة LinkedIn"
+
+#: includes/mh_panel/mh_options.php:528
+msgid "Behance Icon"
+msgstr "أيقونة Behance"
+
+#: includes/mh_panel/mh_options.php:535
+msgid "Dribbble Icon"
+msgstr " أيقونة Dribbble"
+
+#: includes/mh_panel/mh_options.php:542
+msgid "Flickr Icon"
+msgstr "أيقونة Flickr"
+
+#: includes/mh_panel/mh_options.php:549
+msgid "SoundCloud Icon"
+msgstr "أيقونة SoundCloud"
+
+#: includes/mh_panel/mh_options.php:556
+msgid "Skype Icon"
+msgstr "أيقونة Skype"
+
+#: includes/mh_panel/mh_options.php:563
+msgid "Telegram Icon"
+msgstr "أيقونة Telegram"
+
+#: includes/mh_panel/mh_options.php:570
+msgid "Mixlr Icon"
+msgstr "أيقونة Mixlr"
+
+#: includes/mh_panel/mh_options.php:577
+msgid "Periscope Icon"
+msgstr "أيقونة Periscope"
+
+#: includes/mh_panel/mh_options.php:584
+msgid "YouNow Icon"
+msgstr "أيقونة YouNow"
+
+#: includes/mh_panel/mh_options.php:591
+msgid "Snapchat Icon"
+msgstr "أيقونة Snapchat"
+
+#: includes/mh_panel/mh_options.php:598
+msgid "TripAdvisor Icon"
+msgstr "أيقونة TripAdvisor"
+
+#: includes/mh_panel/mh_options.php:605
+msgid "Pinterest Icon"
+msgstr "أيقونة Pinterest"
+
+#: includes/mh_panel/mh_options.php:612
+msgid "RSS Icon"
+msgstr "أيقونة RSS"
+
+#: includes/mh_panel/mh_options.php:616
+msgid "Here you can choose to display the Icon on your website."
+msgstr "هنا يمكنك اختيار عرض الأيقونة على موقعك."
+
+#: includes/mh_panel/mh_options.php:624
+msgid "Enter the URL of your Facebook Profile."
+msgstr "أدخل رابط حسابك على فيسبوك"
+
+#: includes/mh_panel/mh_options.php:632
+msgid "Enter the URL of your Twitter Profile."
+msgstr "أدخل رابط حسابك على تويتر."
+
+#: includes/mh_panel/mh_options.php:635
+msgid "instagram URL"
+msgstr "رابط Instagram"
+
+#: includes/mh_panel/mh_options.php:640
+msgid "Enter the URL of your instagram Profile."
+msgstr "أدخل رابط حسابك على انستجرام."
+
+#: includes/mh_panel/mh_options.php:648
+msgid "Enter the URL of your Google+ Profile."
+msgstr "أدخل رابط حسابك على جوجل+"
+
+#: includes/mh_panel/mh_options.php:656
+msgid "Enter the URL of your YouTube Channel."
+msgstr "أدخل رابط قناتك على يوتيوب."
+
+#: includes/mh_panel/mh_options.php:664
+msgid "Enter the URL of your LinkedIn Profile."
+msgstr "أدخل رابط حسابك على لينكدين."
+
+#: includes/mh_panel/mh_options.php:672
+msgid "Enter the URL of your Behance Profile."
+msgstr "أدخل رابط حسابك على بيهانس."
+
+#: includes/mh_panel/mh_options.php:680
+msgid "Enter the URL of your Dribbble Profile."
+msgstr "أدخل رابط حسابك على دريبل,"
+
+#: includes/mh_panel/mh_options.php:688
+msgid "Enter the URL of your Flickr Profile."
+msgstr "أدخل رابط حسابك على فلكر."
+
+#: includes/mh_panel/mh_options.php:691
+msgid "SoundCloud URL"
+msgstr "رابط SoundCloud"
+
+#: includes/mh_panel/mh_options.php:696
+msgid "Enter the URL of your SoundCloud Profile."
+msgstr "أدخل رابط حسابك على ساوندكلاود."
+
+#: includes/mh_panel/mh_options.php:699
+msgid "Skype Username"
+msgstr "معرف Skype"
+
+#: includes/mh_panel/mh_options.php:704
+msgid "Enter the URL of your Skype Username."
+msgstr "أدخل معرفك (اسم المستخدم) على سكايب."
+
+#: includes/mh_panel/mh_options.php:707
+msgid "Telegram URL"
+msgstr "رابط Telegram"
+
+#: includes/mh_panel/mh_options.php:712
+msgid "Enter the URL of your Telegram Broadcast."
+msgstr "أدخل رابط برودكاست تيليجرام."
+
+#: includes/mh_panel/mh_options.php:715
+msgid "Mixlr URL"
+msgstr "رابط Mixlr"
+
+#: includes/mh_panel/mh_options.php:720 includes/mh_panel/mh_options.php:728
+#: includes/mh_panel/mh_options.php:736 includes/mh_panel/mh_options.php:744
+#: includes/mh_panel/mh_options.php:752 includes/mh_panel/mh_options.php:760
+msgid "Enter the URL of your Account."
+msgstr "أدخل رابط حسابك هنا."
+
+#: includes/mh_panel/mh_options.php:723
+msgid "Periscope URL"
+msgstr "رابط Periscope"
+
+#: includes/mh_panel/mh_options.php:731
+msgid "YouNow URL"
+msgstr "رابط YouNow"
+
+#: includes/mh_panel/mh_options.php:747
+msgid "TripAdvisor URL"
+msgstr "رابط TripAdvisor"
+
+#: includes/mh_panel/mh_options.php:763
+msgid "RSS Url"
+msgstr "رابط RSS"
+
+#: includes/mh_panel/mh_options.php:768
+msgid "Enter the URL of your RSS feed."
+msgstr "أدخل رابط التغذية الراجعة (RSS) لموقعك."
+
+#: includes/mh_panel/mh_options.php:777
+msgid "This feature requires MH Page Composer plugin. Please activate it now."
+msgstr "هذه الميزة تتطلب إضافة مهارتي - مؤلف الصفحات. قم بتفعيلها الآن."
+
+#: includes/mh_panel/mh_options.php:780
+msgid "Show Quick Contact Form"
+msgstr "إظهار نموذج التواصل السريع"
+
+#: includes/mh_panel/mh_options.php:784
+msgid "Here you can choose to display the Quick contact form on your website."
+msgstr "هنا يمكنك عرض نموذج التواصل السريع على موقعك."
+
+#: includes/mh_panel/mh_options.php:786
+msgid "Enable Captcha"
+msgstr "تفعيل سؤال التحقق"
+
+#: includes/mh_panel/mh_options.php:790
+msgid "You can enable captcha for your contact form."
+msgstr "يمكنك تفعيل سؤال التحقق لنموذج التواصل السريع."
+
+#: includes/mh_panel/mh_options.php:794
+msgid "Quick Contact Form Email"
+msgstr "بريد إلكتروني لنموذج الاتصال السريع"
+
+#: includes/mh_panel/mh_options.php:798
+msgid "Put the email to which messages will be sent."
+msgstr "البريد الإلكتروني الذي ستصل عليه رسائل نموذج التواصل السريع."
+
+#: includes/mh_panel/mh_options.php:801
+msgid "Quick Contact Form Title"
+msgstr "عنوان نموذج الاتصال السريع"
+
+#: includes/mh_panel/mh_options.php:805
+msgid "You could use this field to display a title for your quick contact form."
+msgstr "يمكنك استخدام هذا الحقل لعرض عنوان لنموذج التواصل السريع."
+
+#: includes/mh_panel/mh_options.php:808
+msgid "Quick Contact Form Excerpt"
+msgstr "مقتطف نموذج التواصل السريع"
+
+#: includes/mh_panel/mh_options.php:812
+msgid ""
+"You could use this field to display an excerpt for your quick contact form."
+msgstr "يمكنك استخدام هذا الحقل لعرض مقتطف نصي قصير في نموذج التواصل السريع."
+
+#: includes/mh_panel/mh_options.php:815
+msgid "Quick Contact Form Success Message"
+msgstr "رسالة الاستلام نموذج التواصل السريع"
+
+#: includes/mh_panel/mh_options.php:819
+msgid ""
+"Define a message to display after successful form submission. Leave empty to "
+"use the default message."
+msgstr ""
+"هنا ضع رسالة لتظهر بعد ضغط زر الإرسال، أو اتركه فارغاً لاستخدام الرسالة "
+"الافتراضية."
+
+#: includes/mh_panel/mh_options.php:822
+msgid "Quick Contact Form Use Redirect"
+msgstr "إعادة توجيه نموذج الاتصال السريع"
+
+#: includes/mh_panel/mh_options.php:826
+msgid "Redirect visitors after successful form submission."
+msgstr ""
+"تفعيل هذا الاختيار لإعادة توجيه الزائر إلى صفحة أخرى بعد إرسال الرسالة بنجاح، "
+"ضع الرابط في الحقل المخصص."
+
+#: includes/mh_panel/mh_options.php:828
+msgid "Quick Contact Form Redirect URL"
+msgstr "رابط إعادة توجيه نموذج التواصل السريع"
+
+#: includes/mh_panel/mh_options.php:832
+msgid ""
+"Input the Redirect URL here, This will redirect visitors after successful form "
+"submission."
+msgstr "أدخل رابطا لإعادة توجيه الزائر إلى صفحة أخرى بعد إرسال الرسالة بنجاح."
+
+#: includes/mh_panel/mh_options.php:851
+msgid "Pages"
+msgstr "صفحات"
+
+#: includes/mh_panel/mh_options.php:856 includes/mh_panel/mh_panel.php:506
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: includes/mh_panel/mh_options.php:869 includes/mh_panel/mh_options.php:920
+msgid "Show dropdown menus"
+msgstr "إظهار القوائم المنسدلة"
+
+#: includes/mh_panel/mh_options.php:873
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"في حال رغبت بحذف القوائم المنسدلة من قائمة صفحاتك، قم بتعطيل هذه الخاصية."
+
+#: includes/mh_panel/mh_options.php:876
+msgid "Display Home link"
+msgstr "عرض رابط الرئيسية"
+
+#: includes/mh_panel/mh_options.php:880
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"افتراضيا القالب يقوم بإنشاء رابط للصفحة الرئيسية في موقعك ووضعه ضمن القائمة. "
+"أحيانا تود استخدام صفحة ثابتة كصفحة رئيسية أو قمت بإنشاء صفحة أخرى للرئيسية في "
+"موقعك ... في هذه الحالات سيظهر رابط الصفحة الرئيسية مكررا. قم حينها بتعطيل هذه "
+"الخاصية لحذف الرابط."
+
+#: includes/mh_panel/mh_options.php:883
+msgid "Sort Pages Links"
+msgstr "ترتيب روابط الصفحات"
+
+#: includes/mh_panel/mh_options.php:887
+msgid "Here you can choose to sort your pages links."
+msgstr "هنا يمكنك اختيار ترتيب روابط الصفحات حسب ما يناسبك."
+
+#: includes/mh_panel/mh_options.php:890
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "ترتيب روابط الصفحات تصاعديا وتنازليا"
+
+#: includes/mh_panel/mh_options.php:894
+msgid ""
+"Here you can choose to reverse the order that your pages links are displayed. "
+"You can choose between ascending and descending."
+msgstr "هنا يمكنك عكس اتجاه ترتيب روابط الصفحات، اختر بين تصاعدي أو تنازلي"
+
+#: includes/mh_panel/mh_options.php:897 includes/mh_panel/mh_options.php:934
+msgid "Number of dropdown tiers shown"
+msgstr "عدد طبقات القوائم المنسدلة المعروضة"
+
+#: includes/mh_panel/mh_options.php:901 includes/mh_panel/mh_options.php:938
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"هذه الخاصية تمكنك من تحديد عدد الطبقات الفرعية في القوائم المنسدلة، عدد أكبر "
+"في الخانة يعني إمكانية عرض عدد أكبر من القوائم الفرعية المنسدلة"
+
+#: includes/mh_panel/mh_options.php:905
+msgid "Exclude pages from the navigation bar"
+msgstr "استثناء وتضمين الصفحات من القائمة"
+
+#: includes/mh_panel/mh_options.php:909
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar."
+msgstr ""
+"هنا يمكنك حذف بعض الصفحات من القائمة. كل الصفحات التي بجانبها علامة X لن تظهر "
+"في قائمة موقعك."
+
+#: includes/mh_panel/mh_options.php:924
+msgid ""
+"If you would like to remove the dropdown menus from the categories navigation "
+"bar disable this feature."
+msgstr ""
+"في حال رغبت بحذف القوائم المنسدلة من قائمة تصنيفاتك، قم بتعطيل هذه الخاصية."
+
+#: includes/mh_panel/mh_options.php:927
+msgid "Hide empty categories"
+msgstr "إخفاء التصنيفات الفارغة"
+
+#: includes/mh_panel/mh_options.php:931
+msgid ""
+"If you would like categories to be displayed in your navigation bar that don't "
+"have any posts in them then disable this option. By default empty categories "
+"are hidden"
+msgstr ""
+"افتراضيا، التصنيفات الفارغة التي لا تحوي أي مقالات مرتبطة بها لا يتم عرضها في "
+"الموقع - وهذا مستحسن- إن كنت تود عرض التصنيفات الفارغة لسبب ما، قم بتعطيل هذه "
+"الخاصية."
+
+#: includes/mh_panel/mh_options.php:942
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "ترتيب روابط التصنيفات حسب: المعرف، الاسم، الاسم اللطيف، عدد المقالات..."
+
+#: includes/mh_panel/mh_options.php:946
+msgid ""
+"By default pages are sorted by name. However, if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"افتراضيا، التصنيفات يتم ترتيبها حسب الاسم. هنا يمكنك اختيار الترتيب المرغوب."
+
+#: includes/mh_panel/mh_options.php:949
+msgid "Order Category Links by Ascending/Descending"
+msgstr "رتب روابط التصنيفات تصاعديا وتنازليا"
+
+#: includes/mh_panel/mh_options.php:953
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr "هنا يمكنك عكس اتجاه ترتيب روابط التصنيفات، اختر بين تصاعدي أو تنازلي"
+
+#: includes/mh_panel/mh_options.php:955
+msgid "Exclude categories from the navigation bar"
+msgstr "استثناء وتضمين التصنيفات من القائمة"
+
+#: includes/mh_panel/mh_options.php:959
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. All "
+"categories marked with an X will not appear in your navigation bar."
+msgstr ""
+"هنا يمكنك حذف بعض التصنيفات من القائمة. كل التصنيفات التي بجانبها علامة X لن "
+"تظهر في قائمة موقعك."
+
+#: includes/mh_panel/mh_options.php:970
+msgid "Disable top tier dropdown menu links"
+msgstr "تعطيل الأب في القائمة المنسدلة."
+
+#: includes/mh_panel/mh_options.php:974
+msgid ""
+"Sometimes users will want to create parent categories or links as placeholders "
+"to hold a list of child links or categories. In this case it is not desirable "
+"to have the parent links lead anywhere, but instead merely serve an "
+"organizational function. Enabling this options will remove the links from all "
+"parent pages/categories so that they don't lead anywhere when clicked."
+msgstr ""
+"أحيانا عندما تقوم بإنشاء قائمة منسدلة للتصنيفات أو صفحات من اختيارك في "
+"القائمة، تود جعل الأب (العنصر الأول) مجرد تنظيم وليس رابط لصفحة. تفعيل هذا "
+"الخيار يستبدل روابط الطبقة الأب في القوائم المنسدلة بـ # بحيث لا تعمل عندما "
+"يتم الضغط عليها."
+
+#: includes/mh_panel/mh_options.php:994
+msgid "Homepage SEO"
+msgstr "الصفحة الرئيسية SEO"
+
+#: includes/mh_panel/mh_options.php:999
+msgid "Single Post Page SEO"
+msgstr "صفحة المقالة SEO"
+
+#: includes/mh_panel/mh_options.php:1004
+msgid "Index Page SEO"
+msgstr "صفحة الأرشيف SEO"
+
+#: includes/mh_panel/mh_options.php:1012
+msgid " Enable custom title "
+msgstr "تفعيل عنوان مخصص"
+
+#: includes/mh_panel/mh_options.php:1016
+msgid ""
+"By default the theme creates your homepage titles using a combination of your "
+"blog name and your blog description, as defined when you created your blog. "
+"However if you want to create a custom title then simply enable this option "
+"and fill in the custom title field below."
+msgstr ""
+"افتراضيا، القالب يستخدم مزيجا من عنوان الموقع وجملة الشعار الخاصة بموقعك، كما "
+"هو ظاهر في صفحة إعدادات عامة (إعدادات > عام). في حال رغبتك باختيار عنوان مخصص "
+"ببساطة فعل هذه الخاصية واملأ حقل العنوان المخصص أدناه."
+
+#: includes/mh_panel/mh_options.php:1019
+msgid " Enable meta description"
+msgstr "تفعيل وصف مخصص"
+
+#: includes/mh_panel/mh_options.php:1023
+msgid ""
+"By default the theme fills in the meta description field using your blog "
+"description, as defined when you created your blog. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below."
+msgstr ""
+"افتراضيا، القالب يستخدم جملة الشعار كوصف الموقع < meta >، كما هو ظاهر في صفحة "
+"إعدادات عامة (إعدادات > عام). إذا كنت ترغب باستخدام وصف مختلف فعل هذه الخاصية "
+"واملأ حقل الوصف المخصص أدناه."
+
+#: includes/mh_panel/mh_options.php:1026
+msgid " Enable meta keywords"
+msgstr "تفعيل الكلمات الوصفية"
+
+#: includes/mh_panel/mh_options.php:1030
+msgid ""
+"By default the theme does not add keywords to your header. Most search engines "
+"don't use keywords to rank your site any more, but some people define them "
+"anyway just in case. If you want to add meta keywords to your header then "
+"enable this option and fill in the custom keywords field below."
+msgstr ""
+"افتراضيا، القالب لا يضيف إلى موقعك أي كلمات وصفية ضمن < meta >. معظم محركات "
+"البحث لم تعد تستخدم الكلمات الوصفية لتقييم موقعك أو تصنيفه أو عرضه. على كل "
+"حال، بعض الناس يرغب بتضمينها لسبب أو لآخر. إذا كنت ترغب في إضافة الكلمات "
+"الوصفية الخاصة بموقعك، فعل هذه الخاصية واملأ حقل الكلمات الوصفية أدناه."
+
+#: includes/mh_panel/mh_options.php:1035
+msgid "Homepage custom title (if enabled)"
+msgstr "عنوان مخصص للصفحة الرئيسية"
+
+#: includes/mh_panel/mh_options.php:1039
+msgid ""
+"If you have enabled custom titles you can add your custom title here. Whatever "
+"you type here will be placed between the < title >< /title > tags in header.php"
+msgstr ""
+"إن قمت بتفعيل خاصية العنوان المخصص أعلاه، ضع العنوان المرغوب في الحقل. ما تقوم "
+"بكتابته هنا سيتم تضمينه بين علامة < title >< /title > في أعلى كود موقعك."
+
+#: includes/mh_panel/mh_options.php:1043
+msgid "Homepage meta description (if enabled)"
+msgstr "وصف مخصص للصفحة الرئيسية"
+
+#: includes/mh_panel/mh_options.php:1047
+msgid ""
+"If you have enabled meta descriptions you can add your custom description here."
+msgstr "إن قمت بتفعيل خاصية الوصف المخصص أعلاه، ضع هنا الوصف المرغوب لموقعك."
+
+#: includes/mh_panel/mh_options.php:1051
+msgid "Homepage meta keywords (if enabled)"
+msgstr "الكلمات الوصفية للصفحة الرئيسية"
+
+#: includes/mh_panel/mh_options.php:1055
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by commas. For example: wordpress,themes,templates"
+msgstr ""
+"إن قمت بتفعيل خاصية الكلمات الوصفية أعلاه، ضع هنا الكلمات المرغوبة. يجب الفصل "
+"بين كل كلمة وأخرى بفاصلة انجليزية مثل: التعليم,المدارس,الطلاب,المناهج"
+
+#: includes/mh_panel/mh_options.php:1059 includes/mh_panel/mh_options.php:1138
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "إن كان العنوان المخصص غير مفعلا - اختر شكل العنوان"
+
+#: includes/mh_panel/mh_options.php:1064 includes/mh_panel/mh_options.php:1143
+msgid ""
+"If you are not using custom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like your "
+"post title and blog name to be displayed, or you can remove the blog name from "
+"the title completely."
+msgstr ""
+"في حال كنت تستخدم عنوانا مخصصا وترغب بتغيير شكل العنوان الظاهر في موقعك. هنا "
+"يمكنك اختيار الترتيب المرغوب لاسم موقعك وعنوان المقالة، أو يمكنك حذف اسم "
+"الموقع من العنوان نهائيا."
+
+#: includes/mh_panel/mh_options.php:1067 includes/mh_panel/mh_options.php:1146
+#: includes/mh_panel/mh_options.php:1185
+msgid "Define a character to separate BlogName and Post title"
+msgstr "اختر الفاصلة المرغوبة بين اسم الموقع وعنوان المقالة"
+
+#: includes/mh_panel/mh_options.php:1071 includes/mh_panel/mh_options.php:1150
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"هنا يمكنك اختيار الفاصلة بين اسم الموقع وعنوان المقالة. غالبا تكون | أو -"
+
+#: includes/mh_panel/mh_options.php:1074 includes/mh_panel/mh_options.php:1192
+msgid " Enable canonical URL's"
+msgstr "تفعيل الروابط القياسية (canonical)"
+
+#: includes/mh_panel/mh_options.php:1078 includes/mh_panel/mh_options.php:1157
+#: includes/mh_panel/mh_options.php:1196
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by search "
+"engines, and as a result, may help avoid duplicate content penalties and "
+"pagerank degradation. Some pages may have different URL's all leading to the "
+"same place. For example domain.com, domain.com/index.html, and www.domain.com "
+"are all different URLs leading to your homepage. From a search engine's "
+"perspective these duplicate URLs, which also occur often due to custom "
+"permalinks, may be treated individually instead of as a single destination. "
+"Defining a canonical URL tells the search engine which URL you would like to "
+"use officially. The theme bases its canonical URLs on your permalinks and the "
+"domain name defined in the settings tab of wp-admin."
+msgstr ""
+"هذه الخاصية تساعد على منع فهرسة المحتوى المكرر على محركات البحث العالمية، مما "
+"قد يساعد على تجنب التأثيرات السلبية التي تجلبها المحتويات المكررة كتدهور تقييم "
+"موقعك. أحيانا تكون روابط بعض صفحات  الموقع مختلفة لكنها جميعا تؤدي إلى نفس "
+"الصفحة (المحتوى). على سبيل المثال: domein.com, domain.com/index.html, www."
+"domain.com\n"
+"كلها روابط وعناوين مختلفة ولكنها تؤدي إلى صفحتك الرئيسية، والتي تحدث في كثير "
+"من الأحيان بسبب الروابط الدائمة. من وجهة نظر محرك البحث التعامل مع هذه الروابط "
+"المكررة يكون كل على حدة بدلا من اعتبارها روابط لنفس الوجهة (الصفحة الرئيسية "
+"على سبيل المثال). خاصية (canonical) تقول لمحرك البحث أن هذا الرابط هو المعتمد "
+"لديك رسميا. بعد تفعيل هذه الخاصية سيقوم القالب ببناء هذه الروابط واعتمادها "
+"انطلاقا من إعداداتك الخاصة للروابط الدائمة والدومين الخاص بموقعك المحددة هنا "
+"في لوحة تحكم موقعك (wp-admin)."
+
+#: includes/mh_panel/mh_options.php:1089
+msgid "Enable custom titles"
+msgstr "تفعيل عنوان مخصص"
+
+#: includes/mh_panel/mh_options.php:1093
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than your "
+"actual post title you can define a custom title for each post using custom "
+"fields. This option must be enabled for custom titles to work, and you must "
+"choose a custom field name for your title below."
+msgstr ""
+"افتراضيا، القالب يقوم بإنشاء عناوين المقالات بالدمج بين اسم الموقع وعنوان "
+"المقالة. إذا كنت ترغب في جعل العنوان المخصص مختلفا عن العنوان الحقيقي للمقالة، "
+"يمكنك تحديد عنوان مخصص لكل مقالة باستخدام \"خصائص إضافية\" من صفحة إضافة مقالة "
+"أو تحرير مقالة. فعل هذا الخيار لتعمل العناوين المخصصة للمقالات، يجب عليك عندها "
+"اختيار اسم حقل مخصص أدناه."
+
+#: includes/mh_panel/mh_options.php:1096
+msgid "Enable custom description"
+msgstr "تفعيل عنوان وصفي"
+
+#: includes/mh_panel/mh_options.php:1100
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed on "
+"post pages. You can add your meta description using custom fields based on the "
+"custom field name you define below."
+msgstr ""
+"إن كنت ترغب بإضافة وصف مخصص لمقالاتك يمكنك ذلك باستخدام \"خصائص إضافية\" في "
+"صفحة أضف مقالة أو تحرير مقالة. فعل هذه الخاصية لوضع وصف مخصص لكل مقالة على "
+"حدة. يمكنك بعدها وضع وصف باستخدام \"حقل مخصص\" معتمداً على الاسم الذي ستحدده في "
+"هذه الخانة"
+
+#: includes/mh_panel/mh_options.php:1105
+msgid "Enable custom keywords"
+msgstr "تفعيل كلمات وصفية"
+
+#: includes/mh_panel/mh_options.php:1109
+msgid ""
+"If you would like to add meta keywords to your post you can do so using custom "
+"fields. This option must be enabled for keywords to be displayed on post "
+"pages. You can add your meta keywords using custom fields based on the custom "
+"field name you define below."
+msgstr ""
+"إن كنت ترغب بإضافة وصف مخصص لمقالاتك يمكنك ذلك باستخدام \"خصائص إضافية\" في "
+"صفحة أضف مقالة أو تحرير مقالة. فعل هذه الخاصية لوضع وصف مخصص لكل مقالة على "
+"حدة. يمكنك بعدها وضع وصف باستخدام \"حقل مخصص\" معتمداً على الاسم الذي ستحدده في "
+"هذه الخانة"
+
+#: includes/mh_panel/mh_options.php:1114
+msgid "Custom field Name to be used for title"
+msgstr "اسم حقل مخصص لاستخدامه للعنوان"
+
+#: includes/mh_panel/mh_options.php:1118
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"عندما تقوم بوضع عنوان باستخدام حقل \"خصائص إضافية\" في صفحة أضف مقالة أو تحرير "
+"مقالة. استخدم الاسم الموجود في الحقل هنا وضع العنوان المخصص في خانة القيمة."
+
+#: includes/mh_panel/mh_options.php:1122
+msgid "Custom field Name to be used for description"
+msgstr "اسم حقل مخصص لاستخدامه للوصف المخصص"
+
+#: includes/mh_panel/mh_options.php:1126
+msgid ""
+"When you define your meta description using custom fields you should use this "
+"value for the custom field Name. The Value of your custom field should be the "
+"custom description you would like to use."
+msgstr ""
+"عندما تقوم بوضع وصف باستخدام حقل \"خصائص إضافية\" في صفحة أضف مقالة أو تحرير "
+"مقالة. استخدم الاسم الموجود في الحقل هنا وضع الوصف المخصص في خانة القيمة."
+
+#: includes/mh_panel/mh_options.php:1130
+msgid "Custom field Name to be used for keywords"
+msgstr "اسم حقل مخصص لاستخدامه للكلمات الوصفية"
+
+#: includes/mh_panel/mh_options.php:1134
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by commas."
+msgstr ""
+"عندما تقوم بوضع كلمات وصفية باستخدام  حقل \"خصائص إضافية\" في صفحة أضف مقالة "
+"أو تحرير مقالة. استخدم الاسم الموجود في الحقل هنا وضع الكلمات الوصفية في خانة "
+"القيمة."
+
+#: includes/mh_panel/mh_options.php:1153
+msgid "Enable canonical URL's"
+msgstr "تفعيل خاصية  canonical"
+
+#: includes/mh_panel/mh_options.php:1168
+msgid "Enable meta descriptions"
+msgstr "تفعيل الوصف المخصص"
+
+#: includes/mh_panel/mh_options.php:1172
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"فعل هذه الخاصية إن كنت ترغب بعرض وصف مخصص لصفحات التصنيفات والأرشيف. الوصف "
+"سيتم أخذه من خانة الوصف عند إنشاء أو تحرير تصنيف في لوحة التحكم."
+
+#: includes/mh_panel/mh_options.php:1177
+msgid "Choose title autogeneration method"
+msgstr "اختر شكل العنوان"
+
+#: includes/mh_panel/mh_options.php:1182
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"هنا يمكنك اختيار شكل العنوان الظاهر لصفحات الأرشيف. هنا يمكنك اختيار الترتيب "
+"المرغوب لاسم موقعك وعنوان الأرشيف، أو يمكنك حذف اسم الموقع من العنوان نهائيا."
+
+#: includes/mh_panel/mh_options.php:1189
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"هنا يمكنك اختيار الفاصلة بين اسم الموقع وعنوان الأرشيف. غالبا تكون | أو -"
+
+#: includes/mh_panel/mh_options.php:1216
+msgid "Advanced Options"
+msgstr "إعدادات متقدمة"
+
+#: includes/mh_panel/mh_options.php:1224
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: includes/mh_panel/mh_options.php:1229
+#, php-format
+msgid ""
+"The Maps component uses the Google Maps API and requires a valid Google API "
+"Key to work. Before using the map component, please make sure you input your "
+"API key in the field. Learn more about how to create your Google API Key <a "
+"target=\"_blank\" href=\"%1$s\">here</a>."
+msgstr ""
+"لتعمل الخرائط على موقعك لابد أن يكون لديك مفتاح API خاص بخرائط جوجل (وفقاً "
+"لشروط وأحكام جوجل). تعرف على كيفية عمل مفتاح API لخرائط جوجل <a target=\"_blank"
+"\" href=\"%1$s\">بالضغط هنا</a>."
+
+#: includes/mh_panel/mh_options.php:1233
+msgid "MailChimp API Key"
+msgstr "MailChimp API Key"
+
+#: includes/mh_panel/mh_options.php:1238
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"أدخل هنا MailChimp API key الخاص بك. يمكنك إنشاء مفتاح (API Key) جديد <a "
+"target=\"_blank\" href=\"%1$s\">here</a>"
+
+#: includes/mh_panel/mh_options.php:1240
+msgid "Regenerate MailChimp Lists"
+msgstr "تحديث قوائم MailChimp"
+
+#: includes/mh_panel/mh_options.php:1244
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, but "
+"it doesn't appear within the SignUp module settings, activate this option. "
+"Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"افتراضيا، قوائم ميل تشيمب ( MailChimp lists) يتم تجديدها بمعدل يومي. في حال "
+"قمت بإنشاء قائمة جديدة مؤخرا ولا يمكنك رؤيتها في مكون النشرة البريدية ضمن مؤلف "
+"الصفحات يمكنك تفعيل هذا الزر وحفظ التغييرات. تنبيه هام: لا تنس تعطيل هذا "
+"الخيار بعد ذلك والضغط على زر حفظ التغييرات."
+
+#: includes/mh_panel/mh_options.php:1247
+msgid "Google Fonts subsets"
+msgstr "Google Fonts subsets"
+
+#: includes/mh_panel/mh_options.php:1251
+msgid ""
+"For Non-Arabic websites only. This will enable Google Fonts languages like "
+"Latin and Cyrillic."
+msgstr ""
+"هذه الميزة للمواقع ذات اللغة غير العربية فقط. تفعيل هذا الخيار سيمكن خطوط جوجل "
+"من عرض اللغات الأخرى مثل اللاتينية والسيريالية بشكل صحيح."
+
+#: includes/mh_panel/mh_options.php:1255
+msgid "Code inside < head >"
+msgstr "كود بداخل < head >"
+
+#: includes/mh_panel/mh_options.php:1259
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذه الخاصية سيلغي تضمين الكود في قسم < head > لموقعك. هذه الميزة نافعة "
+"لتتمكن من إلغاء التضمين والاحتفاظ بالكود في الخانة أسفل الصفحة في حال أردت "
+"تضمينه في وقت لاحق."
+
+#: includes/mh_panel/mh_options.php:1262
+msgid "Code inside body < body >"
+msgstr "كود بداخل < body >"
+
+#: includes/mh_panel/mh_options.php:1266
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذه الخاصية سيلغي تضمين الكود في قسم < body > لموقعك. هذه الميزة نافعة "
+"لتتمكن من إلغاء التضمين والاحتفاظ بالكود في الخانة أسفل الصفحة في حال أردت "
+"تضمينه في وقت لاحق."
+
+#: includes/mh_panel/mh_options.php:1271
+msgid "Code inside single post (top)"
+msgstr "كود ضمن المقالات (أعلى)"
+
+#: includes/mh_panel/mh_options.php:1275
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذه الخاصية سيلغي تضمين الكود في أعلى المقالات لموقعك. هذه الميزة نافعة "
+"لتتمكن من إلغاء التضمين والاحتفاظ بالكود في الخانة أسفل الصفحة في حال أردت "
+"تضمينه في وقت لاحق."
+
+#: includes/mh_panel/mh_options.php:1278
+msgid "Code inside single post (bottom)"
+msgstr "كود ضمن المقالات (أسفل)"
+
+#: includes/mh_panel/mh_options.php:1282
+msgid ""
+"Disabling this option will remove the single bottom code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"تعطيل هذه الخاصية سيلغي تضمين الكود في أسفل المقالات لموقعك. هذه الميزة نافعة "
+"لتتمكن من إلغاء التضمين والاحتفاظ بالكود في الخانة أسفل الصفحة في حال أردت "
+"تضمينه في وقت لاحق."
+
+#: includes/mh_panel/mh_options.php:1287
+msgid "Add code to the < head > of your blog"
+msgstr "ضع كود ضمن قسم < head >"
+
+#: includes/mh_panel/mh_options.php:1291
+msgid ""
+"Any code you place here will appear in the head section of every page of your "
+"blog. This is useful when you need to add javascript or css to all pages."
+msgstr ""
+"أي كود تضعه هنا سيتم تضمينه في قسم < head > لكل صفحات موقعك. نافع لإضافات  "
+"Javascript - CSS"
+
+#: includes/mh_panel/mh_options.php:1294
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "ضع كود ضمن قسم < body > (مناسب لأكواد التتبع والإحصاء)"
+
+#: includes/mh_panel/mh_options.php:1298
+msgid ""
+"Any code you place here will appear in body section of all pages of your blog. "
+"This is usefull if you need to input a tracking pixel for a state counter such "
+"as Google Analytics."
+msgstr ""
+"أي كود تضعه هنا سيتم تضمينه في قسم < body > لكل صفحات موقعك. نافع لأكواد "
+"التتبع والإحصاء والتعداد مثل Google Analytics"
+
+#: includes/mh_panel/mh_options.php:1301
+msgid "Add code to the top of your posts"
+msgstr "ضع كود في أعلى المقالات (قبل العنوان)"
+
+#: includes/mh_panel/mh_options.php:1305
+msgid "Any code you place here will be placed at the top of all single posts."
+msgstr "أي كود تضعه هنا سيتم تضمينه في أعلى صفحات المقالات (قبل العنوان)."
+
+#: includes/mh_panel/mh_options.php:1308
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "ضع كود في أسفل المقالات (قبل التعليقات)"
+
+#: includes/mh_panel/mh_options.php:1312
+msgid "Any code you place here will be placed at the bottom of all single posts."
+msgstr "أي كود تضعه هنا سيتم تضمينه في أسفل صفحات المقالات (قبل التعليقات)."
+
+#: includes/mh_panel/mh_options.php:1315
+msgid "Show Footer Notice"
+msgstr "إظهار حقوق المطور"
+
+#: includes/mh_panel/mh_options.php:1319
+msgid ""
+"Disabling this option will hide the footer copyright notice. Important note: "
+"to get support for your site you must leave this notice visible."
+msgstr ""
+"تعطيل هذا الاختيار سيخفي حقوق المطور من موقعك. ملاحظة هامة: لتحصل على دعم فني "
+"لموقعك اترك حقوق المطور ظاهرة على موقعك."
+
+#: includes/mh_panel/mh_options.php:1339
+msgid "Manage non-widget advertisements"
+msgstr "إدارة الإعلانات"
+
+#: includes/mh_panel/mh_options.php:1347
+msgid "Enable Single Post 468x60 banner"
+msgstr "تفعيل بنر الإعلان 468x60 في المقالة"
+
+#: includes/mh_panel/mh_options.php:1351
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"تفعيل هذه الخاصية لعرض إعلان في أسفل صفحات المقالات بمقاس 468x60 بكسل. عليك "
+"ملء خانتي رابط صورة الإعلان ورابط الإعلان."
+
+#: includes/mh_panel/mh_options.php:1354
+msgid "Input 468x60 advertisement banner image"
+msgstr "رابط صورة بنر الإعلان بمقاس 468x60 بكسل"
+
+#: includes/mh_panel/mh_options.php:1358
+msgid "Here you can provide 468x60 banner image url"
+msgstr "هنا ضع رابطا لصورة بنر الإعلان بمقاس 468x60 بكسل."
+
+#: includes/mh_panel/mh_options.php:1362
+msgid "Input 468x60 advertisement destination url"
+msgstr "رابط الإعلان"
+
+#: includes/mh_panel/mh_options.php:1366
+msgid "Here you can provide 468x60 banner destination url"
+msgstr ""
+"هنا ضع رابط الإعلان ( الوجهة) الموقع أو الصفحة التي عند الضغط على الإعلان "
+"ينتقل المتصفح إليها."
+
+#: includes/mh_panel/mh_options.php:1370
+msgid "Input 468x60 Ad code"
+msgstr "إدخال كود إعلان 468x60"
+
+#: includes/mh_panel/mh_options.php:1374
+msgid "Place your Ad Javascript code here."
+msgstr "ضع كود الإعلان هنا. (جافاسكريبت عادة)"
+
+#: includes/mh_panel/mh_panel.php:28
+msgid "Select"
+msgstr "اختر"
+
+#: includes/mh_panel/mh_panel.php:29
+msgid "Current Colour"
+msgstr "اللون الحالي"
+
+#: includes/mh_panel/mh_panel.php:99 includes/mh_panel/mh_panel.php:107
+#: includes/mh_panel/mh_panel.php:157
+msgid "Theme Panel"
+msgstr "لوحة القالب"
+
+#: includes/mh_panel/mh_panel.php:108
+msgid "Theme Customizer"
+msgstr "تخصيص القالب"
+
+#: includes/mh_panel/mh_panel.php:109
+msgid "Mharty Theme Icons"
+msgstr "أيقونات قالب مهارتي"
+
+#: includes/mh_panel/mh_panel.php:136
+msgid "Mharty settings saved."
+msgstr "تم حفظ إعدادات مهارتي."
+
+#: includes/mh_panel/mh_panel.php:139
+msgid "Mharty settings reset."
+msgstr "إعادة تعيين إعدادات مهارتي."
+
+#: includes/mh_panel/mh_panel.php:148 includes/mh_panel/mh_panel.php:453
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: includes/mh_panel/mh_panel.php:166
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: includes/mh_panel/mh_panel.php:169
+msgid "Layouts"
+msgstr "التنسيقات"
+
+#: includes/mh_panel/mh_panel.php:172
+msgid "Social"
+msgstr "التواصل"
+
+#: includes/mh_panel/mh_panel.php:175
+msgid "Navigation"
+msgstr "القائمة"
+
+#: includes/mh_panel/mh_panel.php:178
+msgid "Ads"
+msgstr "الإعلانات"
+
+#: includes/mh_panel/mh_panel.php:181
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/mh_panel/mh_panel.php:184
+msgid "Advanced"
+msgstr "متقدم"
+
+#: includes/mh_panel/mh_panel.php:273
+msgid "You don't have pages"
+msgstr "ليس لديك أي صفحات"
+
+#: includes/mh_panel/mh_panel.php:462
+msgid "Reset Theme Panel Options"
+msgstr "مسح إعدادات لوحة القالب"
+
+#: includes/mh_panel/mh_panel.php:468
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/mh_panel/mh_panel.php:471
+msgid "No"
+msgstr "لا"
+
+#: includes/mh_panel/mh_panel.php:486
+msgid "Enabled"
+msgstr "مفعل"
+
+#: includes/mh_panel/mh_panel.php:488
+msgid "Disabled"
+msgstr "معطل"
+
+#: includes/mh_panel/mh_panel.php:495
+msgid "Avatar"
+msgstr "صورة الكاتب"
+
+#: includes/mh_panel/mh_panel.php:498
+msgid "Author"
+msgstr "الكاتب"
+
+#: includes/mh_panel/mh_panel.php:502
+msgid "Date"
+msgstr "التاريخ"
+
+#: includes/mharty-updater.php:305
+msgid "Executing upgrader_source_selection filter function..."
+msgstr "Executing upgrader_source_selection filter function..."
+
+#: includes/mharty-updater.php:315
+msgid "Renamed theme folder successfully."
+msgstr "إعادة تسمية مجلد القالب بنجاح."
+
+#: includes/mharty-updater.php:320
+msgid "**Unable to rename downloaded theme."
+msgstr "* * غير قادر على إعادة تسمية القالب الذي تم تنزيله."
+
+#: includes/mharty-updater.php:326
+msgid "**Source or Remote Source is unavailable."
+msgstr "* * السيرفر غير متوفر."
+
+#: includes/mharty-updater.php:347
+msgid " Theme Updates"
+msgstr "تحديثات القالب"
+
+#: includes/mharty-updater.php:385
+msgid "Username: "
+msgstr "اسم المستخدم:"
+
+#: includes/mharty-updater.php:389
+msgid "Email: "
+msgstr "البريد الإلكتروني:"
+
+#: includes/mharty-updater.php:395
+msgid "Key: "
+msgstr "المفتاح:"
+
+#: includes/mharty-updater.php:400
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>تحديثات قالب<span style=\"color:green\">مفعلة</span></p>"
+
+#: includes/mharty-updater.php:404
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic updates "
+"is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ماأدخلته <span style=\"color:red\">غير صالح</span>، التحديثات التلقائية "
+"<span style=\"color:red\">غير مفعلة</span>.</p>"
+
+#: includes/mharty-updater.php:405
+msgid "Edit Key"
+msgstr "تعديل المفتاح"
+
+#: includes/mharty-updater.php:409
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>غير قادر على التحقق من صحة تفعيل التحديثات.</p>"
+
+#: includes/mharty-updater.php:410
+msgid "Try again"
+msgstr "أعد المحاولة"
+
+#: includes/mharty-updater.php:415
+msgid "Add Key"
+msgstr "أضف مفتاح"
+
+#: includes/mharty-updater.php:501
+msgid "User name"
+msgstr "اسم المستخدم"
+
+#: includes/mharty-updater.php:516
+msgid "Activation Key"
+msgstr "مفتاح التفعيل"
+
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; اعرض الأقدم"
+
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "اعرض الأحدث &raquo;"
+
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr "لم يتم العثور على نتائج مطابقة لبحثك."
+
+#: includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"لم يتم العثور على الصفحة التي تبحث عنها. يمكنك المحاولة من جديد، أو استخدام "
+"القائمة أعلاه لإيجاد ما تبحث عنه."
+
+#: includes/widgets/widget-about.php:4
+msgid "About Me with an image."
+msgstr "نبذة عني مع صورة."
+
+#: includes/widgets/widget-about.php:6
+msgid "MH About Me Widget"
+msgstr "مهارتي: نبذة عني"
+
+#: includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "نبذة عني"
+
+#: includes/widgets/widget-about.php:48 includes/widgets/widget-ads.php:172
+#: includes/widgets/widget-foursixeight.php:46
+#: includes/widgets/widget-info.php:84
+#: includes/widgets/widget-latest-comments.php:60
+#: includes/widgets/widget-latest-posts.php:144
+#: includes/widgets/widget-popular-posts.php:141
+#: includes/widgets/widget-reviews-posts.php:157
+msgid "Title:"
+msgstr "العنوان:"
+
+#: includes/widgets/widget-about.php:50
+msgid "Image: "
+msgstr "رابط الصورة: "
+
+#: includes/widgets/widget-about.php:52
+#: includes/widgets/widget-custom-logo.php:44
+msgid "Text: "
+msgstr "نص: "
+
+#: includes/widgets/widget-ads.php:4
+msgid "8 Optional Advertisement banners"
+msgstr "8 بنرات إعلانية اختيارية"
+
+#: includes/widgets/widget-ads.php:6
+msgid "MH Advertisement"
+msgstr "مهارتي: إعلانات"
+
+#: includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "الإعلانات"
+
+#: includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "استخدم روابط نسبية للصور (Relative Paths)"
+
+#: includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "فتح في نافذة جديدة"
+
+#: includes/widgets/widget-ads.php:180
+msgid "If you don't want to display some banners, leave its fields empty."
+msgstr "إن كنت لا تود عرض بعض البنرات اترك حقولها فارغة."
+
+#: includes/widgets/widget-ads.php:182 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:198 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:214 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:230 includes/widgets/widget-ads.php:238
+msgid "Banner Image:"
+msgstr "رابط صورة الإعلان:"
+
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:192
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:208
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:224
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:240
+msgid "Banner Url:"
+msgstr "رابط الإعلان:"
+
+#: includes/widgets/widget-ads.php:186 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:202 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:218 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:234 includes/widgets/widget-ads.php:242
+msgid "Banner Title:"
+msgstr "عنوان الإعلان:"
+
+#: includes/widgets/widget-ads.php:188 includes/widgets/widget-ads.php:196
+#: includes/widgets/widget-ads.php:204 includes/widgets/widget-ads.php:212
+#: includes/widgets/widget-ads.php:220 includes/widgets/widget-ads.php:228
+#: includes/widgets/widget-ads.php:236 includes/widgets/widget-ads.php:244
+msgid "Banner Alt:"
+msgstr "النص البديل للصورة:"
+
+#: includes/widgets/widget-custom-logo.php:4
+msgid "Logo or an image with text."
+msgstr "الشعار أو صورة مع نص اختياري."
+
+#: includes/widgets/widget-custom-logo.php:6
+msgid "MH Custom Logo Widget"
+msgstr "مهارتي: عارض الشعار"
+
+#: includes/widgets/widget-custom-logo.php:42
+msgid "Logo Image URL: "
+msgstr "رابط صورة الشعار: "
+
+#: includes/widgets/widget-foursixeight.php:4
+msgid "Displays 468 Ads"
+msgstr "اعرض إعلان بعرض 468 بكسل."
+
+#: includes/widgets/widget-foursixeight.php:6
+msgid "MH 468 Ad Widget"
+msgstr "مهارتي: إعلان 468px"
+
+#: includes/widgets/widget-foursixeight.php:40
+msgid "Ad"
+msgstr "إعلان"
+
+#: includes/widgets/widget-foursixeight.php:48
+msgid "Ad Code:"
+msgstr "كود الإعلان:"
+
+#: includes/widgets/widget-info.php:4
+msgid "Displays email, phone and location."
+msgstr "يعرض البريد الإلكتروني، الهاتف، والموقع الجغرافي."
+
+#: includes/widgets/widget-info.php:6
+msgid "MH Info"
+msgstr "مهارتي: اتصل بنا"
+
+#: includes/widgets/widget-info.php:72
+msgid "Info"
+msgstr "اتصل بنا"
+
+#: includes/widgets/widget-info.php:88
+msgid "Show icons"
+msgstr "إظهار الأيقونات"
+
+#: includes/widgets/widget-info.php:91
+msgid "If you don't want to display some info, leave its fields empty."
+msgstr "إن كنت لا تود عرض بعض المعلومات اترك حقولها فارغة."
+
+#: includes/widgets/widget-info.php:93
+msgid "Email #1"
+msgstr "البريد الإلكتروني #1"
+
+#: includes/widgets/widget-info.php:95
+msgid "Email #2"
+msgstr "البريد الإلكتروني #2"
+
+#: includes/widgets/widget-info.php:97
+msgid "Phone #1"
+msgstr "الهاتف #1"
+
+#: includes/widgets/widget-info.php:99
+msgid "Phone #2"
+msgstr "الهاتف #2"
+
+#: includes/widgets/widget-info.php:101
+msgid "Location"
+msgstr "الموقع"
+
+#: includes/widgets/widget-latest-comments.php:4
+msgid "The most recent comments."
+msgstr "تعرض أحدث التعليقات"
+
+#: includes/widgets/widget-latest-comments.php:6
+msgid "MH Latest Comments"
+msgstr "مهارتي: أحدث التعليقات"
+
+#: includes/widgets/widget-latest-comments.php:65
+msgid "Number of comments:"
+msgstr "عدد التعليقات:"
+
+#: includes/widgets/widget-latest-posts.php:5
+msgid "Displays most recent posts with thumbnails."
+msgstr "اعرض المقالات الأحدث مع مصغرة."
+
+#: includes/widgets/widget-latest-posts.php:7
+msgid "MH Latest Posts."
+msgstr "مهارتي: أحدث المقالات"
+
+#: includes/widgets/widget-latest-posts.php:147
+#: includes/widgets/widget-popular-posts.php:144
+#: includes/widgets/widget-reviews-posts.php:160
+msgid "Number of posts:"
+msgstr "عدد المقالات:"
+
+#: includes/widgets/widget-latest-posts.php:153
+#: includes/widgets/widget-popular-posts.php:150
+#: includes/widgets/widget-reviews-posts.php:166
+msgid "Which Categories to show?"
+msgstr "اختر التصنيفات لعرضها"
+
+#: includes/widgets/widget-popular-posts.php:4
+msgid "Displays popular posts.."
+msgstr "اعرض المقالات الأشهر مع مصغرة."
+
+#: includes/widgets/widget-popular-posts.php:6
+msgid "MH Popular Posts."
+msgstr "مهارتي: المقالات الأشهر"
+
+#: includes/widgets/widget-reviews-posts.php:4
+msgid "Displays reviews."
+msgstr "اعرض المراجعات"
+
+#: includes/widgets/widget-reviews-posts.php:6
+msgid "MH Reviews Posts"
+msgstr "مهارتي: مقالات المراجعات"
+
+#: includes/widgets/widget-reviews-posts.php:164
+msgid "Order by Score"
+msgstr "ترتيب حسب النتيجة"
+
+#: includes/widgets/widget-social-follow.php:4
+msgid "Displays links to your social websites."
+msgstr "تعرض أيقونات لمواقع التواصل الاجتماعي"
+
+#: includes/widgets/widget-social-follow.php:6
+msgid "MH Social Follow"
+msgstr "مهارتي - أيقونات المتابعة"
+
+#: includes/widgets/widget-social-follow.php:47
+msgid "Follow Us"
+msgstr "تابعنا"
+
+#: includes/widgets/widget-social-follow.php:60
+msgid "Default Colours"
+msgstr "الألوان الافتراضية"
+
+#: includes/widgets/widget-social-follow.php:62
+msgid "Solid Colour"
+msgstr "لون كامل"
+
+#: page-template-blank.php:37 page-template-noheader.php:37
+#: page-template-trans.php:37 page.php:33 single-project.php:51 single.php:141
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: page-template-trans.php:5
+msgid "Transparent Header"
+msgstr "أعلى الموقع شفاف"
+
+#: single-project.php:27
+msgctxt "This is a comma followed by a space."
+msgid ", "
+msgstr "، "
+
+#. Theme URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr "http://mharty.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Flexibel & versatile theme with dedicated support for RTL, works beautifully "
+"with MH Page Composer."
+msgstr ""
+"قالب مرن ومتجدد ودعم مميز لـ RTL، يعمل بشكل رائع مع إضافة مهارتي - مؤلف "
+"الصفحات."
+
+#. Author URI of the plugin/theme
+msgid "mharty.com"
+msgstr "mharty.com"
+
+#~ msgid "Shop Page & Category Page Layout for WooCommerce"
+#~ msgstr "تنسيق صفحة المتجر، وصفحات التصنيفات للووكومرس"
+
+#~ msgid ""
+#~ "Here you can choose Shop Page & Category Page Layout for WooCommerce. You "
+#~ "need to have 'MH Shop Support' Plugin activated."
+#~ msgstr ""
+#~ "هنا اختر التنسيق المرغوب لصفحات إضافة الووكومرس (WooCommerce). تحتاج أن "
+#~ "يكون لديك إضافة \"مهارتي - دعم المتاجر\" مفعلة."
+
+#~ msgid "Click the Upload Image button to upload your Open Graph Image."
+#~ msgstr ""
+#~ "‫Click the button to upload an image which will be used by default when "
+#~ "sharing this website on social networks."
+
+#~ msgid ""
+#~ "<a href=\"%1$s\" target=\"_blank\">Click here</a> to go to the icons index. "
+#~ "(Paste the code for your desired icon here)."
+#~ msgstr ""
+#~ "‫<a href=“%1$s” target=“_blank”>اضغط هنا</a> ‫للذهاب إلى فهرس الأيقونات (قم "
+#~ "بلصق الكود الخاص بالأيقونة المرغوبة هنا)."
+
+#, fuzzy
+#~| msgid "Invalid Email."
+#~ msgid "Invalid license."
+#~ msgstr "بريد إلكتروني غير صحيح."
+
+#, fuzzy
+#~| msgid "Theme Options"
+#~ msgid "Theme License"
+#~ msgstr "إعدادات القالب"
+
+#, fuzzy
+#~| msgid "Activation Key"
+#~ msgid "Deactivate License"
+#~ msgstr "مفتاح التفعيل"
+
+#, fuzzy
+#~| msgid "Activation Key"
+#~ msgid "Activate License"
+#~ msgstr "مفتاح التفعيل"
+
+#, fuzzy
+#~| msgid "Theme Options"
+#~ msgid "Lifetime License."
+#~ msgstr "إعدادات القالب"
+
+#~ msgid "Download backup before importing"
+#~ msgstr "تحميل نسخة احتياطية قبل الاستيراد"
+
+#~ msgid "Name"
+#~ msgstr "الاسم"
+
+#~ msgid "Email Address"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Message"
+#~ msgstr "رسالتك"
+
+#~ msgid "Make sure you entered the captcha."
+#~ msgstr "تأكد من إجابة سؤال التحقق بشكل صحيح."
+
+#~ msgid "Make sure you fill in all required fields."
+#~ msgstr "تأكد من ملء كل الخانات المطلوبة."
+
+#~ msgid "Please refresh the page and try again."
+#~ msgstr "يرجى تحديث الصفحة والمحاولة مرة أخرى."
+
+#~ msgid "New Message From %1$s%2$s"
+#~ msgstr "رسالة جديدة من %1$s%2$s"
+
+#~ msgctxt "contact form title separator"
+#~ msgid " - %s"
+#~ msgstr " - %s"
+
+#~ msgid "This feature needs MH Page Composer plugin. Please activate it now."
+#~ msgstr "هذه الميزة تتطلب إضافة مهارتي - مؤلف الصفحات. قم بتفعيلها الآن."
+
+#~ msgid "Quick Contact Form Blurb"
+#~ msgstr "مقتطف نموذج التواصل السريع"
+
+#~ msgid ""
+#~ "You could use this field to display a blurb for your quick contact form."
+#~ msgstr "يمكنك استخدام هذا الحقل لعرض مقتطف في نموذج التواصل السريع."
+
+#~ msgid "Make sure you fill all fields."
+#~ msgstr "تأكد من ملء كل الخانات."
+
+#~ msgid "Toggle between the various styles"
+#~ msgstr "اختر الشكل المرغوب لعناوين الودجات في الشريط الجانبي وتذييل الموقع."
+
+#~ msgid "Default Colour Scheme"
+#~ msgstr "الألوان الافتراضية"
+
+#~ msgid ""
+#~ "Select Mharty - Page Composer Layouts file to begin the import process."
+#~ msgstr "اختر ملف تنسيقات قالب مهارتي لتبدأ عملية الاستيراد."
+
+#~ msgid ""
+#~ "Importing a previously-exported %s file will overwrite all content "
+#~ "currently on this page."
+#~ msgstr ""
+#~ "إستيراد ملف %s تم تصديره مسبقاً سوف يستبدل كل المحتويات الحالية في هذه "
+#~ "الصفحة."
+
+#~ msgid ""
+#~ "Select a previously-exported Mharty - Page Composer Layouts file to begin "
+#~ "the import process. Large files or files contain large images may take "
+#~ "several minutes to upload."
+#~ msgstr ""
+#~ "اختر ملف تنسيقات قالب مهارتي لتبدأ عملية الاستيراد. رفع الملفات كبيرة الحجم "
+#~ "أو الملفات التي تحوي صور كبيرة قد تأخذ وقتاً أطول."
+
+#~ msgid ""
+#~ "Importing a previously-exported %s file will overwrite all current data. "
+#~ "Please proceed with caution!"
+#~ msgstr ""
+#~ "إستيراد ملف %s تم تصديره مسبقاً سوف يستبدل كل المحتويات الحالية. يرجى "
+#~ "المتابعة بحذر."
+
+#~ msgid "Select File To Import"
+#~ msgstr "اختر ملفاً لاستيراده"
+
+#~ msgid "Export & Import"
+#~ msgstr "استيراد‪/‬تصدير"
+
+#~ msgid "Menu Font"
+#~ msgstr "خط القائمة"
+
+#~ msgid "Disable this option to show the App Menu on small devices only."
+#~ msgstr "عطل هذا الاختيار لإظاهر قائمة التطبيق على الشاشات الصغيرة فقط."
+
+#~ msgid "Reset to Defaults"
+#~ msgstr "استعادة الإعدادات الافتراضية"
+
+#~ msgid "If you want to hide the navigation links enable this option."
+#~ msgstr "إن كنت تود إخفاء القائمة الرئيسية للموقع فعل هذا الاختيار."
+
+#~ msgid "This colour works with some of the Widget Header Styles."
+#~ msgstr "هذا الاختيار يعمل مع بعض أشكال الودجات."
+
+#~ msgid ""
+#~ "Enable this option to display the date in The Secondary Navigation. You "
+#~ "could change how your dates are displayed from the theme panel \"Header "
+#~ "Date format\"."
+#~ msgstr ""
+#~ "تمكين هذا الاختيار سيعرض التاريخ في القائمة الإضافية. يمكنك تغيير صيغة "
+#~ "التاريخ في لوحة القالب “صيغة التاريخ في أعلى الموقع”."
+
+#~ msgid ""
+#~ "This option will show the date in The Secondary Navigation. You could "
+#~ "change how your dates are displayed from the theme panel \"Header Date "
+#~ "format\"."
+#~ msgstr ""
+#~ "هذا الخيار سوف يظهر التاريخ في القائمة الإضافية. يمكنك تغيير صيغة التاريخ "
+#~ "لوحة القالب “صيغة التاريخ في أعلى الموقع”."
+
+#~ msgid "Others"
+#~ msgstr "أخرى"
+
+#~ msgid "Options Saved."
+#~ msgstr "تم حفظ الإعدادات."
+
+#~ msgid "settings saved."
+#~ msgstr "تم حفظ الإعدادات."
+
+#~ msgid "settings reset."
+#~ msgstr "تم إعادة التعيين."
+
+#~ msgid "Save changes"
+#~ msgstr "حفظ التغييرات"
+
+#~ msgid "Layout Settings"
+#~ msgstr "التنسيقات"
+
+#~ msgid "Ad Management"
+#~ msgstr "الإعلانات"
+
+#~ msgid "More Icons"
+#~ msgstr "أيقونات"
+
+#~ msgid "Default Settings"
+#~ msgstr "الإعدادات الافتراضية"
+
+#~ msgid ""
+#~ "This will return all of the settings throughout the options page to their "
+#~ "default values. <strong>Are you sure you want to do this?</strong>"
+#~ msgstr ""
+#~ "هذا الاختيار سيمسح كل الإعدادات والخيارات التي قمت بها هنا، واسترجاع كل "
+#~ "الإعدادات الافتراضية. <strong>هل أنت متأكد؟</strong>"
+
+#~ msgid "Mharty Theme Panel"
+#~ msgstr "لوحة قالب مهارتي"
+
+#~ msgid "Use"
+#~ msgstr "استخدام"
+
+#~ msgid ""
+#~ "Enable this icon font to use it within the Page Composer Modules. Icon "
+#~ "fonts consist of lightweight files, however, only enable the ones you need."
+#~ msgstr ""
+#~ "بعد تفعيل هذا الخط ستتمكن من استخدامه ضمن مؤلف الصفحات في المكونات التي "
+#~ "تدعم اختيار خط الأيقونات. ملاحظة: خطوط الأيقونات عبارة عن ملفات صغيرة "
+#~ "الحجم، للمحافظة على أداء أفضل لموقعك قم بتفعيل الخطوط التي تحتاجها فقط."
+
+#~ msgid "Projects"
+#~ msgstr "الأعمال"
+
+#~ msgid "Item"
+#~ msgstr "العنصر"
+
+#~ msgid "Add New"
+#~ msgstr "أضف جديداً"
+
+#~ msgid "Add New Item"
+#~ msgstr "أضف عنصراً جديداً"
+
+#~ msgid "Edit Item"
+#~ msgstr "تحرير عنصر"
+
+#~ msgid "New Item"
+#~ msgstr "عنصر جديد"
+
+#~ msgid "All Items"
+#~ msgstr "عرض الكل"
+
+#~ msgid "View Item"
+#~ msgstr "عرض العنصر"
+
+#~ msgid "Search Items"
+#~ msgstr "بحث في العناصر"
+
+#~ msgid "Nothing found"
+#~ msgstr "لم يتم العثور على نتائج"
+
+#~ msgid "Nothing found in Bin"
+#~ msgstr "لم يتم العثور على نتائج في سلة المهملات"
+
+#~ msgid "Category"
+#~ msgstr "تصنيف"
+
+#~ msgid "Search Categories"
+#~ msgstr "بحث في التصنيفات"
+
+#~ msgid "All Categories"
+#~ msgstr "كل التصنيفات"
+
+#~ msgid "Parent Category"
+#~ msgstr "تصنيف أب"
+
+#~ msgid "Parent Category:"
+#~ msgstr "تصنيف أب:"
+
+#~ msgid "Edit Category"
+#~ msgstr "تحرير التصنيف"
+
+#~ msgid "Update Category"
+#~ msgstr "تحديث التصنيف"
+
+#~ msgid "Add New Category"
+#~ msgstr "أضف تصنيفاً جديداً"
+
+#~ msgid "New Category Name"
+#~ msgstr "اسم تصنيف جديد"
+
+#~ msgid "Tags"
+#~ msgstr "وسوم"
+
+#~ msgid "Tag"
+#~ msgstr "وسم"
+
+#~ msgid "Search Tags"
+#~ msgstr "بحث في الوسوم"
+
+#~ msgid "All Tags"
+#~ msgstr "كل الوسوم"
+
+#~ msgid "Parent Tag"
+#~ msgstr "وسم أب"
+
+#~ msgid "Parent Tag:"
+#~ msgstr "وسم أب:"
+
+#~ msgid "Edit Tag"
+#~ msgstr "تحرير وسم"
+
+#~ msgid "Update Tag"
+#~ msgstr "تحديث وسم"
+
+#~ msgid "Add New Tag"
+#~ msgstr "أضف وسماً جديداً"
+
+#~ msgid "New Tag Name"
+#~ msgstr "اسم وسم جديد"
+
+#~ msgid "Show Quick Contact form"
+#~ msgstr "أظهر نموذج التواصل السريع"
+
+#~ msgid "Enable captcha"
+#~ msgstr "تفعيل سؤال التحقق"
+
+#~ msgid "Quick contact form email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Quick contact form title"
+#~ msgstr "عنوان التواصل السريع"
+
+#~ msgid "Quick contact form blurb"
+#~ msgstr "مقتطف التواصل السريع"
+
+#~ msgid ""
+#~ "Enter your ID here. You will find your ID in Your Profile section <a href="
+#~ "\"%1$s\" target=\"_blank\">here</a>"
+#~ msgstr ""
+#~ "أدخل معرفك هنا. ستجد المعرف الخاص بك ضمن بياناتك في <a href=\"%1$s\" target="
+#~ "\"_blank\">منطقة المشترك</a>."
+
+#~ msgid ""
+#~ "Enter your email here.  This should be the email registered at mharty.com"
+#~ msgstr ""
+#~ "ضع بريدك الإلكتروني هنا. هذا البريد يجب أن يكون موافقا لبريدك المسجل في "
+#~ "مهارتي (mharty.com)"
+
+#~ msgid "Code inside <head>"
+#~ msgstr "كود بداخل <head>"
+
+#~ msgid "Code inside body <body>"
+#~ msgstr "كود بداخل<body>"
+
+#~ msgid "Add code to the <head> of your blog"
+#~ msgstr "ضع كود ضمن قسم <head>"
+
+#~ msgid ""
+#~ "Add code to the <body> (good for tracking codes such as google analytics)"
+#~ msgstr "ضع كود ضمن قسم <body>"
+
+#~ msgid " ,"
+#~ msgstr "، "
+
+#~ msgid ""
+#~ "Enter your ID here. You will find your ID in Your Profile section\n"
+#~ "\t\t\t   <br/><a href='//mharty.com/member/' target='_blank'>mharty.com/"
+#~ "member</a>"
+#~ msgstr ""
+#~ "أدخل معرفك هنا. ستجد المعرف الخاص بك ضمن بياناتك في منطقة المشترك هنا \n"
+#~ "\t\t\t   <br/><a href='//mharty.com/member/' target='_blank'>mharty.com/"
+#~ "member</a>"
+
+#~ msgid ""
+#~ "This option allows you to change how your dates are displayed. For more "
+#~ "information please refer to the WordPress codex here:<a href='http://codex."
+#~ "wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+#~ "Time</a>"
+#~ msgstr ""
+#~ "هذه  الخاصية تمكنك من تغيير صيغة التاريخ المعروضة على موقعك. لمعلومات أكثر "
+#~ "يمكن قراءة <a href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+#~ "target='_blank'>وثائق المساعدة - تنسيق الوقت والتاريخ.</a>"
+
+#~ msgid "Logo"
+#~ msgstr "صورة الشعار"
+
+#~ msgid "Footer"
+#~ msgstr "التذييل"
+
+#~ msgid ""
+#~ "Enable this option to display alternative version of your logo when the "
+#~ "Fixed Navigation Bar is active. Use the field below to upload it."
+#~ msgstr ""
+#~ "استخدم هذه الخاصية لعرض نسخة مختلفة من شعارك في القائمة عندما تكون في وضع "
+#~ "التثبيت. استخدم الزر أدناه لرفع صورة الشعار"
+
+#~ msgid ""
+#~ "Usually a more compact version of your logo e.g. icon only. Do no forget to "
+#~ "enable it using the option above."
+#~ msgstr ""
+#~ "عادة، نسخة مصغرة من شعارك. مثلا: الأيقونة فقط. لا تنس أن تقوم بتفعيل هذه "
+#~ "الخاصية في الحقل أعلاه."
+
+#~ msgid ""
+#~ "By default the logo height is around 40 pixels, but you can input your "
+#~ "value here (please use numbers only). If you have a large logo, it is "
+#~ "recommended that you enable the option below."
+#~ msgstr ""
+#~ "بشكل افتراضي، ارتفاع الشعار حوالي 40 بكسل، ولكن يمكنك إدخال القيمة الخاصة "
+#~ "بك هنا (الأرقام فقط). إذا كان لديك شعار كبير، يستحسن أن تقوم بتفعيل الخيار "
+#~ "أدناه."
+
+#~ msgid ""
+#~ "Enable this option to remove the default padding around the logo and menu "
+#~ "items. Removing the padding will give better results for large logo, square "
+#~ "and circle shape logo."
+#~ msgstr ""
+#~ "تفعيل هذا الاختيار سيزيل الهوامش حول الشعار وعناصر القائمة، إزالة الهوامش "
+#~ "سيعطي نتائج أفضل إذا كان الشعار كبير، أو على شكل مربع أو دائرة."
+
+#~ msgid "Primary Navigation Colorus"
+#~ msgstr "ألوان القائمة الرئيسية"
+
+#~ msgid "This colour is the gradient colour."
+#~ msgstr "لون التدرج"
+
+#~ msgid "Secondary Navigation Border"
+#~ msgstr "إطار أسفل القائمة الإضافية"
+
+#~ msgid ""
+#~ "Enable this option to display a border line under the Secondary Navigation. "
+#~ "Use the option below to choose your desired colour."
+#~ msgstr ""
+#~ "هذه الخاصية لعرض إطار أسفل القائمة الإضافية. يمكنك اختيار اللون المرغوب في "
+#~ "الحقل أدناه."
+
+#~ msgid "Secondary Navigation Border Colour"
+#~ msgstr "لون إطار القائمة الإضافية."
+
+#~ msgid "Larger Logo?"
+#~ msgstr "شعار أكبر؟"
+
+#~ msgid ""
+#~ "By default the logo height is around 40 pixels, but you can input your "
+#~ "value here. Please use numbers only."
+#~ msgstr ""
+#~ "افتراضيا، تم تحديد ارتفاع الشعار إلى 40 بكسل. يمكنك وضع قيمة مختلفة هنا، "
+#~ "أصغر أو أكبر. استخدم قيمة رقمية فقط."
+
+#~ msgid "Show Read More on Index pages"
+#~ msgstr "عرض رابط اقرأ المزيد على الرئيسية"
+
+#~ msgid "Enable this option to show Read More link on Index Pages."
+#~ msgstr "فعل هذا الخيار لعرض رابط “اقرأ المزيد” على الصفحة الرئيسية."
+
+#~ msgid "Thanks for contacting us"
+#~ msgstr "شكرا لتواصلك معنا"
+
+#~ msgid "No Comments"
+#~ msgstr "لا يوجد تعليقات"
+
+#~ msgid "Push Header?"
+#~ msgstr "دفع أعلى الموقع؟"
+
+#~ msgid ""
+#~ "Enable this option to push the header area when the App Menu is visable."
+#~ msgstr "فعل هذا الاختيار لدفع منطقة أعلى الموقع عند فتح قائمة التطبيق."
+
+#~ msgid "Close Button"
+#~ msgstr "زر الإغلاق"
+
+#~ msgid "Show or hide the App-like menu close."
+#~ msgstr "إظهار أو إخفاء زر إغلاق قائمة التطبيق."
+
+#~ msgid "Title: "
+#~ msgstr "عنوان: "
+
+#~ msgid ""
+#~ "If you don't want to display some banners - leave approptiate fields blank."
+#~ msgstr "إن كنت لا تود عرض بعض البنرات اترك حقولها فارغة."
+
+#~ msgid "Latest Posts"
+#~ msgstr "أحدث المقالات"
+
+#~ msgid "Popular Posts"
+#~ msgstr "أشهر المقالات"
+
+#~ msgid ""
+#~ "This will enable the App-like menu.To mangae its content go to > Widgets "
+#~ "\"App Menu\"."
+#~ msgstr ""
+#~ "هذا الاختيار سيفعل قائمة التطبيق. لإدارة محتوياتها اذهب إلى > الودجات "
+#~ "\"قائمة التطبيق\"."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the top of all single posts. This "
+#~ "is useful if you are looking to integrate things such as social bookmarking "
+#~ "links."
+#~ msgstr ""
+#~ "أي كود تضعه هنا سيتم تضمينه في أعلى صفحات المقالات (قبل العنوان). نافع "
+#~ "لأكواد الدمج مثل أكواد التواصل الاجتماعي الخاصة بتعداد مرات المشاركة وغيرها."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the bottom of all single posts. "
+#~ "This is useful if you are looking to integrate things such as social "
+#~ "bookmarking links."
+#~ msgstr "أي كود تضعه هنا سيتم تضمينه في أسفل صفحات المقالات (قبل التعليقات)."
+
+#~ msgid "Favicon"
+#~ msgstr "أيقونة المفضلة"
+
+#~ msgid ""
+#~ "If you would like to use your own custom favicon image click the Upload "
+#~ "button. 32x32 pixels."
+#~ msgstr ""
+#~ "أيقونة المفضلة (Favicon) هي الصورة الصغيرة التي تظهر في نافذة المتسعرض عند "
+#~ "استعراض موقعك. يمكنك رفعها هنا. 32x32 بكسل."
+
+#~ msgid "MH Settings"
+#~ msgstr "إعدادات مهارتي"
+
+#~ msgid "Use Text As a Logo?"
+#~ msgstr "استخدم الشعار النصي؟"
+
+#~ msgid ""
+#~ "If you want to use your site name and tagline instead of a logo enable this "
+#~ "option."
+#~ msgstr ""
+#~ "إن كنت ترغب باستخدام اسم موقعك بدلا من صورة شعار، قم بتفعيل هذا الاختيار."
+
+#~ msgid "Designed by %1$s | Powered by %2$s"
+#~ msgstr "تصميم %1$s | بتقنية %2$s"
+
+#~ msgid "Flexibel & Versatile Wordpress Theme"
+#~ msgstr "قالب ووردبريس عربي متنوع ومرن"
+
+#~ msgid "Works"
+#~ msgstr "الأعمال"
+
+#~ msgid "Custom post type name"
+#~ msgstr "اسم آخر لـ Custom post type"
+
+#~ msgid "Projects (project)"
+#~ msgstr "الأعمال (project)"
+
+#~ msgid "Works (works)"
+#~ msgstr "الأعمال (works)"
+
+#~ msgid ""
+#~ "You could use this field to change the name and slug for your projects post "
+#~ "type. After saving your changes, please go to Settings > Permalink, and "
+#~ "click 'Save Changes' to avoid 404 errors."
+#~ msgstr ""
+#~ "يمكنك استخدام هذا الحقل لتغيير تركيبة الرابط الخاص بالأعمال (Custom Post "
+#~ "Type). بعد حفظ التغييرات الخاصة بك هنا، الرجاء الانتقال إلى إعدادات > روابط "
+#~ "دائمة، وانقر فوق \"حفظ التغييرات\" لتجنب أخطاء 404."
+
+#~ msgid "Show Facebook Icon"
+#~ msgstr "أيقونة Facebook"
+
+#~ msgid "Show Twitter Icon"
+#~ msgstr "أيقونة Twitter"
+
+#~ msgid "Show Instagram Icon"
+#~ msgstr "أيقونة Instagram"
+
+#~ msgid "Show Google+ Icon"
+#~ msgstr "أيقونة Google+"
+
+#~ msgid "Show YouTube Icon"
+#~ msgstr "أيقونة YouTube"
+
+#~ msgid "Show LinkedIn Icon"
+#~ msgstr "أيقونة LinkedIn"
+
+#~ msgid "Show Behance Icon"
+#~ msgstr "أيقونة Behance"
+
+#~ msgid "Show Dribbble Icon"
+#~ msgstr " أيقونة Dribbble"
+
+#~ msgid "Show Flickr Icon"
+#~ msgstr "أيقونة Flickr"
+
+#~ msgid "Show SoundCloud Icon"
+#~ msgstr "أيقونة SoundCloud"
+
+#~ msgid "Show Skype Icon"
+#~ msgstr "أيقونة Skype"
+
+#~ msgid "Show RSS Icon"
+#~ msgstr "أيقونة RSS"
+
+#~ msgid "All Works"
+#~ msgstr "كل الأعمال"
+
+#~ msgid "Search Works"
+#~ msgstr "البحث في الأعمال"
+
+#~ msgid "Advanced Integration"
+#~ msgstr "إعدادات متقدمة"
+
+#~ msgid "Integration"
+#~ msgstr "متقدم"
+
+#~ msgid "Read mharty Documentation"
+#~ msgstr "اقرأ أكثر عن قالب مهارتي"
+
+#~ msgid "Get How-to tutorials and more via your account at "
+#~ msgstr ""
+#~ "احصل على طريقة الاستخدام وشروحات منوعة لقالب وإضافات مهارتي من خلال منطقة "
+#~ "المشترك الخاصة بك في "
+
+#~ msgid "Documentation"
+#~ msgstr "طريقة الاستخدام"
+
+#~ msgid "Support Docs"
+#~ msgstr "طريقة الاستخدام"
+
+#~ msgid "Facebook Profile Url"
+#~ msgstr "رابط Facebook"
+
+#, fuzzy
+#~ msgid "Twitter Profile Url"
+#~ msgstr "رابط Twitter"
+
+#, fuzzy
+#~ msgid "instagram Profile Url"
+#~ msgstr "رابط Instagram"
+
+#~ msgid "Google+ Profile Url"
+#~ msgstr "رابط صفحة جوجل+"
+
+#, fuzzy
+#~ msgid "YouTube Channel Url"
+#~ msgstr "رابط YouTube"
+
+#, fuzzy
+#~ msgid "LinkedIn Profile Url"
+#~ msgstr "رابط LinkedIn"
+
+#~ msgid "Behance Profile Url"
+#~ msgstr "رابط Behance"
+
+#~ msgid "Dribbble Profile Url"
+#~ msgstr "رابط Dribbble"
+
+#~ msgid "Flickr Profile Url"
+#~ msgstr "رابط Flickr"
+
+#, fuzzy
+#~ msgid "SoundCloud Profile Url"
+#~ msgstr "رابط SoundCloud"
+
+#, fuzzy
+#~ msgid "Skype Profile Username"
+#~ msgstr "معرف Skype"
+
+#, fuzzy
+#~ msgid "RSS Icon Url"
+#~ msgstr "رابط RSS"
+
+#~ msgid ""
+#~ "Please, check the fields below to make sure you entered the correct "
+#~ "information."
+#~ msgstr ""
+#~ "Please check the fields below to make sure you entered the correct "
+#~ "information."
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Nothing found in Bin"
+
+#~ msgid "Menu Color"
+#~ msgstr "Menu Colour"
+
+#~ msgid "Text Color"
+#~ msgstr "Text Colour"
+
+#~ msgid "Get How to do tutorials, and more via your account at "
+#~ msgstr "Get How-to tutorials and more via your account at "
+
+#~ msgid ""
+#~ "Usually a more compact version of your logo e.g. icon only. Do no forget to "
+#~ "enable it from the option above."
+#~ msgstr ""
+#~ "Usually a more compact version of your logo e.g. icon only. Do no forget to "
+#~ "enable it using the option above."
+
+#~ msgid ""
+#~ "If you would like to use your own custom favicon image click the Upload "
+#~ "button. 32x32 Pixel."
+#~ msgstr ""
+#~ "If you would like to use your own custom favicon image click the Upload "
+#~ "button. 32x32 pixels."
+
+#~ msgid "Fullwidth"
+#~ msgstr "Full-width"
+
+#~ msgid "Main Font Color"
+#~ msgstr "Main Font Colour"
+
+#~ msgid "Link Color"
+#~ msgstr "Link Colour"
+
+#~ msgid "Primary Navigation Colors"
+#~ msgstr "Primary Navigation Colorus"
+
+#~ msgid "Menu Links Color"
+#~ msgstr "Menu Links Colour"
+
+#~ msgid "Menu Link Separator Color"
+#~ msgstr "Menu Link Separator Colour"
+
+#~ msgid "This color is the gradient color."
+#~ msgstr "This colour is the gradient colour."
+
+#~ msgid "Primary Navigation Text Color"
+#~ msgstr "Primary Navigation Text Colour"
+
+#~ msgid "Sub Navigation Text Color"
+#~ msgstr "Sub Navigation Text Colour"
+
+#~ msgid "Secondary Navigation Colors"
+#~ msgstr "Secondary Navigation Colours"
+
+#~ msgid "Secondary Navigation Border Color"
+#~ msgstr "Secondary Navigation Border Colour"
+
+#~ msgid "Secondary Navigation Text Color"
+#~ msgstr "Secondary Navigation Text Colour"
+
+#~ msgid "Footer Colors"
+#~ msgstr "Footer Colours"
+
+#~ msgid "Footer Text Color"
+#~ msgstr "Footer Text Colour"
+
+#~ msgid "Footer link Color"
+#~ msgstr "Footer Link Colour"
+
+#~ msgid ""
+#~ "Here you can choose Home Page Layout. this option will only work if you "
+#~ "have the default homepage on your site."
+#~ msgstr ""
+#~ "Here you can choose Home Page Layout. This option will only work if you "
+#~ "have the default homepage on your site."
+
+# this option
+# or
+# these options
+#~ msgid ""
+#~ "In some cases users will want to create parent categories or links as "
+#~ "placeholders to hold a list of child links or categories. In this case it "
+#~ "is not desirable to have the parent links lead anywhere, but instead merely "
+#~ "serve an organizational function. Enabling this options will remove the "
+#~ "links from all parent pages/categories so that they don't lead anywhere "
+#~ "when clicked."
+#~ msgstr ""
+#~ "Sometimes users will want to create parent categories or links as "
+#~ "placeholders to hold a list of child links or categories. In this case it "
+#~ "is not desirable to have the parent links lead anywhere, but instead merely "
+#~ "serve an organizational function. Enabling this options will remove the "
+#~ "links from all parent pages/categories so that they don't lead anywhere "
+#~ "when clicked."
+
+#~ msgid ""
+#~ "This option will change the look for your post info to be in a stylish two "
+#~ "line."
+#~ msgstr ""
+#~ "This option will change the look for your post info to be in a stylish two-"
+#~ "line format."
+
+#~ msgid ""
+#~ "Here you can choose which items appear in the postinfo section on pages. "
+#~ "This is the area, usually below the post title, which displays basic "
+#~ "information about your post. The highlighted itmes shown below will appear. "
+#~ msgstr ""
+#~ "Here you can choose which items appear in the postinfo section on pages. "
+#~ "This is area is usually below the post title and displays basic information "
+#~ "about your post. The highlighted items shown below will appear. "
+
+#~ msgid ""
+#~ "Here you can choose which items appear in the postinfo section on single "
+#~ "post pages. This is the area, usually below the post title, which displays "
+#~ "basic information about your post. The highlighted itmes shown below will "
+#~ "appear. "
+#~ msgstr ""
+#~ "Here you can choose which items appear in the postinfo section on single "
+#~ "pages. This is area is usually below the post title and displays basic "
+#~ "information about your post. The highlighted items shown below will appear. "
+
+#~ msgid ""
+#~ "You can disable this option if you want to remove the comments and comment "
+#~ "form from single post pages. "
+#~ msgstr ""
+#~ "You can disable this option if you want to remove the comment form and the "
+#~ "comments from all single post pages. "
+
+#~ msgid ""
+#~ "You can disable this option if you want to remove the comments and comment "
+#~ "form from single project pages. "
+#~ msgstr ""
+#~ "You can disable this option if you want to remove the comment form and the "
+#~ "comments from all single project pages. "
+
+#~ msgid ""
+#~ "If you have enabled meta keywords you can add your custom keywords here. "
+#~ "Keywords should be separated by comas. For example: wordpress,themes,"
+#~ "templates,mharty"
+#~ msgstr ""
+#~ "If you have enabled meta keywords you can add your custom keywords here. "
+#~ "Keywords should be separated by commas. For example: wordpress,themes,"
+#~ "templates,mharty"
+
+#~ msgid ""
+#~ "If you are not using cutsom post titles you can still have control over how "
+#~ "your titles are generated. Here you can choose which order you would like "
+#~ "your post title and blog name to be displayed, or you can remove the blog "
+#~ "name from the title completely."
+#~ msgstr ""
+#~ "If you are not using custom post titles you can still have control over how "
+#~ "your titles are generated. Here you can choose which order you would like "
+#~ "your post title and blog name to be displayed, or you can remove the blog "
+#~ "name from the title completely."
+
+# again, “based on” in the last sentence
+#~ msgid ""
+#~ "If you would like to add a meta description to your post you can do so "
+#~ "using custom fields. This option must be enabled for descriptions to be "
+#~ "displayed on post pages. You can add your meta description using custom "
+#~ "fields based off the custom field name you define below."
+#~ msgstr ""
+#~ "If you would like to add a meta description to your post you can do so "
+#~ "using custom fields. This option must be enabled for descriptions to be "
+#~ "displayed on post pages. You can add your meta description using custom "
+#~ "fields based on the custom field name you define below."
+
+# again, “based on” in the last sentence
+#~ msgid ""
+#~ "If you would like to add meta keywords to your post you can do so using "
+#~ "custom fields. This option must be enabled for keywords to be displayed on "
+#~ "post pages. You can add your meta keywords using custom fields based off "
+#~ "the custom field name you define below."
+#~ msgstr ""
+#~ "If you would like to add meta keywords to your post you can do so using "
+#~ "custom fields. This option must be enabled for keywords to be displayed on "
+#~ "post pages. You can add your meta keywords using custom fields based on the "
+#~ "custom field name you define below."
+
+# I corrected “coma” to “comma” but might have missed other instances :(
+# “comma” is correct
+#~ msgid ""
+#~ "When you define your keywords using custom fields you should use this value "
+#~ "for the custom field Name. The Value of your custom field should be the "
+#~ "meta keywords you would like to use, separated by comas."
+#~ msgstr ""
+#~ "When you define your keywords using custom fields you should use this value "
+#~ "for the custom field Name. The Value of your custom field should be the "
+#~ "meta keywords you would like to use, separated by commas."
+
+#~ msgid ""
+#~ "If you are not using cutsom post titles you can still have control over hw "
+#~ "your titles are generated. Here you can choose which order you would like "
+#~ "your post title and blog name to be displayed, or you can remove the blog "
+#~ "name from the title completely."
+#~ msgstr ""
+#~ "If you are not using custom post titles you can still have control over how "
+#~ "your titles are generated. Here you can choose which order you would like "
+#~ "your post title and blog name to be displayed, or you can remove the blog "
+#~ "name from the title completely."
+
+#~ msgid "Manage Un-widgetized Advertisements"
+#~ msgstr "Manage non-widget advertisements"
+
+#~ msgid ""
+#~ "Enable this option to display another version if your logo to appear when "
+#~ "the Fixed Navigation Bar is active. use the field below to upload it."
+#~ msgstr ""
+#~ "Enable this option to display alternative version of your logo when the "
+#~ "Fixed Navigation Bar is active. Use the field below to upload it."
+
+#~ msgid "Footer Background Color (Widgets)"
+#~ msgstr "Footer Background Colour (Widgets)"
+
+#~ msgid "Footer Background Color"
+#~ msgstr "Footer Background Colour"
+
+#~ msgid ""
+#~ "Change this in case you wanted to adjust the menu text color to be more "
+#~ "visiable."
+#~ msgstr ""
+#~ "Change this if you want to adjust the menu text colour to be more visible."
+
+#~ msgid "Change this in case you wanted to adjust the background color."
+#~ msgstr "Change this if you want to adjust the background colour."
+
+#~ msgid "Bckground Color"
+#~ msgstr "Background Colour"
+
+#~ msgid "Use Background Color"
+#~ msgstr "Use Background Colour"
+
+#~ msgid "Background Color"
+#~ msgstr "Background Colour"
+
+#~ msgid "Choose between fullwidth or boxed."
+#~ msgstr "Choose between full-width or boxed."
+
+#~ msgid ""
+#~ "By default the logo height is around 40 pixels you could input your value "
+#~ "here, smaller or bigger! Please use numbers only."
+#~ msgstr ""
+#~ "By default the logo height is around 40 pixels, but you can input your "
+#~ "value here. Please use numbers only."
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Active Menu Link Color"
+#~ msgstr "Active Menu Link Colour"
+
+#~ msgid ""
+#~ "Enable this option to display a border line under the Secondary Navigation. "
+#~ "Use the option below to choose your desired color."
+#~ msgstr ""
+#~ "Enable this option to display a border line under the Secondary Navigation. "
+#~ "Use the option below to choose your desired colour."
+
+#~ msgid "App Menu Colors"
+#~ msgstr "App Menu Colours"
+
+#~ msgid "App Menu Text Color"
+#~ msgstr "App Menu Text Colour"
+
+#~ msgid ""
+#~ "By default the theme truncates your posts on index/homepages automatically "
+#~ "to create post previews. If you would rather show your posts in full on "
+#~ "index pages like a traditional blog then you can activate this feature."
+#~ msgstr ""
+#~ "By default the theme truncates your posts on index/homepages automatically "
+#~ "to create post previews. If you would rather show your posts in full on "
+#~ "index pages, like a traditional blog, then you can activate this feature."
+
+#~ msgid ""
+#~ "By default pages are sorted by name. However if you would rather have them "
+#~ "sorted by ID you can adjust this setting."
+#~ msgstr ""
+#~ "By default pages are sorted by name. However, if you would rather have them "
+#~ "sorted by ID you can adjust this setting."
+
+#~ msgid ""
+#~ "By default the theme uses a combination of your blog name and your blog "
+#~ "description, as defined when you created your blog, to create your homepage "
+#~ "titles. However if you want to create a custom title then simply enable "
+#~ "this option and fill in the custom title field below. "
+#~ msgstr ""
+#~ "By default the theme creates your homepage titles using a combination of "
+#~ "your blog name and your blog description, as defined when you created your "
+#~ "blog. However if you want to create a custom title then simply enable this "
+#~ "option and fill in the custom title field below. "
+
+#~ msgid ""
+#~ "By default the theme uses your blog description, as defined when you "
+#~ "created your blog, to fill in the meta description field. If you would like "
+#~ "to use a different description then enable this option and fill in the "
+#~ "custom description field below. "
+#~ msgstr ""
+#~ "By default the theme fills in the meta description field using your blog "
+#~ "description, as defined when you created your blog. If you would like to "
+#~ "use a different description then enable this option and fill in the custom "
+#~ "description field below. "
+
+#~ msgid ""
+#~ "By default the theme does not add keywords to your header. Most search "
+#~ "engines don't use keywords to rank your site anymore, but some people "
+#~ "define them anyway just in case. If you want to add meta keywords to your "
+#~ "header then enable this option and fill in the custom keywords field below. "
+#~ msgstr ""
+#~ "By default the theme does not add keywords to your header. Most search "
+#~ "engines don't use keywords to rank your site any more, but some people "
+#~ "define them anyway just in case. If you want to add meta keywords to your "
+#~ "header then enable this option and fill in the custom keywords field below. "
+
+# I corrected “off” to “on” in the last sentence, but not sure if that’s what you meant?
+#~ msgid ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content penalties "
+#~ "and pagerank degradation. Some pages may have different URL's all leading "
+#~ "to the same place. For example domain.com, domain.com/index.html, and www."
+#~ "domain.com are all different URLs leading to your homepage. From a search "
+#~ "engine's perspective these duplicate URLs, which also occur often due to "
+#~ "custom permalinks, may be treated individually instead of as a single "
+#~ "destination. Defining a canonical URL tells the search engine which URL you "
+#~ "would like to use officially. The theme bases its canonical URLs off your "
+#~ "permalinks and the domain name defined in the settings tab of wp-admin."
+#~ msgstr ""
+#~ "Canonicalization helps to prevent the indexing of duplicate content by "
+#~ "search engines, and as a result, may help avoid duplicate content penalties "
+#~ "and pagerank degradation. Some pages may have different URL's all leading "
+#~ "to the same place. For example domain.com, domain.com/index.html, and www."
+#~ "domain.com are all different URLs leading to your homepage. From a search "
+#~ "engine's perspective these duplicate URLs, which also occur often due to "
+#~ "custom permalinks, may be treated individually instead of as a single "
+#~ "destination. Defining a canonical URL tells the search engine which URL you "
+#~ "would like to use officially. The theme bases its canonical URLs on your "
+#~ "permalinks and the domain name defined in the settings tab of wp-admin."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the top of all single posts. This "
+#~ "is useful if you are looking to integrating things such as social "
+#~ "bookmarking links."
+#~ msgstr ""
+#~ "Any code you place here will be placed at the top of all single posts. This "
+#~ "is useful if you are looking to integrate things such as social bookmarking "
+#~ "links."
+
+#~ msgid ""
+#~ "Any code you place here will be placed at the bottom of all single posts. "
+#~ "This is useful if you are looking to integrating things such as social "
+#~ "bookmarking links."
+#~ msgstr ""
+#~ "Any code you place here will be placed at the bottom of all single posts. "
+#~ "This is useful if you are looking to integrate things such as social "
+#~ "bookmarking links."

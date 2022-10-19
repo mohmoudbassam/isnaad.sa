@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty - Love it\n"
+"POT-Creation-Date: 2018-04-30 15:53+0100\n"
+"PO-Revision-Date: 2018-04-30 15:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mh-loveit.php\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/components.php:6
+msgid "Social Media Share"
+msgstr "أزرار المشاركة"
+
+#: includes/components.php:72
+msgid "Social Share Button"
+msgstr "أزرار المشاركة الاجتماعية"
+
+#: includes/components.php:74
+msgid "Use this to add Custom CSS Properties."
+msgstr "استخدم هذا الحقل لإضافة “CSS Properties”."
+
+#: includes/components.php:82
+msgid "Share Content"
+msgstr "مشاركة المحتوى"
+
+#: includes/components.php:85 includes/components.php:136
+#: includes/components.php:159 includes/components.php:170
+#: includes/components.php:181 includes/components.php:193
+#: includes/components.php:204 includes/components.php:215
+#: includes/components.php:226 includes/components.php:237
+#: includes/components.php:248 includes/components.php:259
+#: includes/components.php:271 includes/components.php:318
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/components.php:86 includes/components.php:135
+#: includes/components.php:160 includes/components.php:171
+#: includes/components.php:182 includes/components.php:192
+#: includes/components.php:203 includes/components.php:214
+#: includes/components.php:225 includes/components.php:236
+#: includes/components.php:247 includes/components.php:258
+#: includes/components.php:270 includes/components.php:319
+msgid "No"
+msgstr "لا"
+
+#: includes/components.php:92
+msgid ""
+"By default, the title and the link to this page will be shared. Disable this "
+"option if you want to specify what to share."
+msgstr ""
+"بشكل افتراضي، سيتم مشاركة رابط وعنوان الصفحة الحالية. قم بتعطيل هذا الخيار "
+"إذا كنت ترغب في تحديد نص ورابط بشكل يدوي."
+
+#: includes/components.php:95
+msgid "Share URL"
+msgstr "رابط للمشاركة"
+
+#: includes/components.php:98
+msgid "Input the URL you want to share. This field cannot be empty."
+msgstr "ضع هنا الرابط الذي تود مشاركته. هذا الحقل لا يمكن أن يكون فارغاً."
+
+#: includes/components.php:101
+msgid "Share Text"
+msgstr "نص للمشاركة"
+
+#: includes/components.php:104
+msgid "Input the text you want to share."
+msgstr "ضع هنا النص الذي تود مشاركته."
+
+#: includes/components.php:107 includes/functions.php:120
+msgid "Share Buttons Type"
+msgstr "شكل أزرار المشاركة"
+
+#: includes/components.php:110 includes/functions.php:124
+msgid "Title and icon"
+msgstr "الاسم والأيقونة"
+
+#: includes/components.php:111 includes/functions.php:125
+msgid "Only icon - large"
+msgstr "الأيقونة فقط - كبير"
+
+#: includes/components.php:112 includes/functions.php:126
+msgid "Only icon - small"
+msgstr "الأيقونة فقط - صغير"
+
+#: includes/components.php:113 includes/functions.php:127
+msgid "Share icon"
+msgstr "زر المشاركة"
+
+#: includes/components.php:120 includes/functions.php:129
+msgid "Here you can choose the type for your share buttons."
+msgstr "هنا يمكنك اختيار شكل أزرار المشاركة."
+
+#: includes/components.php:123 includes/functions.php:140
+msgid "Share Buttons Style"
+msgstr "تصميم أزرار المشاركة"
+
+#: includes/components.php:126 includes/functions.php:144
+msgid "Bordered"
+msgstr "محدد"
+
+#: includes/components.php:127 includes/functions.php:145
+msgid "Solid"
+msgstr "لون كامل"
+
+#: includes/components.php:129 includes/functions.php:147
+msgid "Here you can choose the style for your share buttons."
+msgstr "ازرار النشر"
+
+#: includes/components.php:132
+msgid "Use Custom Colour"
+msgstr "استخدم لون مخصص"
+
+#: includes/components.php:141
+msgid ""
+"Here you can choose whether to choose a custom colour for your share buttons "
+"or use the default colours."
+msgstr ""
+"هنا يمكنك اختيار لون مخصص لأزرار المشاركة أو اتركه كما هو لاستخدام الألوان "
+"الافتراضية لكل شبكة تواصل."
+
+#: includes/components.php:144
+msgid "Colour"
+msgstr "اللون"
+
+#: includes/components.php:147
+msgid "Here you can define a custom colour."
+msgstr "هنا يمكنك تحديد لون مخصص."
+
+#: includes/components.php:150
+msgid "Share Button Colour"
+msgstr "لون زر المشاركة"
+
+#: includes/components.php:153
+msgid "Here you can define a custom colour for the share button."
+msgstr "هنا يمكنك تحديد لون مخصص للزر المشاركة."
+
+#: includes/components.php:156 includes/functions.php:184
+msgid "Share to Twitter"
+msgstr "المشاركة لـ Twitter"
+
+#: includes/components.php:167 includes/functions.php:189
+msgid "Share to Facebook"
+msgstr "المشاركة لـ Facebook"
+
+#: includes/components.php:178 includes/functions.php:194
+msgid "Share to Google+"
+msgstr "المشاركة لـ Google+"
+
+#: includes/components.php:189 includes/functions.php:199
+msgid "Share to Pinterest"
+msgstr "المشاركة لـ Pinterest"
+
+#: includes/components.php:200 includes/functions.php:204
+msgid "Share to LinkedIn"
+msgstr "المشاركة ل LinkedIn"
+
+#: includes/components.php:211 includes/functions.php:209
+msgid "Share to Gmail"
+msgstr "المشاركة لـ Gmail"
+
+#: includes/components.php:222 includes/functions.php:214
+msgid "Share to Buffer"
+msgstr "المشاركة لـ Buffer"
+
+#: includes/components.php:233 includes/functions.php:219
+msgid "Share to PrintFriendly"
+msgstr "المشاركة لـ PrintFriendly"
+
+#: includes/components.php:244 includes/functions.php:224
+msgid "Share to Yahoo Mail"
+msgstr "المشاركة لـ Yahoo Mail"
+
+#: includes/components.php:255 includes/functions.php:229
+msgid "Share to Whatsapp"
+msgstr "المشاركة لـ Whatsapp"
+
+#: includes/components.php:264 includes/components.php:276
+#: includes/functions.php:233 includes/functions.php:238
+msgid "This button is only visable on small screens."
+msgstr "هذا الزر يظهر على الشاشات الصغيرة فقط."
+
+#: includes/components.php:267 includes/functions.php:234
+msgid "Share to Telegram"
+msgstr "المشاركة لـ Telegram"
+
+#: includes/components.php:279
+msgid "Label"
+msgstr "معرف"
+
+#: includes/components.php:281
+msgid ""
+"This will change the label of the component in the composer for easy "
+"identification."
+msgstr "هذا المعرف سيظهر لك فقط، وهو عبارة عن عنوان للمكون لسهولة التعرف عليه."
+
+#: includes/components.php:284
+msgid "{CSS ID}"
+msgstr "{CSS ID}"
+
+#: includes/components.php:286
+msgid ""
+"Enter an optional CSS ID. An ID can be used to create custom CSS styling, or "
+"to create links to particular sections of your page."
+msgstr ""
+"(اختياري) ضع معرف CSS. هذا مفيد إن كنت تود استخدام خاصية الـ، Custom CSS من "
+"لوحة القالب لتغيير المظهر الخاص بهذا المكون."
+
+#: includes/components.php:290
+msgid "{CSS Class}"
+msgstr "{CSS Class}"
+
+#: includes/components.php:292
+msgid ""
+"Enter optional CSS classes. A CSS class can be used to create custom CSS "
+"styling. You can add multiple classes, separated with a space."
+msgstr ""
+"(اختياري) ضع كلاس CSS. هذا مفيد إن كنت تود استخدام خاصية الـ، Custom CSS من "
+"لوحة القالب لتغيير المظهر الخاص بهذا المكون."
+
+#: includes/components.php:296
+msgid "Icons Placement"
+msgstr "محاذاة الأيقونات"
+
+#: includes/components.php:301
+msgid "This option works only with \"Only icon - samll\"."
+msgstr "هذا الاختيار يعمل فقط مع “الأيقونة فقط - صغير”"
+
+#: includes/components.php:304 includes/functions.php:158
+msgid "Share Buttons Columns"
+msgstr "أعمدة أزرار المشاركة"
+
+#: includes/components.php:307 includes/functions.php:162
+msgid "Three"
+msgstr "ثلاثة"
+
+#: includes/components.php:308 includes/functions.php:163
+msgid "Four"
+msgstr "أربعة"
+
+#: includes/components.php:312
+msgid ""
+"This option will work with \"Title and icon\" and \"Only icon - large\"."
+msgstr "هذا الاختيار يعمل فقط مع “الاسم والأيقونة” و “الأيقونة فقط - كبير”."
+
+#: includes/components.php:315 includes/functions.php:98
+#: includes/functions.php:132
+msgid "Hide on Small Devices"
+msgstr "إخفاء أزرار المشاركة على الأجهزة الصغيرة"
+
+#: includes/components.php:321 includes/functions.php:102
+#: includes/functions.php:136
+msgid "This option hides the share buttons on small devices."
+msgstr "هذا الخيار سيخفي أزرار المشاركة على الأجهزة الصغيرة."
+
+#: includes/components.php:325 includes/functions.php:242
+msgid "Twitter Text"
+msgstr "نص Twitter"
+
+#: includes/components.php:329 includes/components.php:336
+#: includes/components.php:343 includes/components.php:350
+#: includes/components.php:357 includes/components.php:364
+#: includes/components.php:371 includes/components.php:378
+#: includes/components.php:385 includes/components.php:392
+#: includes/components.php:399
+msgid "Here you can change the text appears on the share button."
+msgstr "هنا يمكنك تغيير النص الذي يظهر على زر المشاركة."
+
+#: includes/components.php:332 includes/functions.php:249
+msgid "Facebook Text"
+msgstr "نص Facebook"
+
+#: includes/components.php:339 includes/functions.php:255
+msgid "Google+ Text"
+msgstr "نص Google+"
+
+#: includes/components.php:346 includes/functions.php:261
+msgid "Pinterest Text"
+msgstr "نص Pinterest"
+
+#: includes/components.php:353 includes/functions.php:267
+msgid "LinkedIn Text"
+msgstr "نص LinkedIn"
+
+#: includes/components.php:360 includes/functions.php:273
+msgid "Gmail Text"
+msgstr "نص Gmail"
+
+#: includes/components.php:367 includes/functions.php:279
+msgid "Buffer Text"
+msgstr "نص Buffer"
+
+#: includes/components.php:374 includes/functions.php:285
+msgid "PrintFriendly Text"
+msgstr "نص PrintFriendly"
+
+#: includes/components.php:381 includes/functions.php:291
+msgid "Yahoo Mail Text"
+msgstr "نص Yahoo Mail"
+
+#: includes/components.php:388 includes/functions.php:297
+msgid "Whatsapp Text"
+msgstr "نص Whatsapp"
+
+#: includes/components.php:395 includes/functions.php:303
+msgid "Telegram Text"
+msgstr "نص Telegram"
+
+#: includes/components.php:402
+msgid "Hide on"
+msgstr "إخفاء على"
+
+#: includes/components.php:405
+msgid "Phone"
+msgstr "الهاتف"
+
+#: includes/components.php:406
+msgid "Tablet"
+msgstr "الحاسوب اللوحي"
+
+#: includes/components.php:407
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+#: includes/components.php:410
+msgid "This will hide the component on selected devices"
+msgstr "هذا الاختيار سيقوم بإخفاء هذا المكون أو القسم في الأجهزة المختارة."
+
+#: includes/components.php:523 includes/functions.php:245
+#: includes/functions.php:377
+msgid "Twitter"
+msgstr "تويتر"
+
+#: includes/components.php:533 includes/functions.php:252
+#: includes/functions.php:387
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: includes/components.php:543 includes/functions.php:258
+#: includes/functions.php:397
+msgid "Google+"
+msgstr "جوجل+"
+
+#: includes/components.php:554 includes/functions.php:264
+#: includes/functions.php:408
+msgid "Pinterest"
+msgstr "بنترست"
+
+#: includes/components.php:565 includes/functions.php:270
+#: includes/functions.php:419
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+#: includes/components.php:576 includes/functions.php:276
+#: includes/functions.php:430
+msgid "Gmail"
+msgstr "جيميل"
+
+#: includes/components.php:587 includes/functions.php:282
+#: includes/functions.php:441
+msgid "Buffer"
+msgstr "بفر"
+
+#: includes/components.php:598 includes/functions.php:288
+#: includes/functions.php:452
+msgid "PrintFriendly"
+msgstr "برنت فرندلي"
+
+#: includes/components.php:608 includes/functions.php:294
+#: includes/functions.php:462
+msgid "Yahoo Mail"
+msgstr "ياهو"
+
+#: includes/components.php:619 includes/functions.php:300
+#: includes/functions.php:473
+msgid "Whatsapp"
+msgstr "واتساب"
+
+#: includes/functions.php:18 includes/functions.php:24
+msgid "Right"
+msgstr "يمين"
+
+#: includes/functions.php:19 includes/functions.php:23
+msgid "Left"
+msgstr "يسار"
+
+#: includes/functions.php:36
+msgid "Options"
+msgstr "إعدادات"
+
+#: includes/functions.php:40
+msgid "Networks"
+msgstr "الشبكات"
+
+#: includes/functions.php:47
+msgid "Like Icon"
+msgstr "أيقونة الإعجاب"
+
+#: includes/functions.php:49
+msgid "Show Likes on Archives"
+msgstr "عرض الإعجابات للأرشيف"
+
+#: includes/functions.php:53 includes/functions.php:58
+#: includes/functions.php:63
+msgid "Choose here if you want to show the icon for this type of pages."
+msgstr "اختر هنا إذا كنت ترغب في إظهار أيقونة الإعجابات لهذا النوع من المحتوى."
+
+#: includes/functions.php:54
+msgid "Show Likes on Posts"
+msgstr "عرض الإعجابات للمقالات"
+
+#: includes/functions.php:59
+msgid "Show Likes on Projects"
+msgstr "عرض الإعجابات للأعمال"
+
+#: includes/functions.php:65
+msgid "Floating Share Buttons"
+msgstr "أزرار المشاركة المثبتة"
+
+#: includes/functions.php:68
+msgid "Floating Share Buttons on Homepage"
+msgstr "أزرار المشاركة المثبتة للرئيسية"
+
+#: includes/functions.php:72
+msgid "Choose here if you want to show the floating share buttons on homepage."
+msgstr "اختر هنا إذا كنت ترغب في إظهار أزرار المشاركة المثبتة للرئيسية."
+
+#: includes/functions.php:74
+msgid "Floating Share Buttons on Pages"
+msgstr "أزرار المشاركة المثبتة للصفحات"
+
+#: includes/functions.php:78 includes/functions.php:84
+#: includes/functions.php:90 includes/functions.php:96
+msgid ""
+"Choose here if you want to show the floating share buttons on this type of "
+"pages."
+msgstr "اختر هنا إذا كنت ترغب في إظهار أزرار المشاركة لهذا النوع من المحتوى."
+
+#: includes/functions.php:80
+msgid "Floating Share Buttons on Posts"
+msgstr "أزرار المشاركة المثبتة للمقالات"
+
+#: includes/functions.php:86
+msgid "Floating Share Buttons on Projects"
+msgstr "أزرار المشاركة المثبتة للأعمال"
+
+#: includes/functions.php:92
+msgid "Floating Share Buttons on Products"
+msgstr "أزرار المشاركة المثبتة للمنتجات"
+
+#: includes/functions.php:104
+msgid "After Post Share Buttons"
+msgstr "أزرار المشاركة للمقالات"
+
+#: includes/functions.php:107
+msgid "Share Buttons After Posts"
+msgstr "أزرار المشاركة للمقالات"
+
+#: includes/functions.php:111
+msgid "Enable this option to display the share buttons after your posts."
+msgstr "تفعيل هذا الاختيار سيعرض أيقونات المشاركة أسفل المقالات."
+
+#: includes/functions.php:113
+msgid "Share Buttons After Projects"
+msgstr "أزرار المشاركة للأعمال"
+
+#: includes/functions.php:117
+msgid "Enable this option to display the share buttons after your projects."
+msgstr "تفعيل هذا الاختيار سيعرض أيقونات المشاركة أسفل الأعمال."
+
+#: includes/functions.php:138
+msgid "Style and Colour"
+msgstr "التصميم واللون"
+
+#: includes/functions.php:149
+msgid "Share Buttons Colour"
+msgstr "لون أزرار المشاركة"
+
+#: includes/functions.php:153
+msgid "Accent colour"
+msgstr "لون القالب الرئيسي"
+
+#: includes/functions.php:154
+msgid "Default colours"
+msgstr "الألوان الافتراضية"
+
+#: includes/functions.php:156
+msgid "Here you can choose the colour for your share buttons."
+msgstr "هنا يمكنك اختيار لون أزرار المشاركة."
+
+#: includes/functions.php:165
+msgid "Here you can choose how many share buttons per row."
+msgstr "هنا يمكنك اختيار عدد الأزرار في كل صف."
+
+#: includes/functions.php:167
+msgid "Select and Tweet"
+msgstr "تحديد وتغريد"
+
+#: includes/functions.php:170
+msgid "Show Select and Tweet"
+msgstr "إظهار تحديد وتغريد"
+
+#: includes/functions.php:174
+msgid "This option will enable Select and Tweet on your site."
+msgstr "هذا الاختيار سيفعل خاصية تحديد وتغريد على موقعك."
+
+#: includes/functions.php:182
+msgid "Choose the Networks"
+msgstr "شبكات التواصل"
+
+#: includes/functions.php:188 includes/functions.php:193
+#: includes/functions.php:198 includes/functions.php:203
+#: includes/functions.php:208 includes/functions.php:213
+#: includes/functions.php:218 includes/functions.php:223
+#: includes/functions.php:228
+msgid "Here you can choose to display this Share Icon on your website."
+msgstr "هنا يمكنك اختيار عرض الأيقونة على موقعك."
+
+#: includes/functions.php:240
+msgid "Change Network Text"
+msgstr "تغيير نص زر الشبكة"
+
+#: includes/functions.php:246 includes/functions.php:253
+#: includes/functions.php:259 includes/functions.php:265
+#: includes/functions.php:271 includes/functions.php:277
+#: includes/functions.php:283 includes/functions.php:289
+#: includes/functions.php:295 includes/functions.php:301
+#: includes/functions.php:307
+msgid ""
+"Here you can change the text appears on the share button for this network."
+msgstr "هنا يمكنك تغيير النص الذي يظهر على زر المشاركة لهذه الشبكة."
+
+#: includes/functions.php:306 includes/functions.php:483
+msgid "Telegram"
+msgstr "تليجرام"
+
+#: includes/functions.php:333
+msgid "Loveit"
+msgstr "إعجابات"
+
+#: includes/likes.php:82
+msgid "I like it"
+msgstr "أعجبني"
+
+#: includes/likes.php:86
+msgid "You like this!"
+msgstr "أنت معجب بهذا!"
+
+#: includes/mharty-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "حدث خطأ HTTP غير متوقع عند محاولة إرسال الطلب."
+
+#: includes/mharty-updater.php:380 includes/mharty-updater.php:545
+msgid "Try again"
+msgstr "أعد المحاولة"
+
+#: includes/mharty-updater.php:421
+msgid "An unknown error occurred"
+msgstr "حدث خطأ غير معروف"
+
+#: includes/mharty-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr "تم تحديث الإضافة ولكن تعثر تفعيلها، من فضلك قم بالتفعيل يدوياً."
+
+#: includes/mharty-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: includes/mharty-updater.php:480
+msgid " Plugin Updates"
+msgstr "تحديثات الإضافة"
+
+#: includes/mharty-updater.php:519
+msgid "Username: "
+msgstr "اسم المستخدم:"
+
+#: includes/mharty-updater.php:523
+msgid "Email: "
+msgstr "البريد الإلكتروني:"
+
+#: includes/mharty-updater.php:529
+msgid "Key: "
+msgstr "المفتاح:"
+
+#: includes/mharty-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>تحديثات إضافتك <span style=\"color:green\">مفعلة</span></p>"
+
+#: includes/mharty-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ماأدخلته <span style=\"color:red\">غير صالح</span>، التحديثات التلقائية "
+"<span style=\"color:red\">غير مفعلة</span>.</p>"
+
+#: includes/mharty-updater.php:540
+msgid "Edit Key"
+msgstr "تعديل المفتاح"
+
+#: includes/mharty-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>غير قادر على التحقق من صحة تفعيل التحديثات.</p>"
+
+#: includes/mharty-updater.php:550
+msgid "Add Key"
+msgstr "أضف مفتاح"
+
+#: includes/mharty-updater.php:636
+msgid "User name"
+msgstr "اسم المستخدم"
+
+#: includes/mharty-updater.php:642
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/mharty-updater.php:651
+msgid "Activation Key"
+msgstr "مفتاح التفعيل"
+
+#. Plugin Name of the plugin/theme
+msgid "Mharty - Love it"
+msgstr "مهارتي - إعجابات"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr "http://mharty.com/"
+
+#. Description of the plugin/theme
+msgid "Add likes and sharing icons to your posts and projects."
+msgstr "أضف أزرار المشاركة وأيقونة الإعجاب للمقالات والأعمال في موقعك."
+
+#. Author of the plugin/theme
+msgid "mharty.com"
+msgstr "mharty.com"
+
+#~ msgid "Hide Floating Share Buttons on Small Devices"
+#~ msgstr "إخفاء أزرار المشاركة المثبتة على الأجهزة الصغيرة"
+
+#~ msgid "Post Share Buttons"
+#~ msgstr "أزرار المشاركة"
+
+#~ msgid "Choose here if you want to show the share buttons after your posts."
+#~ msgstr "اختر هنا إذا كنت ترغب في إظهار أزرار المشاركة أسفل المقالات."
+
+#~ msgid "Only icon"
+#~ msgstr "الأيقونة فقط"
+
+#~ msgid "Floating Share Buttons Position"
+#~ msgstr "مكان أزرار المشاركة المثبتة"
+
+#~ msgid "Here you can choose the position for the floating share buttons."
+#~ msgstr "هنا يمكنك اختيار مكان أزرار المشاركة المثبتة."
+
+#~ msgid "By default, the floating share buttons are hidden on small devices."
+#~ msgstr "افتراضياً، أزرار المشاركة المثبتة لا تظهر على الأجهزة الصغيرة."
+
+#~ msgid "Show likes on archives"
+#~ msgstr "عرض الإعجابات للأرشيف"
+
+#~ msgid "Show likes on posts"
+#~ msgstr "عرض الإعجابات للمقالات"
+
+#~ msgid "Show likes on projects"
+#~ msgstr "عرض الإعجابات للأعمال"
+
+#~ msgid "Post Share Iocns"
+#~ msgstr "أزرار مشاركة القالات"
+
+#~ msgid "Show share buttons after posts"
+#~ msgstr "إظهار أزرار المشاركة أسفل المقالات"
+
+#~ msgid "Share buttons type"
+#~ msgstr "شكل أزرار المشاركة"
+
+#~ msgid "icon and title"
+#~ msgstr "الأيقونة والاسم"
+
+#~ msgid "icon only"
+#~ msgstr "الأيقونة فقط"
+
+#~ msgid "Share buttons style"
+#~ msgstr "تصميم أزرار المشاركة"
+
+#~ msgid "Show floating share buttons on homepage"
+#~ msgstr "عرض أزرار المشاركة المثبتة للرئيسية"
+
+#~ msgid "Show floating share buttons on posts"
+#~ msgstr "عرض أزرار المشاركة المثبتة للمقالات"
+
+#~ msgid "Show floating share buttons on projects"
+#~ msgstr "عرض أزرار المشاركة المثبتة للأعمال"
+
+#~ msgid "Show floating share buttons on products"
+#~ msgstr "عرض أزرار المشاركة المثبتة للمنتجات"
+
+#~ msgid "floating share buttons position"
+#~ msgstr "مكان أزرار المشاركة المثبتة"
+
+#~ msgid "Hide floating share buttons on small devices"
+#~ msgstr "إخفاء أزرار المشاركة المثبتة على الأجهزة الصغيرة."
+
+#~ msgid "Categories, tags, search, etc"
+#~ msgstr "التصنيفات، الوسوم، البحث وغيرها."
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+#~ msgid "Show Loveit on Archive"
+#~ msgstr "عرض الإعجابات في صفحات الأرشيف"
+
+#~ msgid ""
+#~ "If you have MH Love it plugin and it is activated, you could choose here "
+#~ "if you want to show the icon on blog posts in archive."
+#~ msgstr ""
+#~ "إن كان لديك إضافة \"مهارتي - إعجابات\" منصبة ومفعلة، يمكنك تفعيل هذا "
+#~ "الاختيار لتظهر أيقونة الإعجاب للمقالات على صفحات الأرشيف."
+
+#~ msgid "Show Loveit on Posts"
+#~ msgstr "عرض الإعجابات للمقالات"
+
+#~ msgid ""
+#~ "If you have Mharty - Love it plugin and it is activated, you could choose "
+#~ "here if you want to show the icon on blog posts in single posts."
+#~ msgstr ""
+#~ "إن كان لديك إضافة \"مهارتي - إعجابات\" منصبة ومفعلة، يمكنك تفعيل هذا "
+#~ "الاختيار لتظهر أيقونة الإعجاب للمقالات."
+
+#~ msgid "Show Loveit on projects"
+#~ msgstr "عرض الإعجابات للأعمال"
+
+#~ msgid ""
+#~ "If you have Mharty - Love it plugin and it is activated, you could choose "
+#~ "here if you want to show the icon in single Projects pages."
+#~ msgstr ""
+#~ "إن كان لديك إضافة \"مهارتي - إعجابات\" منصبة ومفعلة، يمكنك تفعيل هذا "
+#~ "الاختيار لتظهر أيقونة الإعجاب للأعمال."
+
+#~ msgid "Show share links"
+#~ msgstr "إظهار أزرار المشاركة"
+
+#~ msgid ""
+#~ "You can enable this option if you want to display the share links after "
+#~ "your posts."
+#~ msgstr "يمكنك تفعيل هذا الاختيار لإظهار أزرار المشاركة أسفل المقالات."

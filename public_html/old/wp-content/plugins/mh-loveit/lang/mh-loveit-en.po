@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty - Love it\n"
+"POT-Creation-Date: 2018-04-30 15:53+0100\n"
+"PO-Revision-Date: 2018-04-30 15:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mh-loveit.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/components.php:6
+msgid "Social Media Share"
+msgstr ""
+
+#: includes/components.php:72
+msgid "Social Share Button"
+msgstr ""
+
+#: includes/components.php:74
+msgid "Use this to add Custom CSS Properties."
+msgstr ""
+
+#: includes/components.php:82
+msgid "Share Content"
+msgstr ""
+
+#: includes/components.php:85 includes/components.php:136
+#: includes/components.php:159 includes/components.php:170
+#: includes/components.php:181 includes/components.php:193
+#: includes/components.php:204 includes/components.php:215
+#: includes/components.php:226 includes/components.php:237
+#: includes/components.php:248 includes/components.php:259
+#: includes/components.php:271 includes/components.php:318
+msgid "Yes"
+msgstr ""
+
+#: includes/components.php:86 includes/components.php:135
+#: includes/components.php:160 includes/components.php:171
+#: includes/components.php:182 includes/components.php:192
+#: includes/components.php:203 includes/components.php:214
+#: includes/components.php:225 includes/components.php:236
+#: includes/components.php:247 includes/components.php:258
+#: includes/components.php:270 includes/components.php:319
+msgid "No"
+msgstr ""
+
+#: includes/components.php:92
+msgid ""
+"By default, the title and the link to this page will be shared. Disable this "
+"option if you want to specify what to share."
+msgstr ""
+
+#: includes/components.php:95
+msgid "Share URL"
+msgstr ""
+
+#: includes/components.php:98
+msgid "Input the URL you want to share. This field cannot be empty."
+msgstr ""
+
+#: includes/components.php:101
+msgid "Share Text"
+msgstr ""
+
+#: includes/components.php:104
+msgid "Input the text you want to share."
+msgstr ""
+
+#: includes/components.php:107 includes/functions.php:120
+msgid "Share Buttons Type"
+msgstr ""
+
+#: includes/components.php:110 includes/functions.php:124
+msgid "Title and icon"
+msgstr ""
+
+#: includes/components.php:111 includes/functions.php:125
+msgid "Only icon - large"
+msgstr ""
+
+#: includes/components.php:112 includes/functions.php:126
+msgid "Only icon - small"
+msgstr ""
+
+#: includes/components.php:113 includes/functions.php:127
+msgid "Share icon"
+msgstr ""
+
+#: includes/components.php:120 includes/functions.php:129
+msgid "Here you can choose the type for your share buttons."
+msgstr ""
+
+#: includes/components.php:123 includes/functions.php:140
+msgid "Share Buttons Style"
+msgstr ""
+
+#: includes/components.php:126 includes/functions.php:144
+msgid "Bordered"
+msgstr ""
+
+#: includes/components.php:127 includes/functions.php:145
+msgid "Solid"
+msgstr ""
+
+#: includes/components.php:129 includes/functions.php:147
+msgid "Here you can choose the style for your share buttons."
+msgstr ""
+
+#: includes/components.php:132
+msgid "Use Custom Colour"
+msgstr ""
+
+#: includes/components.php:141
+msgid ""
+"Here you can choose whether to choose a custom colour for your share buttons "
+"or use the default colours."
+msgstr ""
+
+#: includes/components.php:144
+msgid "Colour"
+msgstr ""
+
+#: includes/components.php:147
+msgid "Here you can define a custom colour."
+msgstr ""
+
+#: includes/components.php:150
+msgid "Share Button Colour"
+msgstr ""
+
+#: includes/components.php:153
+msgid "Here you can define a custom colour for the share button."
+msgstr ""
+
+#: includes/components.php:156 includes/functions.php:184
+msgid "Share to Twitter"
+msgstr ""
+
+#: includes/components.php:167 includes/functions.php:189
+msgid "Share to Facebook"
+msgstr ""
+
+#: includes/components.php:178 includes/functions.php:194
+msgid "Share to Google+"
+msgstr ""
+
+#: includes/components.php:189 includes/functions.php:199
+msgid "Share to Pinterest"
+msgstr ""
+
+#: includes/components.php:200 includes/functions.php:204
+msgid "Share to LinkedIn"
+msgstr ""
+
+#: includes/components.php:211 includes/functions.php:209
+msgid "Share to Gmail"
+msgstr ""
+
+#: includes/components.php:222 includes/functions.php:214
+msgid "Share to Buffer"
+msgstr ""
+
+#: includes/components.php:233 includes/functions.php:219
+msgid "Share to PrintFriendly"
+msgstr ""
+
+#: includes/components.php:244 includes/functions.php:224
+msgid "Share to Yahoo Mail"
+msgstr ""
+
+#: includes/components.php:255 includes/functions.php:229
+msgid "Share to Whatsapp"
+msgstr ""
+
+#: includes/components.php:264 includes/components.php:276
+#: includes/functions.php:233 includes/functions.php:238
+msgid "This button is only visable on small screens."
+msgstr ""
+
+#: includes/components.php:267 includes/functions.php:234
+msgid "Share to Telegram"
+msgstr ""
+
+#: includes/components.php:279
+msgid "Label"
+msgstr ""
+
+#: includes/components.php:281
+msgid ""
+"This will change the label of the component in the composer for easy "
+"identification."
+msgstr ""
+
+#: includes/components.php:284
+msgid "{CSS ID}"
+msgstr ""
+
+#: includes/components.php:286
+msgid ""
+"Enter an optional CSS ID. An ID can be used to create custom CSS styling, or "
+"to create links to particular sections of your page."
+msgstr ""
+
+#: includes/components.php:290
+msgid "{CSS Class}"
+msgstr ""
+
+#: includes/components.php:292
+msgid ""
+"Enter optional CSS classes. A CSS class can be used to create custom CSS "
+"styling. You can add multiple classes, separated with a space."
+msgstr ""
+
+#: includes/components.php:296
+msgid "Icons Placement"
+msgstr ""
+
+#: includes/components.php:301
+msgid "This option works only with \"Only icon - samll\"."
+msgstr ""
+
+#: includes/components.php:304 includes/functions.php:158
+msgid "Share Buttons Columns"
+msgstr ""
+
+#: includes/components.php:307 includes/functions.php:162
+msgid "Three"
+msgstr ""
+
+#: includes/components.php:308 includes/functions.php:163
+msgid "Four"
+msgstr ""
+
+#: includes/components.php:312
+msgid ""
+"This option will work with \"Title and icon\" and \"Only icon - large\"."
+msgstr ""
+
+#: includes/components.php:315 includes/functions.php:98
+#: includes/functions.php:132
+msgid "Hide on Small Devices"
+msgstr ""
+
+#: includes/components.php:321 includes/functions.php:102
+#: includes/functions.php:136
+msgid "This option hides the share buttons on small devices."
+msgstr ""
+
+#: includes/components.php:325 includes/functions.php:242
+msgid "Twitter Text"
+msgstr ""
+
+#: includes/components.php:329 includes/components.php:336
+#: includes/components.php:343 includes/components.php:350
+#: includes/components.php:357 includes/components.php:364
+#: includes/components.php:371 includes/components.php:378
+#: includes/components.php:385 includes/components.php:392
+#: includes/components.php:399
+msgid "Here you can change the text appears on the share button."
+msgstr ""
+
+#: includes/components.php:332 includes/functions.php:249
+msgid "Facebook Text"
+msgstr ""
+
+#: includes/components.php:339 includes/functions.php:255
+msgid "Google+ Text"
+msgstr ""
+
+#: includes/components.php:346 includes/functions.php:261
+msgid "Pinterest Text"
+msgstr ""
+
+#: includes/components.php:353 includes/functions.php:267
+msgid "LinkedIn Text"
+msgstr ""
+
+#: includes/components.php:360 includes/functions.php:273
+msgid "Gmail Text"
+msgstr ""
+
+#: includes/components.php:367 includes/functions.php:279
+msgid "Buffer Text"
+msgstr ""
+
+#: includes/components.php:374 includes/functions.php:285
+msgid "PrintFriendly Text"
+msgstr ""
+
+#: includes/components.php:381 includes/functions.php:291
+msgid "Yahoo Mail Text"
+msgstr ""
+
+#: includes/components.php:388 includes/functions.php:297
+msgid "Whatsapp Text"
+msgstr ""
+
+#: includes/components.php:395 includes/functions.php:303
+msgid "Telegram Text"
+msgstr ""
+
+#: includes/components.php:402
+msgid "Hide on"
+msgstr ""
+
+#: includes/components.php:405
+msgid "Phone"
+msgstr ""
+
+#: includes/components.php:406
+msgid "Tablet"
+msgstr ""
+
+#: includes/components.php:407
+msgid "Desktop"
+msgstr ""
+
+#: includes/components.php:410
+msgid "This will hide the component on selected devices"
+msgstr ""
+
+#: includes/components.php:523 includes/functions.php:245
+#: includes/functions.php:377
+msgid "Twitter"
+msgstr ""
+
+#: includes/components.php:533 includes/functions.php:252
+#: includes/functions.php:387
+msgid "Facebook"
+msgstr ""
+
+#: includes/components.php:543 includes/functions.php:258
+#: includes/functions.php:397
+msgid "Google+"
+msgstr ""
+
+#: includes/components.php:554 includes/functions.php:264
+#: includes/functions.php:408
+msgid "Pinterest"
+msgstr ""
+
+#: includes/components.php:565 includes/functions.php:270
+#: includes/functions.php:419
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/components.php:576 includes/functions.php:276
+#: includes/functions.php:430
+msgid "Gmail"
+msgstr ""
+
+#: includes/components.php:587 includes/functions.php:282
+#: includes/functions.php:441
+msgid "Buffer"
+msgstr ""
+
+#: includes/components.php:598 includes/functions.php:288
+#: includes/functions.php:452
+msgid "PrintFriendly"
+msgstr ""
+
+#: includes/components.php:608 includes/functions.php:294
+#: includes/functions.php:462
+msgid "Yahoo Mail"
+msgstr ""
+
+#: includes/components.php:619 includes/functions.php:300
+#: includes/functions.php:473
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/functions.php:18 includes/functions.php:24
+msgid "Right"
+msgstr ""
+
+#: includes/functions.php:19 includes/functions.php:23
+msgid "Left"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "Options"
+msgstr ""
+
+#: includes/functions.php:40
+msgid "Networks"
+msgstr ""
+
+#: includes/functions.php:47
+msgid "Like Icon"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "Show Likes on Archives"
+msgstr ""
+
+#: includes/functions.php:53 includes/functions.php:58
+#: includes/functions.php:63
+msgid "Choose here if you want to show the icon for this type of pages."
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Show Likes on Posts"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Show Likes on Projects"
+msgstr ""
+
+#: includes/functions.php:65
+msgid "Floating Share Buttons"
+msgstr ""
+
+#: includes/functions.php:68
+msgid "Floating Share Buttons on Homepage"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Choose here if you want to show the floating share buttons on homepage."
+msgstr ""
+
+#: includes/functions.php:74
+msgid "Floating Share Buttons on Pages"
+msgstr ""
+
+#: includes/functions.php:78 includes/functions.php:84
+#: includes/functions.php:90 includes/functions.php:96
+msgid ""
+"Choose here if you want to show the floating share buttons on this type of "
+"pages."
+msgstr ""
+
+#: includes/functions.php:80
+msgid "Floating Share Buttons on Posts"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Floating Share Buttons on Projects"
+msgstr ""
+
+#: includes/functions.php:92
+msgid "Floating Share Buttons on Products"
+msgstr ""
+
+#: includes/functions.php:104
+msgid "After Post Share Buttons"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "Share Buttons After Posts"
+msgstr ""
+
+#: includes/functions.php:111
+msgid "Enable this option to display the share buttons after your posts."
+msgstr ""
+
+#: includes/functions.php:113
+msgid "Share Buttons After Projects"
+msgstr ""
+
+#: includes/functions.php:117
+msgid "Enable this option to display the share buttons after your projects."
+msgstr ""
+
+#: includes/functions.php:138
+msgid "Style and Colour"
+msgstr ""
+
+#: includes/functions.php:149
+msgid "Share Buttons Colour"
+msgstr ""
+
+#: includes/functions.php:153
+msgid "Accent colour"
+msgstr ""
+
+#: includes/functions.php:154
+msgid "Default colours"
+msgstr ""
+
+#: includes/functions.php:156
+msgid "Here you can choose the colour for your share buttons."
+msgstr ""
+
+#: includes/functions.php:165
+msgid "Here you can choose how many share buttons per row."
+msgstr ""
+
+#: includes/functions.php:167
+msgid "Select and Tweet"
+msgstr ""
+
+#: includes/functions.php:170
+msgid "Show Select and Tweet"
+msgstr ""
+
+#: includes/functions.php:174
+msgid "This option will enable Select and Tweet on your site."
+msgstr ""
+
+#: includes/functions.php:182
+msgid "Choose the Networks"
+msgstr ""
+
+#: includes/functions.php:188 includes/functions.php:193
+#: includes/functions.php:198 includes/functions.php:203
+#: includes/functions.php:208 includes/functions.php:213
+#: includes/functions.php:218 includes/functions.php:223
+#: includes/functions.php:228
+msgid "Here you can choose to display this Share Icon on your website."
+msgstr ""
+
+#: includes/functions.php:240
+msgid "Change Network Text"
+msgstr ""
+
+#: includes/functions.php:246 includes/functions.php:253
+#: includes/functions.php:259 includes/functions.php:265
+#: includes/functions.php:271 includes/functions.php:277
+#: includes/functions.php:283 includes/functions.php:289
+#: includes/functions.php:295 includes/functions.php:301
+#: includes/functions.php:307
+msgid ""
+"Here you can change the text appears on the share button for this network."
+msgstr ""
+
+#: includes/functions.php:306 includes/functions.php:483
+msgid "Telegram"
+msgstr ""
+
+#: includes/functions.php:333
+msgid "Loveit"
+msgstr ""
+
+#: includes/likes.php:82
+msgid "I like it"
+msgstr ""
+
+#: includes/likes.php:86
+msgid "You like this!"
+msgstr ""
+
+#: includes/mharty-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: includes/mharty-updater.php:380 includes/mharty-updater.php:545
+msgid "Try again"
+msgstr ""
+
+#: includes/mharty-updater.php:421
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/mharty-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: includes/mharty-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: includes/mharty-updater.php:480
+msgid " Plugin Updates"
+msgstr ""
+
+#: includes/mharty-updater.php:519
+msgid "Username: "
+msgstr ""
+
+#: includes/mharty-updater.php:523
+msgid "Email: "
+msgstr ""
+
+#: includes/mharty-updater.php:529
+msgid "Key: "
+msgstr ""
+
+#: includes/mharty-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: includes/mharty-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:540
+msgid "Edit Key"
+msgstr ""
+
+#: includes/mharty-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:550
+msgid "Add Key"
+msgstr ""
+
+#: includes/mharty-updater.php:636
+msgid "User name"
+msgstr ""
+
+#: includes/mharty-updater.php:642
+msgid "Email"
+msgstr ""
+
+#: includes/mharty-updater.php:651
+msgid "Activation Key"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mharty - Love it"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add likes and sharing icons to your posts and projects."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mharty.com"
+msgstr ""

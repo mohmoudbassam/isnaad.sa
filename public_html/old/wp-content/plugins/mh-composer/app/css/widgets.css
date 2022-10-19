@@ -1,0 +1,16 @@
+.mh-wp-pre-3_8 #mhc_widget_area_create { margin: 0 8px; border-radius: 5px; background-color: #FCFCFC; font-size: 16px; padding: 30px; border: 1px solid #DFDFDF;}
+#mhc_widget_area_create p {padding: 0; margin: 0; font-size: 14px; color: #666;}
+.mh-wp-pre-3_8 #mhc_widget_area_create p label { display: block; margin-top: 20px; font-style: normal; font-size: 16px; color: #464646; }
+#mhc_widget_area_create p input {width: 95%; margin: 15px 0; border:1px solid #ccc; background-color:#f1f1f1; }
+#mhc_widget_area_create button.button { display: block; float: right: margin-top: 10px; }
+.mhc_widget_area_remove { display: block; padding: 3px 8px; color: #fff; text-decoration: none; border-radius: 4px; background-color: #E94A4A; text-shadow: none; float: right; margin: 5px 40px 0 5px;}
+.rtl .mhc_widget_area_remove { float: left; margin-left: 40px;}
+.mhc_widget_area_remove:hover {color: #fff; text-decoration: none; }
+
+/*------------------------------------------------*/
+/*---------------[RESPONSIVE LAYOUTS]-------------*/
+/*------------------------------------------------*/
+
+#mhc_widget_area_create { background-color: #fff; max-width: 96%; margin-right: 0; margin-top: 10px;  border-radius: 0px; border: 1px solid #ddd; -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05); box-shadow: 0 1px 2px rgba(0,0,0,.05); margin-left: 0px; padding: 4%; }
+#mhc_widget_area_create p label { font-size: 1.2em; display: block; font-weight: 600; color: #222; }
+.mhc_widget_area_remove { margin-top: 11px; }

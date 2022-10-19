@@ -1,0 +1,84 @@
+/* MH Customizer http://mharty.com/  Copyright (c) mharty.com */
+.wp-customizer a { color: #0073aa; }
+
+li.customize-control.customize-control-slider input[type=text] { width: 20%; float: left; text-align: center; }
+
+.rtl li.customize-control.customize-control-slider input[type=text] { float: right; }
+
+li.customize-control.customize-control-slider .ss-slider { width: 70%; margin-left: 25%; margin-top: 12px; }
+
+.rtl li.customize-control.customize-control-slider .ss-slider { margin-left: 0px; margin-right: 25%; }
+
+.customize-control-radio label { line-height: 25px; padding: 3px 7px; }
+
+.image.ui-buttonset label.ui-button { padding: 2px; line-height: 0; border-radius: 0; margin-right: 0; margin-left: 0; background: #999; border: 0; height: 100%; }
+
+li .image.ui-buttonset label.ui-button { margin-bottom: 10px; margin-right: 7px; }
+
+.rtl li .image.ui-buttonset label.ui-button { margin-right: 0px; margin-left: 7px; }
+
+.customizer-subtitle { font-size: 12px; margin-bottom: 12px; line-height: 1.4em !important; color: #9f9f9f; }
+
+div.ui-buttonset { margin-top: 5px; }
+
+.rtl .ui-buttonset { margin-right: 0; margin-left: 7px; }
+
+.ui-buttonset .ui-button { width: 27%; text-align: center; display: inline-block; }
+
+.ui-button-text { font-family: Tahoma, Geneva, sans-serif; }
+
+div.mh_customizer-customizer { height: 80px; }
+
+.wp-full-overlay.expanded { margin-left: 300px; }
+
+.rtl .wp-full-overlay.expanded { margin-left: 0px; margin-right: 300px; }
+
+.wp-full-overlay-sidebar { width: 300px; }
+
+.wp-core-ui .button-primary { border: 0px; }
+
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover { border: 0px; }
+
+.wp-core-ui .button-primary-disabled, .wp-core-ui .button-primary.disabled, .wp-core-ui .button-primary:disabled, .wp-core-ui .button-primary[disabled] { border: 0px !important; }
+
+li.customize-control { margin: 5px 0; }
+
+.wp-full-overlay-sidebar .wp-full-overlay-header, #customize-info .accordion-section-title, #customize-theme-controls .control-section:last-of-type .accordion-section-title, #customize-theme-controls .control-section:last-of-type.open, div.mh_customizer-customizer { border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
+
+.hide { display: none; }
+
+input[type=range] { -webkit-transition: background .5s; -moz-transition: background .5s; transition: background .5s; -webkit-appearance: none; background-color: #d2dadb; height: 5px; width: 165px; padding: 0; }
+
+input[type="range"]:focus { box-shadow: none !important; outline: none !important; }
+
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #00a0d2; width: 15px; height: 15px; border-radius: 1px; -webkit-border-radius: 1px; }
+
+input[type="range"]::-moz-range-track { border: inherit; background: transparent; }
+
+input[type="range"]::-ms-track { border: inherit; color: transparent; background: transparent; }
+
+input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper { background: transparent; }
+
+input[type="range"]::-ms-tooltip { display: none; }
+
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 15px; height: 15px; border: none; border-radius: 1px; background-color: #00a0d2; }
+
+input[type="range"]::-moz-range-thumb { width: 15px; height: 15px; border: none; border-radius: 1px; background-color: #00a0d2; }
+
+input[type="range"]::-ms-thumb { width: 15px; height: 15px; border-radius: 15px; border: 0; background-color: #00a0d2; }
+
+.customize-control input.mh-customizer-range-input { width: 60px; text-align: center; margin-left: 4px; box-shadow: none; padding: 3px; font-size: 12px; font-weight: 800; -moz-appearance: textfield; }
+
+.rtl .customize-control input.mh-customizer-range-input { margin-left: 0; margin-right: 4px; }
+
+.customize-control input.mh-customizer-range-input:hover, .customize-control input.mh-customizer-range-input:focus { background: #fff; transition: background .5s; }
+
+input.mh-customizer-range-input::-webkit-outer-spin-button, input.mh-customizer-range-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+
+.customize-control-range .customize-control-title { unicode-bidi: embed; direction: ltr; }
+
+#customize-control-customizer_custom_css textarea { text-align: left; color: #00b6dd; font-weight: bold; font-size: 14px; font-family: courier new; line-height: 18px; direction: ltr; }
+
+#customize-control-customizer_custom_css textarea:focus { background-color: #2f3639 !important; color: #00b6dd; }
+
+.customize-control-checkbox input, .customize-control-nav_menu_auto_add input, .customize-control-radio input { margin-left: 0; margin-right: 0; }

@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mharty - Author's Page Cover\n"
+"POT-Creation-Date: 2016-02-20 15:48+0000\n"
+"PO-Revision-Date: 2016-02-20 15:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mh-author-page-cover.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:26 includes/functions.php:114
+msgid "Author's Page Cover"
+msgstr ""
+
+#: includes/functions.php:33
+msgid "Display Author's Cover"
+msgstr ""
+
+#: includes/functions.php:37
+msgid "Disabling this option will remove the covers from your site."
+msgstr ""
+
+#: includes/functions.php:40
+msgid "Author's Cover Style"
+msgstr ""
+
+#: includes/functions.php:44
+msgid "Side"
+msgstr ""
+
+#: includes/functions.php:45
+msgid "Centre"
+msgstr ""
+
+#: includes/functions.php:48
+msgid "Here you can choose the look of your website author's cover."
+msgstr ""
+
+#: includes/functions.php:52
+msgid "Display Author's Box After Posts"
+msgstr ""
+
+#: includes/functions.php:56
+msgid "Disabling this option will remove the authors box from your site."
+msgstr ""
+
+#: includes/functions.php:58
+msgid "Display Author's social links"
+msgstr ""
+
+#: includes/functions.php:62
+msgid ""
+"Disabling this option will remove the social links/icons on the author's "
+"cover and the author's box."
+msgstr ""
+
+#: includes/functions.php:89
+msgid "Author's Cover"
+msgstr ""
+
+#: includes/functions.php:106 includes/functions.php:142
+msgid "Upload New Image"
+msgstr ""
+
+#: includes/functions.php:109
+msgid "Change Image"
+msgstr ""
+
+#: includes/functions.php:119 includes/functions.php:132
+msgid "Choose Photo"
+msgstr ""
+
+#: includes/functions.php:126 includes/functions.php:132
+msgid "Remove"
+msgstr ""
+
+#: includes/functions.php:127
+msgid "Edit"
+msgstr ""
+
+#: includes/functions.php:144
+msgid "Use External URL"
+msgstr ""
+
+#: includes/functions.php:160
+msgid "Upload a photo for your page or use a URL to a pre-existing photo."
+msgstr ""
+
+#: includes/functions.php:161
+msgid "Please Update Profile to save your changes."
+msgstr ""
+
+#: includes/mharty-updater.php:380
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: includes/mharty-updater.php:380 includes/mharty-updater.php:545
+msgid "Try again"
+msgstr ""
+
+#: includes/mharty-updater.php:421
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/mharty-updater.php:457
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: includes/mharty-updater.php:458
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: includes/mharty-updater.php:480
+msgid " Plugin Updates"
+msgstr ""
+
+#: includes/mharty-updater.php:519
+msgid "Username: "
+msgstr ""
+
+#: includes/mharty-updater.php:523
+msgid "Email: "
+msgstr ""
+
+#: includes/mharty-updater.php:529
+msgid "Key: "
+msgstr ""
+
+#: includes/mharty-updater.php:535
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: includes/mharty-updater.php:539
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:540
+msgid "Edit Key"
+msgstr ""
+
+#: includes/mharty-updater.php:544
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: includes/mharty-updater.php:550
+msgid "Add Key"
+msgstr ""
+
+#: includes/mharty-updater.php:636
+msgid "User name"
+msgstr ""
+
+#: includes/mharty-updater.php:642
+msgid "Email"
+msgstr ""
+
+#: includes/mharty-updater.php:651
+msgid "Activation Key"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mharty - Author's Page Cover"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mharty.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This extension provides the ability to add covers to author's page, also "
+"adds an author box after posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mharty.com"
+msgstr ""
+
+#~ msgid "Center"
+#~ msgstr "Centre"

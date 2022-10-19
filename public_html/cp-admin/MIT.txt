@@ -1,0 +1,3 @@
+Copyright (C) 2011 by Sam Clarke and contributors
+http://www.sceditor.com/
+

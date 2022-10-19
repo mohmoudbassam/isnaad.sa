@@ -1,0 +1,71 @@
+.clearboth {
+  display: block;
+  visibility: hidden;
+  clear: both;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+}
+.clearboth:after {
+  display: block;
+  visibility: hidden;
+  clear: both;
+  width: 0;
+  height: 0;
+  content: ' ';
+  font-size: 0;
+  line-height: 0;
+}
+* html .clearboth {
+  height: 1%;
+}
+.visuallyhidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  border: 0;
+}
+.mh-mega-menu-wrapper {
+  margin: 10px 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.mh-open-media{ text-align: center;}
+.mh-menus-main-title {
+  margin: 0 0 5px !important;
+  display: block;
+  font-size: 16px !important;
+}
+.field-megamenu-font-icon,
+.field-megamenu-widgets,
+.mh-megamenu-upload-background.button-primary,
+.field-megamenu-background,
+.field-megamenu-styles,
+.mh-megamenu-background-image,
+.field-megamenu-checkbox {
+  display: none;
+}
+.menu-item-depth-0.mh-megamenu .field-megamenu-styles,
+.menu-item-depth-0 .field-megamenu-checkbox,
+.menu-item-depth-0 .mh-megamenu-checkbox,
+.menu-item-depth-1.mh-megamenu .field-megamenu-widgets,
+.menu-item-depth-2.mh-megamenu .field-megamenu-widgets {
+  display: block;
+  margin: .6em 0 .6em !important;
+}
+.menu-item-depth-0.mh-megamenu .field-megamenu-background{
+	margin: .6em 0 .6em !important;
+	display: block;
+}
+.menu-item-depth-0.mh-megamenu .mh-megamenu-upload-background.button-primary {
+  display: inline-block;
+}
+.mh-megamenu-background-image {
+  max-width: 400px;
+	width: 100%;
+}
+.menu-item-settings{ overflow: hidden;}

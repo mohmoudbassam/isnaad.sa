@@ -1,0 +1,39 @@
+[data-mh-app-impoexpo] .mh-app-modal { top: 25%; }
+
+[data-mh-app-impoexpo-cancel] { opacity: 0; display: none; position: absolute; bottom: 0; left: 0; right: 0; }
+
+[data-mh-app-impoexpo] form label { margin: 1.5em 0 0; display: block; }
+
+.mh-app-impoexpo-import-form { position: relative; display: block; overflow: hidden; padding: 10px; box-sizing: border-box; background-color: #eef2f3; }
+
+.mh-app-impoexpo-import-placeholder { text-align: center; height: 39px; border: 2px dotted #d2dadb; color: #818488; line-height: 26px; float: right; padding: 5px; font-size: 11px; overflow: hidden; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; border-radius: 3px; box-sizing: border-box; }
+
+.mh-app-impoexpo-import-form input[type="file"] { position: absolute; right: 0; top: 0; height: 40px; opacity: 0; }
+
+.mh-app-impoexpo-import-placeholder, .mh-app-impoexpo-import-form input[type="file"] { width: 66%; }
+
+.mh-app-impoexpo-import-form .mh-app-button { float: left; width: 32%; margin-right: 2% !important; }
+
+[data-mh-app-impoexpo] .mh-app-modal-temp-content { display: -ms-flexbox; display: -webkit-flex; display: flex; -ms-flex-align: center; -webkit-align-items: center; align-items: center; }
+
+[data-mh-app-impoexpo] .mh-app-modal-temp-content > div { width: 100%; }
+
+.ui-widget-content a { color: #0073aa; }
+
+[data-mh-app-impoexpo] .mh-app-loader, [data-mh-app-impoexpo] .mh-app-progress { margin-left: auto; margin-right: auto; }
+
+[data-mh-app-modal*="data-mh-app-impoexpo"] { text-decoration: none; box-shadow: none !important; background-color: #2bd588; }
+
+[data-mh-app-modal*="data-mh-app-impoexpo"]:hover { background-color: #5ae2a5 !important; }
+
+[data-mh-app-modal*="data-mh-app-impoexpo"] span { display: none; }
+
+[data-mh-app-modal*="data-mh-app-impoexpo"]:before { font-family: 'mh-app'; font-size: 20px; content: '\e94d'; vertical-align: middle; -webkit-font-smoothing: antialiased; }
+
+.customize-controls-impoexpo[data-mh-app-modal*="data-mh-app-impoexpo"] { position: absolute; right: -252px; top: 0; z-index: 9998; width: 66px; height: 46px; line-height: 46px; text-align: center; }
+
+.customize-controls-impoexpo[data-mh-app-modal*="data-mh-app-impoexpo"]:hover, .customize-controls-impoexpo[data-mh-app-modal*="data-mh-app-impoexpo"]:focus { border-left: 1px solid #ccc; margin-left: -1px; }
+
+.customize-controls-impoexpo[data-mh-app-modal*="data-mh-app-impoexpo"]:before { color: #fff; }
+
+@media only screen and (max-width: 640px) { .customize-controls-impoexpo[data-mh-app-modal*="data-mh-app-impoexpo"] { right: -166px; } }

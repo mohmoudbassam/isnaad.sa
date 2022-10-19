@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'kfc_naskh';
+src: url('kfc_naskh-webfont.eot');
+src: url('kfc_naskh-webfont.eot?#iefix') format('embedded-opentype'),
+url('kfc_naskh-webfont.woff') format('woff'),
+url('kfc_naskh-webfont.ttf') format('truetype'),
+url('kfc_naskh-webfont.svg#KFGQPCUthmanTahaNaskhRegular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+/* This New Codes FIXED! Font-Face Chrome Rendering */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+@font-face {
+    font-family: 'kfc_naskh';
+        src: url('kfc_naskh-webfont.svg') format('svg');
+    }
+
+}

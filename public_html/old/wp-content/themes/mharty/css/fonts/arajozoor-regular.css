@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'AraJozoor-Regular';
+	src: url('AraJozoor-Regular.eot');
+	src: local('?'), url('AraJozoor-Regular.woff') format('woff'),
+	url('AraJozoor-Regular.ttf') format('truetype'),
+	url('AraJozoor-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* This New Codes FIXED! Font-Face Chrome Rendering */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+@font-face {
+font-family: 'AraJozoor-Regular';
+src: url('AraJozoor-Regular.svg') format('svg');
+}
+
+}

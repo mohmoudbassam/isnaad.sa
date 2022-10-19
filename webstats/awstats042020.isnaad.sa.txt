@@ -1,0 +1,2447 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.isnaad.sa.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1992                
+POS_TIME 2684                
+POS_VISITOR 67631               
+POS_DAY 77385               
+POS_DOMAIN 3554                
+POS_LOGIN 4172                
+POS_ROBOT 4327                
+POS_WORMS 5380                
+POS_EMAILSENDER 5511                
+POS_EMAILRECEIVER 5654                
+POS_SESSION 78185               
+POS_SIDER 78395               
+POS_FILETYPES 5789                
+POS_DOWNLOADS 6349                
+POS_OS 6827                
+POS_BROWSER 7167                
+POS_SCREENSIZE 8779                
+POS_UNKNOWNREFERER 8853                
+POS_UNKNOWNREFERERBROWSER 15774               
+POS_ORIGIN 33457               
+POS_SEREFERRALS 33606               
+POS_PAGEREFS 33778               
+POS_SEARCHWORDS 34191               
+POS_KEYWORDS 34352               
+POS_MISC 2348                
+POS_ERRORS 34420               
+POS_CLUSTER 4028                
+POS_SIDER_404 34590               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501000041 11750 3318633 31057850106484
+FirstTime 20200401033550
+LastTime 20200430224813
+LastUpdate 20200501044557 11750 11460 284 2 3
+TotalVisits 254                 
+TotalUnique 219                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 257                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 98 2340325 5 39 457948
+1 18 78 1812047 26 65 1673780
+2 16 74 1912747 24 65 761993
+3 40 194 4293163 12 24 327795
+4 10 10 50455 5 6 78666
+5 20 216 6489304 15 53 967055
+6 15 46 1290364 24 56 613242
+7 52 318 8128854 9 26 349622
+8 36 296 8208481 19 92 1717518
+9 146 484 9704437 21 142 3641645
+10 51 625 18999790 12 44 1603378
+11 1467 1674 51736118 1958 2602 50385655
+12 38 357 10190972 12 22 478476
+13 42 435 11408357 15 38 658672
+14 48 422 11087506 15 62 986469
+15 27 242 7528248 11 19 485070
+16 48 341 9014323 19 50 843678
+17 22 171 4507411 3 7 92850
+18 16 73 1029229 11 22 228415
+19 27 111 3020536 8 51 706346
+20 74 487 12227165 16 32 335182
+21 58 440 11382272 10 36 147722
+22 52 352 10259172 15 143 2210284
+23 19 165 5337892 53 67 2446587
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+sa 1948 5955 168613919
+us 134 792 21418607
+il 102 112 9894
+unknown 24 101 2067845
+sc 21 21 1848
+eg 21 269 8180263
+fr 13 15 51105
+se 12 12 45786
+gb 12 12 9371
+ps 12 92 2608611
+ua 5 5 4731
+tr 2 2 41436
+jp 4 4 17212
+cn 1 1 4303
+ru 7 66 1737623
+in 1 1 4303
+dk 1 1 20718
+eu 1 1 20718
+vn 0 1 8337
+et 9 76 2557480
+dz 4 63 1724714
+pl 3 40 1272245
+ca 4 8 63048
+cz 3 3 39221
+nl 5 9 67351
+fi 1 1 4303
+de 9 46 1364116
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 24
+Googlebot/ 275 2359818 20200430075653 37
+YandexBot/ 116 776035 20200428154342 29
+crawl 77 1651760 20200430100257 0
+msnbot/ 66 1332074 20200426092042 3
+bingbot/ 44 206722 20200430162618 28
+link 40 1272638 20200415084516 0
+bingpreview 34 1487935 20200426092059 0
+bot[\s_+:,\.\;\/\\-] 21 435078 20200428114949 0
+no_user_agent 18 66444 20200427124925 0
+unknown 13 723 20200430010253 13
+Googlebot\-Image/ 9 434961 20200406171955 0
+(firefox/)([0-9]\.|[0-1][0]\.) 7 30030 20200428070218 0
+Python\-urllib/ 1 30 20200406032727 1
+ia_archiver 5 62974 20200426065608 2
+CFNetwork 3 34377 20200417231231 0
+php 3 93 20200408111841 0
+[\s_+:,\.\;\/\\-]bot 3 12909 20200429132402 0
+custo 2 78615 20200408112001 0
+python 8 34424 20200414200822 0
+favicon 4 31524 20200425070833 0
+TelegramBot 1 4303 20200408183331 0
+twitterbot 6 12999 20200418154950 3
+^mozilla\/5\.0$ 2 8606 20200425144718 0
+facebookexternalhit/ 10 100278 20200425080100 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 30
+tar 1 88 0 0
+css 1802 20498986 0 0
+ttf 501 39517864 0 0
+inc 1 88 0 0
+woff2 3 168260 0 0
+txt 5 8749 0 0
+woff 201 11316820 0 0
+json 1 88 0 0
+map 1 22971 0 0
+save 2 176 0 0
+php 1192 1514246 0 0
+1 2 176 0 0
+bak 2 176 0 0
+html 303 1645008 0 0
+xml 7 616 0 0
+log 4 352 0 0
+eot 3 383716 0 0
+php1 1 88 0 0
+png 1752 116582215 0 0
+env 1 88 0 0
+old 2 176 0 0
+otf 119 2371908 0 0
+zip 1 88 0 0
+swp 3 264 0 0
+js 1782 17286822 0 0
+Unknown 10 937 0 0
+config 1 88 0 0
+svg 3 637790 0 0
+orig 2 176 0 0
+swo 1 88 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/wp-content/cache/log/000000/dbcache.log 1 0 88
+/wp-content/uploads/file-manager/log.txt 1 0 88
+/wp-content/uploads/wp-config-backup.txt 1 0 88
+/wp-config-backup.txt 1 0 88
+/wp-config.zip 1 0 88
+/wp-content/cache/log/000000/pagecache.log 1 0 88
+/wp-config.txt 1 0 88
+/wp-content/cache/log/000000/minify.log 1 0 88
+/wp-config.tar 1 0 88
+/old/license.txt 1 0 8337
+/wp-content/cache/log/000000/varnish.log 1 0 88
+/robots.txt 0 2 60
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxandroid 955 96
+macosx11 73 7
+macintosh 1 1
+winlong 1343 1309
+winxp 1 1
+ios_iphone 2338 250
+winunknown 20 20
+win8 42 4
+ios_ipad 66 6
+linuxubuntu 155 28
+macosx12 4 4
+linux 86 13
+win7 154 74
+macosx 436 58
+macosx10 6 6
+win8.1 6 6
+Unknown 141 141
+win10 1881 333
+macosx8 3 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 74
+firefox57.0 2 2
+chrome80.0.3987.163 985 137
+chrome41.0.2272.96 1 0
+chrome80.0.3987.122 73 7
+chrome72.0.3626.121 1 1
+chrome81.0.4044.113 66 7
+chrome79.0.3945.79 24 12
+chrome39.0.2171.95 1 1
+chrome31.0.1650.57 2 2
+firefox54.0 1 1
+chrome79.0.3945.117 1 1
+opera67.0.3575.115 2 2
+chrome58.0.3029.110 3 3
+msie8.0 1342 1308
+chrome63.0.3239.84 1 1
+chrome75.0.3770.143 81 6
+chrome64.0.3282.167 1 1
+chrome80.0.3987.87 164 12
+msie7.0 1 1
+firefox59.0 1 1
+chrome76.0.3809.71 200 15
+firefox65.0 2 2
+opera55.0.2962.0 12 12
+chrome50.0.2661.75 1 1
+safari13.0.1 152 15
+safari13.0.5 1249 138
+safari13.1 336 39
+chrome80.0.3987.162 535 56
+firefox55.0 1 1
+chrome63.0.3239.132 9 9
+firefox29.0 3 3
+safari12.1 2 2
+chrome80.0.3987.116 40 3
+chrome81.0.4044.122 212 17
+chrome81.0.4044.96 125 21
+chrome46.0.2490.80 2 2
+chrome78.0.3904.97 41 3
+mozilla 2 2
+firefox75.0 47 4
+chrome79.0.3945.136 41 3
+safari5.0.4 21 21
+netscape5.0 7 7
+safari12.1.2 40 3
+safari 291 32
+firefox71.0 1 1
+safari11.0 42 5
+opera44.12.2246.133431 40 3
+chrome79.0.3945.59 114 102
+chrome38.0.1025.166 78 4
+safari12.0 383 41
+chrome71.0.3578.98 2 2
+iphone 40 3
+firefox62.0 1 0
+chrome26.0.1410.65 3 2
+chrome81.0.4044.111 41 3
+chrome40.0.2214.85 1 1
+safari13.0.4 81 6
+chrome58.0.1145.75 1 1
+safari13.0.3 85 9
+msie9.0 21 21
+chrome75.0.3770.142 42 8
+Unknown 154 154
+chrome70.0.3538.77 1 1
+firefox69.0 5 5
+chrome78.0.3904.108 3 3
+chrome80.0.3987.149 250 30
+firefox56.0 2 2
+msie11.0 8 8
+chrome80.0.3987 1 1
+chrome80.0.3987.119 63 7
+chrome67.0.3396.99 3 3
+chrome45.0.2454.101 4 4
+chrome80.0.3987.132 76 9
+chrome64.0.3282.140 41 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 64
+268435455 20200408112005
+?''?\x22\x22 20200408112008
+1A_xa7A\xA2 20200408112007
+/etc/passwd 20200408112014
+.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./etc/passwd 20200408112013
+print(md5(acunetix_wvs_security_test));die();/* 20200408112002
+@@A9EPM 20200408112007
+<!-- 20200408112010
+1some_inexistent_file_with_long_name 20200408112003
+!(()&&!|*|*| 20200408112003
+|dir 20200408112007
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n 20200408112012
+../../../../../../../../../../etc/passwd%00.png 20200408112012
+;cat_/etc/passwd; 20200408112006
+themify.ttf/. 20200408112005
+|cat_/etc/passwd# 20200408112006
+Go-http-client/1.1 20200430224813
+'\x22\x5C'\x5C\x22);|]*{%0d%0a<%00> 20200408112006
+cat_/etc/passwd 20200408112005
+1e309 20200408112006
+invalid../../../../../../../../../../etc/passwd/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././. 20200408112015
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200428181612
+?'?\x22 20200408112008
+^(#$!@#$)(()))****** 20200408112003
+file:///etc/passwd 20200408112015
+JyI= 20200408112008
+../..//../..//../..//../..//../..//../..//../..//../..//etc/passwd 20200408112014
+WhatsApp/2.20.108_A 20200408124019
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.png 20200408112013
+WhatsApp/2.20.31_i 20200423200520
+AGENT 20200421231540
+1'\x22 20200408112007
+acunetix_wvs_invalid_filename 20200408112004
+) 20200408112002
+&dir 20200408112007
+NBkdMXM3 20200408112007
+https://gdnplus.com:Gather_Analyze_Provide. 20200407130528
+WhatsApp/2.19.291_A 20200408183356
+X1ByPkQD 20200408111841
+${@print(md5(acunetix_wvs_security_test))}\x5C 20200408112003
+../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././etc/passwd 20200408112014
+themify.ttf 20200408112004
+${@print(md5(acunetix_wvs_security_test))} 20200408112003
+&cat_/etc/passwd& 20200408112005
+1'\x222000 20200408111753
+/\x5C../\x5C../\x5C../\x5C../\x5C../\x5C../\x5C../etc/passwd 20200408112015
+`cat_/etc/passwd` 20200408112005
+&cat_/etc/passwd 20200408112004
+Scrapy/1.7.2_(_https://scrapy.org) 20200402015705
+WhatsApp/2.20.42_i 20200423134240
+../../../../../../../../../../etc/passwd 20200408112011
+'\x22 20200408112009
+..%c0%af 20200408112005
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd 20200408112015
+Mozilla/5.0_zgrab/0.x 20200426171034
+http://some-inexistent-website.acu/some_inexistent_file_with_long_name 20200408112002
+/../..//../..//../..//../..//../..//etc/passwd%00 20200408112013
+Chrome 20200402134715
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) 20200408112008
+%e3h 20200408112005
+@@3GUlg 20200408111843
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd 20200408112012
+||cat_/etc/passwd 20200408112007
+http://testasp.vulnweb.com/t/fit.txt? 20200408112003
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 72
+268435455 20200408112005
+?''?\x22\x22 20200408112008
+unexisting/../../../../../../../../../../windows/win.ini.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C.\x5C 20200408112018
+1A_xa7A\xA2 20200408112007
+/etc/passwd 20200408112014
+.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./etc/passwd 20200408112013
+print(md5(acunetix_wvs_security_test));die();/* 20200408112002
+c:/windows/win.ini 20200408112016
+@@A9EPM 20200408112007
+<!-- 20200408112010
+1some_inexistent_file_with_long_name 20200408112003
+!(()&&!|*|*| 20200408112003
+|dir 20200408112007
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZAAucG5n 20200408112012
+../../../../../../../../../../etc/passwd%00.png 20200408112012
+;cat_/etc/passwd; 20200408112006
+themify.ttf/. 20200408112005
+|cat_/etc/passwd# 20200408112006
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini 20200408112017
+Go-http-client/1.1 20200430224813
+'\x22\x5C'\x5C\x22);|]*{%0d%0a<%00> 20200408112006
+cat_/etc/passwd 20200408112005
+1e309 20200408112006
+invalid../../../../../../../../../../etc/passwd/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././. 20200408112015
+?'?\x22 20200408112008
+^(#$!@#$)(()))****** 20200408112003
+file:///etc/passwd 20200408112015
+JyI= 20200408112008
+../..//../..//../..//../..//../..//../..//../..//../..//etc/passwd 20200408112014
+WhatsApp/2.20.108_A 20200408124019
+../../../../../../../../../../windows/win.ini%00 20200408112016
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.png 20200408112013
+WhatsApp/2.20.31_i 20200423200520
+acunetix_wvs_invalid_filename 20200408112004
+1'\x22 20200408112007
+AGENT 20200421231540
+) 20200408112002
+&dir 20200408112007
+NBkdMXM3 20200408112007
+https://gdnplus.com:Gather_Analyze_Provide. 20200407130528
+................windowswin.ini 20200408112017
+WhatsApp/2.19.291_A 20200408183356
+X1ByPkQD 20200408111841
+${@print(md5(acunetix_wvs_security_test))}\x5C 20200408112003
+../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././etc/passwd 20200408112014
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afwindows%c0%afwin.ini 20200408112017
+themify.ttf 20200408112004
+${@print(md5(acunetix_wvs_security_test))} 20200408112003
+&cat_/etc/passwd& 20200408112005
+1'\x222000 20200408111753
+/\x5C../\x5C../\x5C../\x5C../\x5C../\x5C../\x5C../etc/passwd 20200408112015
+`cat_/etc/passwd` 20200408112005
+&cat_/etc/passwd 20200408112004
+../..//../..//../..//../..//../..//../..//../..//../..//windows/win.ini 20200408112018
+Scrapy/1.7.2_(_https://scrapy.org) 20200402015705
+WhatsApp/2.20.42_i 20200423134240
+../../../../../../../../../../etc/passwd 20200408112011
+'\x22 20200408112009
+..%c0%af 20200408112005
+/.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./.\x5C\x5C./windows/win.ini 20200408112018
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afetc/passwd 20200408112015
+http://some-inexistent-website.acu/some_inexistent_file_with_long_name 20200408112002
+/../..//../..//../..//../..//../..//etc/passwd%00 20200408112013
+Chrome 20200402134715
+))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) 20200408112008
+%e3h 20200408112005
+../.../.././../.../.././../.../.././../.../.././../.../.././../.../.././windows/win.ini 20200408112018
+@@3GUlg 20200408111843
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd 20200408112012
+||cat_/etc/passwd 20200408112007
+../../../../../../../../../../windows/win.ini 20200408112016
+http://testasp.vulnweb.com/t/fit.txt? 20200408112003
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1649 1683
+From1 151 151
+From2 12 12
+From3 34 34
+From4 513 5831
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 5 5
+www_google_com 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+https://t.co/hIbXavfF0g 24 24
+https://l.instagram.com 2 2
+http://dashboard.test/shipping 2 2
+http://some-inexistent-website.acu/some_inexistent_file_with_long_name 2 2
+http://testasp.vulnweb.com/t/fit.txt 2 2
+https://t.co/hIbXavxgoQ 1 1
+https://t.co/pQBq8kOfHw 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 5
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 5
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 60 978900
+206 10 114590
+444 51 0
+405 4 4448
+400 30 2685261
+301 47 11261
+404 2754 57968238
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1452
+/css/demo 1 -
+/orders.csv 1 -
+/css/~logs 1 -
+/auth_user_file.txt 1 -
+/footer 1 -
+/Es52npbh 1 -
+/wp-admin/install.php 1 -
+/license.php.suspected 1 -
+/music 1 -
+/_SQL 1 -
+/TMP 1 -
+/css/! 1 -
+/RWgOlTr8 1 -
+/XvM0mmvaph.jsp 1 -
+/css/threads 1 -
+/img/tar 1 -
+/css/smarty 1 -
+/css/2010 1 -
+/administrivia 1 -
+/css/save 1 -
+/css/j 1 -
+/css/uri 1 -
+/css/members 1 -
+/css//..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255cetc/passwd 1 -
+/dbadmin/main.php 1 -
+/search 1 -
+/7 1 -
+/vendors/scroll/jquery.mcustomscrollbar.min.css 1 http://isnaad.sa/
+/img/OTI0NDM3%40 1 -
+/scripts 1 -
+/inc/tiny_mce 1 -
+/css/_adm 1 -
+/wp-content/themes/wp-update.php 1 isnaad.sa
+/css/sessions 1 -
+/includes/js/tiny_mce 1 -
+/session 1 -
+/steps.php%5c 1 -
+/js/popper.min.js.map 3 -
+/shRHUs81 1 -
+/main 1 -
+/vendors/flaticon/flaticon.woff 1 http://isnaad.sa/vendors/flaticon/flaticon.css
+/tomcat-docs/appdev/sample/web/hello.jsp 1 -
+/login 3 -
+/wp-content/uploads/2018/11/wp-upd.php 2 -
+/I0KvG7i0iy.cfm 1 -
+/Admin 1 -
+/global.asax.temp 1 -
+/css/INSTALL_admin 1 -
+/css/phpPgAdmin 1 -
+/css/fck 1 -
+/css/fr 1 -
+/css/samples 1 -
+/css/_www 1 -
+/css/en 1 -
+/css//%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/windows/win.ini 1 -
+/_old 1 -
+/data 1 -
+/css/fpadmin 1 -
+/nst.php 1 -
+/css/temp 1 -
+/css//..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cwindows/win.ini 1 -
+/menu 1 -
+/css/UserFile 1 -
+/css/secure 1 -
+/steps.php.%E2%73%70 1 -
+/htdocs 1 -
+/fckeditor 2 -
+/css/themes 1 -
+/plugins/editors/fckeditor 1 -
+/~nobody 1 -
+/globals 1 -
+/css/error-log 1 -
+/scripts/tiny_mce 1 -
+/developers 1 -
+/css/conf 1 -
+/css/site 1 -
+/wp-content/themes/plaintext/404.php 1 -
+/projects 1 -
+/client 1 -
+/!!! 1 -
+/css/upgrade 1 -
+/adminpanel 1 -
+/wp-bk-report.php.suspected 2 -
+/css/New%20folder%20(2) 1 -
+/content 1 -
+/css/pictures 1 -
+/css/uploads 1 -
+/css//..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afwindows/win.ini 1 -
+/.bak 1 -
+/backup 1 -
+/css/cerberusweb 1 -
+/img/~logs 1 -
+/Secret 1 -
+/de 1 -
+/temp 1 -
+/wp-includes/css/dist/block-library/style-rtl.min.css 2 https://isnaad.sa/
+/_logs 1 -
+/css/scripts 1 -
+/sysbackup 1 -
+/steps.php::$DATA 1 -
+/css/administrative 1 -
+/img/globals 1 -
+//_mmServerScripts/MMHTTPDB.php 1 -
+/css/~admin 1 -
+/css/aspnet 1 -
+/messages 1 -
+/css/a 1 -
+/wizards 1 -
+/css/updates 1 -
+/css/Root 1 -
+/web.config 1 -
+/css/classes 1 -
+/css/view 1 -
+/passwd 2 -
+/css/Default 1 -
+/f 1 -
+/jscripts/tiny_mce 1 -
+/css/private 1 -
+/css/documents 1 -
+/css/image 1 -
+/includes/tiny_mce 1 -
+/css/oldfiles 1 -
+/r57shell.php 1 -
+/WebResource.axd 1 -
+/rst.php 1 -
+/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css 3 https://isnaad.sa/events/
+/css/customer 1 -
+/css/oauth 1 -
+/css/WebService 1 -
+/css/chat 1 -
+/img/settings 1 -
+/administrator 1 -
+/password 1 -
+/css/~ftp 1 -
+/CSV 1 -
+/css/users 1 -
+/wp-xml.php 1 -
+/css/sysadmin 1 -
+/css/cache 1 -
+/module/tiny_mce 1 -
+/css/_SQL 1 -
+/css/tag 1 -
+/css/csv 1 -
+/css/storage 1 -
+/e 1 -
+/flash 1 -
+/2012 1 -
+/css/blogs 1 -
+/wp-content/plugins/libravatar-replace/libravatar-replace.php 1 isnaad.sa
+/photo 1 -
+/css/Index 1 -
+/webaccess 1 -
+/Is9mNkN59p.cfm 1 -
+/users.xls 1 -
+/apple-touch-icon.png 11 -
+/css//................windows/win.ini 1 -
+/documents 1 -
+/css/dump 1 -
+/css/admin-console 1 -
+/users.ini 1 -
+/css/include 1 -
+/css/examples 1 -
+/!! 1 -
+/css/photo 1 -
+/wp-config.php~ 1 -
+/css/n 1 -
+/site_admin 1 -
+/css/browse 1 -
+/css/4 1 -
+/css/phppgadmin 1 -
+/web.config.tmp 1 -
+/r57eng.php 1 -
+/web.config.bakup 1 -
+/global 1 -
+/phpmyadmin2/main.php 1 -
+/~ftp 1 -
+/wp-content/themes/themes.php 1 -
+/apple-touch-icon-precomposed.png 11 -
+/test 2 -
+/css/iisadmin 1 -
+/wp-content/plugins/mh-loveit/assets/css/style.css 2 https://isnaad.sa/
+/version 1 -
+/sitemap_index.xml 2 -
+/wp 1 -
+/css/src 1 -
+/acunetix-wvs-test-for-some-inexistent-file 1 -
+/New%20Folder 1 -
+/log.html 1 -
+/l 1 -
+/zipfiles 1 -
+/shell 1 -
+/steps.php+.htr 1 -
+/css/0 1 -
+/author/ 4 -
+/css//%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252ewindows/win.ini 1 -
+/img/tar.bz2 1 -
+/css/INSTALL 1 -
+/db.log 1 -
+/img/logs 1 -
+/Profile 1 -
+/connect.inc 1 -
+/new/license.txt 1 -
+/css/customers 1 -
+/phpinf.php 1 -
+/css/oracle 1 -
+/css/messages 1 -
+/steps.php%2f 1 -
+/Exchange 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js 1 isnaad.sa
+/adminconsole 1 -
+/staff 1 -
+/www/js/tinymce 1 -
+/manager/html/ 1 -
+/admin/tinymce 1 -
+/css//%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fwindows/win.ini 1 -
+/wp-config.php.old 1 -
+/css/Install 1 -
+/log.txt 2 -
+/Downloads 1 -
+/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css 3 https://isnaad.sa/events/
+/members.log 1 -
+/members.txt 1 -
+/UserFile 1 -
+/x0kCPtCTws.cfm 1 -
+/img/.svn/entries 1 -
+/phpMyAdmin/scripts/setup.php 1 -
+/css/CSV 1 -
+/wp-content/themes/mharty/js/nicescroll.min.js 4 https://isnaad.sa/events/
+/img/Admin 1 -
+//86q9h 1 -
+/wp-includes/js/tiny_mce 1 -
+/css//..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd 1 -
+//6Yu2e 1 -
+/libraries/tinymce 1 -
+/STEPS.PHP 1 -
+/content-post.php 1 -
+/x0kCPtCTws.asp 1 -
+/test.asp 1 -
+/img/New%20Folder 1 -
+/admin1 1 -
+/css/config 1 -
+/css/2012 1 -
+/css/devels 1 -
+/css/servlet 1 -
+/css/sample 1 -
+/storage 1 -
+/css/build 1 -
+/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js 1 https://isnaad.sa/events/today/
+/admin-console 1 -
+/x0kCPtCTws.php 1 -
+/rss 1 -
+/vendors/themify-icon/fonts/themify.svg 550 -
+/img/incomming 1 -
+/css/cmd 1 -
+/PMA/main.php 1 -
+/assets/js/fckeditor 1 -
+/img/.admin 1 -
+/xmlrpc 1 -
+/ad 1 -
+/package 1 -
+/tmp/license.txt 1 -
+/css/page 1 -
+/global.asax.orig 1 -
+/css/access-log 1 -
+/css/auth 1 -
+/wp-content/themes/mharty/js/jquery.mobile.custom.min.js 4 https://isnaad.sa/events/
+/pics 1 -
+/svn 1 -
+/phpmyadmin 1 -
+/root 1 -
+/css/sysadmins 1 -
+/~www 1 -
+/css/installer 1 -
+/wp-json/wp/v2/users/ 1 -
+/down 1 -
+/blog/fckeditor 1 -
+/restricted 1 -
+/sitemap.xml 1 http://isnaad.sa/robots.txt
+/css/banners 1 -
+/jmx-console 1 -
+/css/setup 1 -
+/database.inc 1 -
+/h 1 -
+/2010 1 -
+/_vti_inf.html 1 -
+/x0kCPtCTws.aspx 1 -
+/css//%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/windows/win.ini 1 -
+/editor/tinymce 1 -
+/css/ad 1 -
+/css/Administrator 1 -
+/css/p 1 -
+/img/fileadmin 1 -
+/admin/scripts/fckeditor 1 -
+/img/_private 1 -
+/tel:3024437488 1 http://isnaad.sa/contact.php
+/test.txt 1 -
+/css/reset 1 -
+/lol.php 1 -
+/test_ 2 -
+/share 1 -
+/sessions 1 -
+/1 1 -
+/css//................etc/passwd 1 -
+/css/staff 1 -
+/inc/tinymce 1 -
+/error 1 -
+/css/msql 1 -
+/tests 1 -
+/css/user_uploads 1 -
+/apple-touch-icon-120x120.png 3 -
+/access_log 2 -
+/userfiles 1 -
+/css/mssql 1 -
+/site/license.txt 1 -
+/wp-content/plugins/the-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js 3 https://isnaad.sa/events/
+/member 1 -
+/users.csv 1 -
+/5 1 -
+/install.txt 1 -
+/security 1 -
+/img/GzOKvQiqC6.jsp 1 -
+/home 1 -
+/wp-config.old 1 -
+/css/!install 1 -
+/users.sql.gz 1 -
+/.svn/entries 1 -
+/editors/FCKeditor 1 -
+/system.log 1 -
+/index/1'\x221000 1 1'\x223000
+/secure 1 -
+/.well-known/assetlinks.json 1 -
+/secured 1 -
+/css/!!! 1 -
+/orders.log 1 -
+/pictures 1 -
+/access.log 1 -
+/mssql 1 -
+/css/_files 1 -
+/css/iishelp 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/css/00 1 -
+/css/bugs 1 -
+/updates 1 -
+/1/license.txt 1 -
+/css/admin1 1 -
+/css//..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/windows/win.ini 1 -
+/sales.log 1 -
+/css/!test 1 -
+/global.asa.orig 1 -
+/css/text-base 1 -
+/phpMyAdmin/main.php 1 -
+/css//%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25afwindows/wi 1 -
+/.ini 1 -
+/css/c 1 -
+/css/down 1 -
+/info.txt 1 -
+/css//.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5Cwindows/win.ini 1 -
+/o 1 -
+/myadmin/main.php 1 -
+/cache_html 1 -
+/css/inc 1 -
+/users 1 -
+/img/uploads 1 -
+/global.asa.old 1 -
+/wp-content/themes/mharty/js/magnific-popup.min.js 4 https://isnaad.sa/events/
+/css/cvs 1 -
+/testing 1 -
+/settings 1 -
+/json 1 -
+/uploads 1 -
+/global.rar 1 -
+/php 1 -
+/css//..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd 1 -
+/sql.inc 1 -
+/.bash_history 1 -
+/css/admin_login 1 -
+/iisadmin 1 -
+/css/- 1 -
+/css/utf8 1 -
+/.tar.bz2 1 -
+/css/phpmyadmin 1 -
+/css/_include 1 -
+/0 1 -
+/css/%27 1 -
+/languages 1 -
+/css/devel 1 -
+/mysqladmin/main.php 1 -
+/FCKeditor 2 -
+/css/flash 1 -
+/css/2013 1 -
+/css//..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/windows/win.ini 1 -
+/webstats.html 1 -
+/.well-known/wp-craft-report.php 2 -
+/css/8 1 -
+/@ 1 -
+/css/de 1 -
+/css/root 1 -
+/nstview.php 1 -
+/css//%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/windows/win.ini 1 -
+/latest 1 -
+/_src 1 -
+/ftp 1 -
+/css/logfile 1 -
+/zips 1 -
+/members.xls 1 -
+/admin/tiny_mce 1 -
+/wp-content/uploads/2018/2018.php.suspected 2 -
+/css/pass 1 -
+/admin/FCKeditor 1 -
+/etc 1 -
+/img/admin_files 1 -
+/auth 1 -
+/tar.bz2 1 -
+/wp-login.php 15 -
+/wp-content/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js 1 https://isnaad.sa/events/
+/css/base 1 -
+/css/_errors 1 -
+/css/e 1 -
+/css/2 1 -
+/file_manager 1 -
+/download 2 -
+/css/.ssh 1 -
+/css/htdocs 1 -
+/css/intranet 1 -
+/.dump 1 -
+/css/fileserver 1 -
+/wp-content/plugins/super-socialat/super_socialat.php 1 -
+/css/security 1 -
+/types 1 -
+/doc 1 -
+/installer 1 -
+/css/Download 1 -
+/plugins 1 -
+/css/_src 1 -
+/css/contents 1 -
+/wp-admin 1 -
+/dl 1 -
+/~guest 1 -
+/b 1 -
+/css/shell 1 -
+/license.php 1 -
+/wp-content/themes/mharty/js/fitvids.js 2 https://isnaad.sa/events/
+/css/lostpassword 1 -
+/css/tar.bz2 1 -
+/vendors/elagent/fonts/eleganticons.ttf 1 http://isnaad.sa/vendors/elagent/style.css
+/x0kCPtCTws.exe 1 -
+/css/Admin 1 -
+/css/types 1 -
+/phpMyAdmin0 1 -
+/id_dsa 1 -
+/setup 1 -
+/css/.svn/entries 1 -
+/libraries/tiny_mce 1 -
+/img/~log 1 -
+/css/class 1 -
+/css/administrivia 1 -
+/icons 1 -
+/debug.log 1 -
+/css/$ 1 -
+/css/downloads 1 -
+/reset 1 -
+/user.txt 1 -
+/project/feed/ 1 -
+/wp-content/uploads/2018/11/wp-upd.php.suspected&d1=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&q=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&d=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&a=var_dump%28base64_decode%28%22LS1sZC0t%22%29%29 1 -
+/web-console/ 1 -
+/js/tinymce 1 -
+/beta 1 -
+/css/OH2TA 1 -
+/global.asax.bak 1 -
+/r 1 -
+/web 1 -
+/css/tsweb 1 -
+/new1/license.txt 1 -
+/ht.access 1 -
+/feed/ 1 -
+/_adm 1 -
+/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php/wp-content/uploads/2019/01/wp-upd.php.suspected 1 -
+/tel:00966552277100 1 http://isnaad.sa
+/css/l 1 -
+/css/member 1 -
+/cerberusweb 1 -
+/iishelp 1 -
+/lib/tinymce 1 -
+/callback 1 -
+/css/ainstall 1 -
+/Administrator 1 -
+/samples 1 -
+/users.db 1 -
+/steps.php\x5C 1 -
+/css/passwords 1 -
+/uploader 1 -
+/css/tst 1 -
+/users.log 1 -
+/wp-json/rankmath/v1/ 1 -
+/wp-includes/js/jquery/jquery.js 3 https://isnaad.sa/events/
+/img/tar.gz 1 -
+/.admin 1 -
+/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js 1 https://isnaad.sa/events/today/
+/wp-content/plugins/the-events-calendar/common/src/resources/css/accessibility.min.css 1 https://isnaad.sa/events/today/
+/wp-content/plugins/akismet/akismet.php 1 -
+/css/settings 1 -
+/css//%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows/win.ini 1 -
+/css/SVN 1 -
+/css/z 1 -
+/css/index_files 1 -
+/css/forms 1 -
+/admin0 1 -
+/css/usercp 1 -
+/a 1 -
+/test.jsp 1 -
+/pass 1 -
+/manager 2 -
+/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-day.min.js 1 https://isnaad.sa/events/today/
+/install.log 1 -
+/css/user 1 -
+/wp-content/plugins/seo-by-rank-math/assets/front/css/rank-math-snippet.css 1 isnaad.sa
+/404.php 1 -
+/sysadmin 1 -
+/inc/fckeditor 1 -
+/css/images 1 -
+/wp-content/uploads/2018/2018.php 1 -
+/img/logfiles 1 -
+/_source 1 -
+/conf 1 -
+/css//\x5C%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cetc/passwd 1 -
+/css/New%20Folder 1 -
+/css/__SQL 1 -
+/css/snapshot 1 -
+/css/+ 1 -
+/list 1 -
+/wp-content/themes/sketch/404.php 1 -
+/wp-content/themes/chihua/db.php 1 -
+/wp-includes/js/wp-emoji-release.min.js 4 https://isnaad.sa/events/
+/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css 2 https://isnaad.sa/events/
+/zehir.php 1 -
+/css/jdbc 1 -
+/access-log 2 -
+/q 1 -
+/cvs 1 -
+/d 1 -
+/_private 1 -
+/css/phpMyAdmin 1 -
+/10 1 -
+/css/orders 1 -
+/static 1 -
+/css/password 1 -
+/css/main 1 -
+/css/cocon/ge-ss%20light.otf 1 http://isnaad.sa/css/style.css
+/pgadmin 1 -
+/css/fonts 1 -
+/admin_logon 1 -
+/css/install 1 -
+/c99shell.php 1 -
+/customer 1 -
+/css//\x5C%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows/win.ini 1 -
+/fonts 1 -
+/.bashrc 1 -
+/resources/fckeditor 1 -
+/mambots/editors/fckeditor 1 -
+/members.sql.gz 1 -
+/css/editor 1 -
+/css/profile 1 -
+/debug.inc 1 -
+/css//%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/windows/win.ini 1 -
+/.tar 1 -
+/script 1 -
+/administrators 1 -
+/plugins/tiny_mce 1 -
+/secret 1 -
+/info 2 -
+/css/TODO 1 -
+/css/6 1 -
+/wp-content/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js 2 https://isnaad.sa/events/
+/error.log 2 -
+/css/userfiles 1 -
+/admin/js/tiny_mce 1 -
+/css//%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cetc/passwd 1 -
+/adminfiles 1 -
+/atom 1 -
+/css/mp3 1 -
+/index2.php 1 -
+/css/admin_logon 1 -
+/css/zip 1 -
+/plugins/tinymce 1 -
+/inc 1 -
+/css/bootstrap.min.css.map 3 -
+/wp-content 1 -
+/.adm 1 -
+/css/ads 1 -
+/%23 1 -
+/css/administration 1 -
+/img/Administrator 1 -
+/useradmin 1 -
+/bac 1 -
+/phpmyadmin0 1 -
+/thumb 1 -
+/lib/tiny_mce 1 -
+/customers 2 -
+//WS_FTP.LOG 1 -
+/css/archives 1 -
+/css/wp-admin 1 -
+/wp-includes/js/wp-embed.min.js 4 https://isnaad.sa/events/
+/x0kCPtCTws.pl 1 -
+/service.html 1 http://isnaad.sa/
+/css/testweb 1 -
+/accounts 1 -
+/thumbnail 1 -
+/profile 1 -
+/admins 1 -
+/Download 1 -
+/wp-content/themes/mharty/js/waypoints.min.js 4 https://isnaad.sa/events/
+/Z8XsniIc 1 -
+/9 1 -
+/themes 1 -
+/console/j_security_check 1 -
+/aspnet 1 -
+/php.php 1 -
+/img/_adm 1 -
+/threads 1 -
+/gs/plugins/editors/fckeditor 1 -
+/k 1 -
+/classes 1 -
+/css/modules 1 -
+/2013 1 -
+/css/err 1 -
+/database.csv 1 -
+/__SQL 1 -
+/css/client 1 -
+/css/xml 1 -
+/css/music 1 -
+/test1 1 -
+/install 2 -
+/contents 1 -
+/css/spool 1 -
+/jscripts 1 -
+/css/addons 1 -
+/css/js 1 -
+/temp/ 1 -
+/banner 1 -
+/image/project 1 -
+/thread 1 -
+/css/controller 1 -
+/uri 1 -
+/.cvsignore 1 -
+/wp-content/themes/calliope/db.php 1 -
+/vendors/flaticon/flaticon.svg 1 http://isnaad.sa/vendors/flaticon/flaticon.css
+/account 1 -
+/css/plugins 1 -
+/css/phpMyAdmin0 1 -
+/css/zipfiles 1 -
+/sites/all/modules/fckeditor 1 -
+/css//..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd 1 -
+/project/ 6 -
+/www 1 -
+/_admin 1 -
+/img/uploader 1 -
+/.csv 1 -
+/wp-content/plugins/lifterlms/assets/js/llms-ajax.js 1 isnaad.sa
+/css/_private 1 -
+/css/apps 1 -
+/vendors/elagent/fonts/eleganticons.eot 1 http://isnaad.sa/vendors/elagent/style.css
+/~root 1 -
+/.zip 1 -
+/css/restricted 1 -
+/img/admin0 1 -
+/snapshot 1 -
+/orders.xls 1 -
+/css/accesslog 1 -
+/img/_admin 1 -
+/customers.xls 1 -
+/css/adminpanel 1 -
+/steps.PHP 1 -
+/javascript/tiny_mce 1 -
+/_mmServerScripts/MMHTTPDB.asp 1 -
+/css/dat 1 -
+/wp-bk-report-site.php.suspected 1 -
+/orders 2 -
+/css/g 1 -
+/index_files 1 -
+/test.html 1 -
+/err 1 -
+/css/w 1 -
+/FvJiq7Nb 1 -
+/css/static 1 -
+/css/backup 1 -
+/css/~guest 1 -
+/css/mysql 1 -
+/manual 1 -
+/img/jmx-console 1 -
+/css/login 1 -
+/passwords 1 -
+/w 1 -
+/.ost 1 -
+/img/_www 1 -
+/css/tar 1 -
+/img/admin_ 1 -
+/newsleter.php 1 -
+/css/access 1 -
+/bugs 1 -
+/css/Images 1 -
+/admin/phpmyadmin/main.php 1 -
+/xmlrpcs.php 1 isnaad.sa
+/t 1 -
+/global.asax 1 -
+/UserFiles 1 -
+/wordpress-resources-at-siteground/feed/ 1 -
+/phpmyadmin/main.php 1 -
+/! 1 -
+/css/admin_ 1 -
+/header-cache.php.suspected 1 -
+/css/Downloads 1 -
+/.pst 1 -
+/dev 1 -
+/signup 1 -
+/css//%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%aewindows/win.ini 1 -
+/css/~nobody 1 -
+/customers.csv 1 -
+/topics 1 -
+/css//%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2ewindows/win.ini 1 -
+/thirdparty/fckeditor 1 -
+/css/mime 1 -
+/css/graphics 1 -
+/wwwstats.htm 1 -
+/stronghold-info 1 -
+/tiny_mce 1 -
+/css/b 1 -
+/Index 1 -
+/css//%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%ae%c0%aeetc/passwd 1 -
+/inexistent_file_name.inexistent0123450987.cfm 1 -
+/recover 1 -
+/css/old_files 1 -
+/image/logo 1 -
+/CFIDE/scripts/ajax/FCKeditor 1 -
+/examples/jsp/snp/snoop.jsp 1 -
+/css/CMS 1 -
+/css/content 1 -
+/Trace.axd 1 -
+/devels 1 -
+/g 1 -
+/xmlrpc.php 1 -
+/php.ini 1 -
+/css/import 1 -
+/save 1 -
+/css/latest 1 -
+/global.backup 1 -
+/msql 1 -
+/x0kCPtCTws.stm 1 -
+/WebService 1 -
+/- 1 -
+/vendors/scroll/jquery.mcustomscrollbar.concat.min.js 1 http://isnaad.sa/
+/blogs 1 -
+/mysql/main.php 1 -
+/css/adminconsole 1 -
+/css/PHP 1 -
+/orders.txt 1 -
+/css//..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c/windows/win.ini 1 -
+/css/memberlist 1 -
+/css/phpMyAdmin1 1 -
+/cache_.php.suspected 1 -
+/.7z 1 -
+/cmd 1 -
+/id_rsa 1 -
+/wp-build-report-site.php.suspected 1 -
+/wp-admin/wp-simple-plugin.php 1 -
+/cms 1 -
+/n 1 -
+/_vti_bin/_vti_aut/author.dll 1 -
+/modules 2 -
+/css/fckeditor 1 -
+/administration 1 -
+/oauth 1 -
+/css/forgot 1 -
+/jmx-console/HtmlAdaptor 3 -
+/fr 1 -
+/x0kCPtCTws.jspa 1 -
+/js/FCKeditor 1 -
+/vendors/flaticon/flaticon.ttf 1 http://isnaad.sa/vendors/flaticon/flaticon.css
+/addons 1 -
+/phppgadmin 1 -
+/forms 1 -
+/css/1 1 -
+/x0kCPtCTws.phtml 1 -
+/internal 1 -
+/invoker 1 -
+/common.inc 1 -
+/css/q 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 3 https://isnaad.sa/events/
+/css/accounts 1 -
+/test.htm 1 -
+/Images 1 -
+/css/FCKeditor 1 -
+/css/files 1 -
+/sales.csv 1 -
+/secrets 1 -
+/img/upload 1 -
+/wp-content/plugins/mh-loveit/assets/js/mh-loveit.js 4 https://isnaad.sa/events/
+/site 1 -
+/solr/select/ 1 -
+/smarty 1 -
+/2011 1 -
+/cache 2 -
+/htaccess.bak 1 -
+/css/phpmyadmin0 1 -
+/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php.suspected 2 -
+/css/share 1 -
+/img/spool 1 -
+/css/SQL 1 -
+/functions 1 -
+/css/bac 1 -
+/log 2 -
+/INSTALL 1 -
+/customers.sql.gz 1 -
+/servlet 1 -
+/1'\x221000 1 1'\x223000
+/css/clients 1 -
+/img/phpldapadmin 1 -
+/_pages 1 -
+/shell.php 1 -
+/css/useradmin 1 -
+/css/reseller 1 -
+/comments/feed/ 2 -
+/plugins/fckeditor 1 -
+/css/database 1 -
+/css/admins 1 -
+/sales.xls 1 -
+/wp-content/uploads/bb-plugin/cache/111-layout.css 1 https://isnaad.sa/
+/x0kCPtCTws.jsp 1 -
+/db.csv 1 -
+/css/administrator 1 -
+/php-backdoor.php 1 -
+/css/session 1 -
+/css/secrets 1 -
+/css/menu 1 -
+/phpMyAdmin-3.3.4-all-languages/main.php 1 -
+/css/cp 1 -
+/m 1 -
+/css/i 1 -
+/fpadmin 1 -
+/css/backups 1 -
+/css/php 1 -
+/css/!! 1 -
+/lostpassword 1 -
+/wp-upload-class.php.suspected 1 -
+/css/v1 1 -
+/css/install_ 1 -
+/css//%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25afetc/passwd 1 -
+/wp-content/plugins/simple-file-list/css/eeStyles.css 1 isnaad.sa
+/css/dbase 1 -
+/wp-content/plugins/mh-author-page-cover/assets/css/style.css 2 https://isnaad.sa/events/
+/+ 1 -
+/personal 1 -
+/service.asmx 1 -
+/assets/fckeditor 1 -
+/sales.sql.gz 1 -
+/.cfg 1 -
+/css/uploader 1 -
+/wp-content/themes/mharty/css/header.min.css 3 https://isnaad.sa/events/
+/css/prv 1 -
+/global.asax.tmp 1 -
+/management 1 -
+/examples/jsp/index.html 1 -
+/jscripts/tinymce 1 -
+/global.asa 1 -
+/new_license.php.suspected 1 -
+/img/admin-console 1 -
+/header 1 -
+/css/beta 1 -
+/css/zips 1 -
+/css/www 1 -
+/global.orig 1 -
+/css/test_ 1 -
+/old_files 1 -
+/ini 1 -
+/console 2 -
+/mime 1 -
+/TEMP 1 -
+/build 1 -
+/tinymce/jscripts/tiny_mce 1 -
+/test.aspx 1 -
+/css/url 1 -
+/css/folder 1 -
+/CMS 1 -
+/javascript/editors/fckeditor 1 -
+/css/wp 1 -
+/css/mt 1 -
+/css/internal 1 -
+/css/dev 1 -
+/.gz 1 -
+/en 1 -
+/wp-content/plugins/wp-advanced-search/js/ajaxTriggerStart.js 1 isnaad.sa
+/sample 1 -
+/css/TMP 1 -
+/admin_files 1 -
+/x0kCPtCTws.jhtml 1 -
+/steps.php%252ejsp 1 -
+/css/tests 1 -
+/css/admin 1 -
+/4 1 -
+/sales.txt 1 -
+/jdbc 1 -
+/img/global 1 -
+/img/adminpanel 1 -
+/css/Secret 1 -
+/default 2 -
+/admin 1 -
+/wp-build-report-site.php 1 -
+/atutor/index.php 1 -
+/css/site_admin 1 -
+/db2 1 -
+/css/UserFiles 1 -
+/css/db 1 -
+/css/core 1 -
+/.ssh 1 -
+/css/_tests 1 -
+/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js 2 https://isnaad.sa/events/
+/global.asax.old 1 -
+/import 1 -
+/wp-content/themes/mharty/css/style.min.css 3 https://isnaad.sa/events/
+/css/_pages 1 -
+/|~.aspx 1 -
+/css//%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd 1 -
+/clientaccesspolicy.xml 1 -
+/css/_logs 1 -
+/invoker/JMXInvokerServlet 1 -
+/long_inexistent_path12345_/Null.htw 1 -
+/x0kCPtCTws.cgi 1 -
+/css/manager 1 -
+/css/space 1 -
+/errorlog 2 -
+/css/global 1 -
+/css/~root 1 -
+/server-info 1 -
+/templates 1 -
+/css/s 1 -
+/html 1 -
+/web.config.temp 1 -
+/css/thread 1 -
+/resources 1 -
+/x0kCPtCTws.shtml 1 -
+/css/rss 1 -
+/_include 1 -
+/SVN 1 -
+/i 1 -
+/css/thumb 1 -
+/db/main.php 1 -
+/css/adminfiles 1 -
+/admin/release 1 -
+/validator.php 1 -
+/css/db2 1 -
+/css/m 1 -
+/steps.php%2easp 1 -
+/css/resources 1 -
+/css/recaptcha 1 -
+/dec.php 1 isnaad.sa
+/css/DB 1 -
+/browse 1 -
+/css/ADMIN 1 -
+/mt-check.cgi 1 -
+/admin/mysql/main.php 1 -
+/CVS/Root 1 -
+/css/cocon 1 -
+/css/doc 1 -
+/manuals 1 -
+/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/windows/win.ini 1 -
+/core 1 -
+/css//%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252e%252eetc/passwd 1 -
+/wp-content/plugins/free-sales-funnel-squeeze-pages-landing-page-builder-templates-make/bundle/css/common.css 1 isnaad.sa
+/css/billing 1 -
+/css/script 1 -
+/css/odbc 1 -
+/new_license.php 1 -
+/wp-content/plugins/crelly-slider/wordpress/temp/super-socialat/super_socialat.php 1 -
+/css/fileadmin 1 -
+/css/sysbackup 1 -
+/WS_FTP 1 -
+/img/sessions 1 -
+/css/release 1 -
+/crossdomain.xml 1 -
+/ads 1 -
+/css/banner 1 -
+/!install 1 -
+/css/5 1 -
+/test.chm 1 -
+/global.asa.temp 1 -
+/audio 1 -
+/~logs 1 -
+/test.php 2 -
+/tinymce 1 -
+/css/group 1 -
+/css/xmlrpc 1 -
+/spool 1 -
+/s 1 -
+//PxsVh.html 1 -
+/p 1 -
+/INSTALL_admin 1 -
+/js/tiny_mce 1 -
+/steps.php%2e 1 -
+/css/Profile 1 -
+/css/package 1 -
+/simple-backdoor.php 1 -
+/css/errorlog 1 -
+/db 1 -
+/wp-bk-report.php 1 -
+/webadmin 1 -
+/.DS_Store 1 -
+/dbase 1 -
+/css/management 1 -
+/css/2009 1 -
+/web.config.bak 1 -
+/database.log 1 -
+/pi.php 1 -
+/css/pma 1 -
+/css/~log 1 -
+/redirect 1 -
+/DB 1 -
+/2008 1 -
+/billing 1 -
+/.subversion 1 -
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/v1 1 -
+/src 1 -
+/warez 1 -
+/aspxspy.aspx 1 -
+/img/adminconsole 1 -
+http://isnaad.sa/crossdomain.xml 1 -
+/examples/servlets/index.html 1 -
+/SQL 1 -
+/css/WS_FTP 1 -
+/images 1 -
+/.sql.bz2 1 -
+/css//%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/windows/win.ini 1 -
+/system 1 -
+/c-h.v2.php 1 -
+/cgi-bin/test-cgi 1 -
+/css/k 1 -
+/statistics 1 -
+/edit 1 -
+/logs 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 isnaad.sa
+/app-ads.txt 1 -
+/pma 1 -
+/humans.txt 2 -
+/css/tags 1 -
+/css/etc 1 -
+/web-console/Invoker 1 -
+/css/jmx-console 1 -
+/css/dl 1 -
+/css/Exchange 1 -
+/class 1 -
+/2 1 -
+/css/access_log 1 -
+/.env 7 -
+/img/user_uploads 1 -
+/space 1 -
+/steps/%3f.jsp 1 -
+/css/bootstrap-reboot.min.css.map 3 -
+/css/logs 1 -
+/cmdasp.asp 1 -
+/logfiles 1 -
+/info.php 1 -
+/css/json 1 -
+/css/secured 1 -
+/private.key 1 -
+/mp3 1 -
+/dump 1 -
+/upload 2 -
+/css/phpldapadmin 1 -
+/css//%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255cwindows/win.ini 1 -
+/vendors/flaticon/flaticon.eot 1 http://isnaad.sa/vendors/flaticon/flaticon.css
+/examples 1 -
+/compat 1 -
+/demo 1 -
+/css/2011 1 -
+/Default 1 -
+/include/javascript/tiny_mce 1 -
+/adm/fckeditor 1 -
+/server.log 1 -
+/icon 1 -
+/css/CVS 1 -
+/x0kCPtCTws.nsf 1 -
+/_ 1 -
+/recaptcha 1 -
+/config/database.yml 1 -
+/manage/fckeditor 1 -
+/css/stats 1 -
+/image/services 1 -
+/css/filemanager 1 -
+/css/@ 1 -
+/folder 1 -
+/css/projects 1 -
+/css/phpsysinfo 1 -
+/vendor/phpunit/phpunit/LICENSE 1 -
+/css/file 1 -
+/config 1 -
+//ws_ftp.log 1 -
+/wp-config.php_bak 1 -
+/!test 1 -
+/~log 1 -
+/test0 1 -
+/libs 1 -
+/db.inc 1 -
+/.old 1 -
+/clients 1 -
+/css//..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255cwindows/win.ini 1 -
+/css/ini 1 -
+/text-base 1 -
+/logs.htm 1 -
+/.bz2 1 -
+/css/languages 1 -
+/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css 2 https://isnaad.sa/events/
+/devel 1 -
+/csv 1 -
+/img/.adm 1 -
+/feature.html 24 http://isnaad.sa
+/lib/fckeditor 1 -
+/accesslog 2 -
+/css/download 1 -
+/mysql 2 -
+/css/english 1 -
+/j 1 -
+/.passwd 1 -
+/2009 1 -
+/admin/js/tinymce 1 -
+/database 2 -
+/stats 2 -
+/private 1 -
+/tags 1 -
+/tar 1 -
+/fileadmin 1 -
+/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php.suspected&d1=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&q=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&d=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&a=var_dump%28base64_decode%28%22LS1s 1 -
+/css/edit 1 -
+/css/index 1 -
+/css/webadmin 1 -
+/css//.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5C.\x5C..\x5Cetc/passwd 1 -
+/img/site_admin 1 -
+/css/testing 1 -
+/css/data 1 -
+/login.action 1 -
+/css/.subversion 1 -
+/css/admin_files 1 -
+/css/manuals 1 -
+/img/admin1 1 -
+/_www 1 -
+/global.bak 1 -
+/css/list 1 -
+/example 1 -
+/media 1 -
+/.well-known/wp-craft-report.php.suspected 1 -
+/css/web 1 -
+/index.html 8 http://isnaad.sa
+/reseller 1 -
+/css/cache_html 1 -
+/www/license.txt 1 -
+/ainstall 1 -
+/admin_login 1 -
+/img/New%20folder%20(2) 1 -
+/css/sql 1 -
+/oracle 1 -
+/css/~www 1 -
+/css/ftp 1 -
+/errors.log 1 -
+/img/admin 1 -
+/css/developer 1 -
+/Copy%20of%20global.asa 1 -
+/config.inc 1 -
+/ads.txt 6 -
+/00 1 -
+/fck 1 -
+/css/feed 1 -
+/users.txt 2 -
+/zip 1 -
+/backups 1 -
+/prv 1 -
+/_install 1 -
+/css/export 1 -
+/debug.php 1 -
+/css/error 1 -
+/img/administrator 1 -
+/jmx-console/ 1 -
+/Copy%20of%20web.config 1 -
+/css/includes 1 -
+/.gitignore 1 -
+/events/feed/ 1 -
+/index 3 -
+/.user.ini 1 -
+/view 1 -
+/OTU1NjM4%40 1 -
+/css/misc 1 -
+/editor 1 -
+/css/atom 1 -
+/includes/tinymce 1 -
+/css/OTM4ODEy%40 1 -
+/Install 1 -
+/graphics 1 -
+/css/console 1 -
+/css/d 1 -
+/.git/config 1 -
+/cleanup.log 1 -
+/css/pgadmin 1 -
+/horde/imp/test.php 1 -
+/logs.html 1 -
+/css/10 1 -
+/css/globals 1 -
+/8 1 -
+/css/r 1 -
+/.history 1 -
+/css/img 1 -
+/page 1 -
+/release 1 -
+/common 1 -
+/popper.js 1 http://isnaad.sa/
+/js/bootstrap.min.js.map 3 -
+/file 1 -
+/scripts/tinymce 1 -
+/3 1 -
+/css/log 1 -
+/css/index.php 1 -
+/css/info 1 -
+/css/icons 1 -
+/css/logfiles 1 -
+/wp-content/uploads/bb-plugin/cache/111-layout.js 1 https://isnaad.sa/
+/css/personal 1 -
+/css/_source 1 -
+/vendors/themify-icon/fonts/themify.eot 550 -
+/img/session 1 -
+/css/upload 1 -
+/css/pics 1 -
+/css/TEMP 1 -
+/wp/license.txt 1 -
+/css/webaccess 1 -
+/steps.php%70 1 -
+/admin.html 1 -
+/english 1 -
+/css/thumbnail 1 -
+/export 2 -
+/%27 1 -
+/wp-content/uploads/2018/templatic89.php.suspected 1 -
+/css/statistics 1 -
+/Config 1 -
+/wp-content/plugins/gravityforms/js/gravityforms.js 1 -
+/admin.htm 1 -
+/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css 3 https://isnaad.sa/events/
+/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css 2 https://isnaad.sa/
+/js/gmaps.min.js.map 2 -
+/developer 1 -
+/_errors 1 -
+/css/f 1 -
+/phpMyAdmin1 1 -
+/customers.log 1 -
+/img/_src 1 -
+/css/passwd 1 -
+/z 1 -
+/PHP 1 -
+/status 1 -
+/members.csv 1 -
+/wp-content/uploads/2018/09/wp-pr.php 1 -
+/vendors/elagent/fonts/eleganticons.svg 1 http://isnaad.sa/vendors/elagent/style.css
+/css/templates 1 -
+/user_uploads 1 -
+/css/9 1 -
+/css/3 1 -
+/css/errors 1 -
+/css/.adm 1 -
+/portal 1 -
+/steps.php%20 1 -
+/img/_logs 1 -
+/css/_admin 1 -
+/tools 2 -
+/steps 1 -
+/css/phpmyadmin1 1 -
+/server-status 1 -
+/global.asax.cs 1 -
+/css/system 1 -
+/css/_test 1 -
+/css/cms 1 -
+/.sh 1 -
+/controller 1 -
+/Password 1 -
+/css/audio 1 -
+/.bzr/README 1 -
+/_files 1 -
+/dra.php 1 -
+/tar.gz 1 -
+/memberlist 1 -
+/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css 3 https://isnaad.sa/events/
+/css/admin0 1 -
+/img/3Al3u 1 -
+/incomming 1 -
+/css/wizards 1 -
+/wp-content/plugins/the-events-calendar/vendor/php-date-formatter/js/php-date-formatter.min.js 1 https://isnaad.sa/events/today/
+/orders.sql.gz 1 -
+/css//%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255cetc/passwd 1 -
+/css/tools 1 -
+/cp 2 -
+/global.old 1 -
+/vendors/elagent/fonts/eleganticons.woff 1 http://isnaad.sa/vendors/elagent/style.css
+/css/t 1 -
+/wp-content/themes/mharty/js/theme.min.js 4 https://isnaad.sa/events/
+/wp-includes 1 -
+/include/fckeditor 1 -
+/bak 1 -
+/css/media 1 -
+/_vti_pvt/authors.pwd 1 -
+/css/test 1 -
+/css/tmp 1 -
+/testweb 1 -
+/tmp 1 -
+/error-log 2 -
+/misc 2 -
+/xml 1 -
+/admin_ 1 -
+/phpinfo.php 1 -
+/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css 3 https://isnaad.sa/events/
+/css/html 1 -
+/wordpress/wp-admin/install.php 1 -
+/phpmyadmin1 1 -
+/img/log 1 -
+/img/~admin 1 -
+/css/v 1 -
+/_tests 1 -
+/includes 1 -
+/sysadmins 1 -
+/css/o 1 -
+/css/old 1 -
+/css/style.css.map 3 -
+/wp-content/uploads/2018/09/wp-pr.php&d1=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&q=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&d=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&a=var_dump%28base64_decode%28%22LS1sZC0t%22%29%29 1 -
+/wp-ajax-hook.php 1 -
+/ADMIN 1 -
+/errors 1 -
+/url 1 -
+/phpMyAdmin-3.3.4-english/main.php 1 -
+/img/ADMIN 1 -
+/stronghold-status 1 -
+/_test 2 -
+/global.asa.tmp 1 -
+/css/common 1 -
+/.well-known/wp-bk-report.php&d1=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&q=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&d=dmFyX2R1bXAoYmFzZTY0X2RlY29kZSgiTFMxc1pDMHQiKSk7&a=var_dump%28base64_decode%28%22LS1sZC0t%22%29%29 1 -
+/upgrade 1 -
+/css/compat 1 -
+/css/version 1 -
+/phpMyAdmin 1 -
+/OrGKRtP6EV.jsp 1 -
+/img/.ssh 1 -
+/db.copy.php 1 -
+/css//%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2eetc/passwd 1 -
+/css/portal 1 -
+/tsweb 1 -
+/x0kCPtCTws.plx 1 -
+/v 1 -
+/css//..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/win.ini 1 -
+/x0kCPtCTws 1 -
+/wp-content/plugins/the-events-calendar/common/vendor/momentjs/moment.min.js 3 https://isnaad.sa/events/
+/CVS 1 -
+/img/_source 1 -
+/access 1 -
+/.tar.gz 1 -
+/sitemap.xml.gz 1 http://isnaad.sa/robots.txt
+/css/.admin 1 -
+/css/icon 1 -
+/dat 1 -
+/utf8 1 -
+/fileserver 1 -
+/module/tinymce 1 -
+/web.config.old 1 -
+/c99.php 1 -
+/global.asa.bak 1 -
+/TODO 1 -
+/user 1 -
+/.sln 1 -
+/www/js/tiny_mce 1 -
+/sites/all/libraries/fckeditor 1 -
+/forgot 2 -
+/steps.php+ 1 -
+//wp-admin/install.php 1 -
+/wp-content/upgrade/wp/wp.php 1 isnaad.sa
+/phpldapadmin 1 -
+/oldfiles 1 -
+/css/search 1 -
+/archives 1 -
+/usercp 1 -
+/tag 1 -
+/css/bak 1 -
+/css/_install 1 -
+/r.php 1 -
+/output-build.txt 1 -
+/tst 1 -
+/install_ 1 -
+/css/invoker 1 -
+/c 1 -
+/feed 1 -
+/sql 2 -
+/css//.../.../.../.../.../.../.../.../windows/win.ini 1 -
+/group 1 -
+/intranet 1 -
+/css/manual 1 -
+/base 1 -
+/editor/tiny_mce 1 -
+/phpPgAdmin 1 -
+/css/P4Mc96OgME.jsp 1 -
+http://isnaad.sa/clientaccesspolicy.xml 1 -
+/css/2008 1 -
+/css//..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows/win.ini 1 -
+/editor/FCKeditor 1 -
+/log.htm 1 -
+/css/svn 1 -
+/phpsysinfo 1 -
+/css/secret 1 -
+/logfile 1 -
+/apple-touch-icon-120x120-precomposed.png 3 -
+/wp-upload-class.php 1 -
+/$ 1 -
+/css/warez 1 -
+/css/h 1 -
+/customers.txt 1 -
+/css/signup 1 -
+/css/_old 1 -
+/mt 1 -
+/.well-known/wp-bk-report.php 1 -
+/apps 1 -
+/css/example 1 -
+/img/phpsysinfo 1 -
+/img/logfile 1 -
+/css/Password 1 -
+/zp-core/zp-extensions/tiny_mce 1 -
+/css/wp-content 1 -
+/css/Config 1 -
+/6 1 -
+/banners 1 -
+/New%20folder%20(2) 1 -
+/css/wp-includes 1 -
+/oVHnY9CyJv.cfm 1 -
+/.git//index 1 -
+/_vti_bin/shtml.exe 1 -
+/css/7 1 -
+/odbc 1 -
+/administrative 1 -
+/css/_ 1 -
+/css/%23 1 -
+/chat 1 -
+/r58.php 1 -
+/test/license.txt 1 -
+/Root 1 -
+/members 2 -
+/css/tar.gz 1 -
+/css/incomming 1 -
+/~admin 1 -
+/css/developers 1 -
+/css/default 1 -
+/filemanager 1 -
+/.sql.gz 1 -
+/downloads 1 -
+/.hg/requires 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 257
+51.253.42.173 1448 1588 49297999 20200408112030
+82.80.156.100 102 112 9894 20200409095828
+176.225.170.119 32 262 6587884 20200407164131
+95.218.173.235 24 173 4321839 20200413204830
+89.248.174.46 21 21 1848 20200424035413
+95.184.106.59 21 89 2536084 20200428074207
+102.114.195.114 18 84 1850395 20200410174228
+95.187.219.93 11 76 1809560 20200423200520
+51.235.74.128 11 63 1661023 20200415213742
+95.218.15.240 11 78 1965932 20200420075112
+37.104.158.131 1 1 4290 20200421183224
+95.185.24.210 5 48 1328277 20200408150043
+176.74.192.99 8 8 32904 20200402015705
+40.94.94.2 1 4 153696 20200406051232
+142.93.150.6 1 2 15762 20200425215613
+40.94.105.36 0 6 89697 
+18.232.178.103 7 7 134555 20200418145543
+40.94.95.13 0 6 95012 
+40.94.90.1 1 8 632170 20200406104705
+77.30.135.216 2 2 6674 20200416173153
+188.166.16.211 2 4 31524 20200425224447
+77.31.78.34 3 40 1272245 20200425080104
+213.166.151.133 3 41 1284097 20200420075026
+150.249.214.252 1 1 4303 20200425114605
+94.98.217.137 3 41 1283704 20200406235908
+40.94.94.78 0 3 12233 
+40.94.102.90 1 6 125943 20200406051234
+104.245.35.237 1 1 4303 20200427211929
+37.105.155.115 9 33 647026 20200420205939
+40.94.105.88 0 6 141189 
+95.218.104.106 7 38 1259764 20200402124153
+45.63.95.2 2 2 8593 20200411132253
+40.94.95.16 0 6 93062 
+40.94.105.12 1 3 71454 20200429221159
+188.40.131.176 3 40 1272638 20200426102758
+95.218.50.165 1 1 4290 20200406210939
+95.184.52.188 1 1 3337 20200414221155
+51.158.109.172 1 1 4303 20200401033550
+40.94.94.38 0 3 8167 
+40.94.94.11 1 5 84911 20200406051232
+40.94.90.20 0 5 164229 
+159.0.156.238 1 1 4290 20200420201200
+51.39.23.203 3 40 1272245 20200424102156
+89.187.168.164 3 3 39221 20200423092934
+40.94.102.52 0 1 11459 
+37.105.174.131 3 40 1272245 20200411154646
+2.90.153.31 3 41 1283704 20200410112720
+196.157.67.1 3 41 1284097 20200421103908
+50.116.16.218 3 40 1272638 20200427164505
+66.102.8.229 1 21 468838 20200409142919
+31.167.243.134 2 29 1081970 20200408203135
+94.130.172.215 1 1 4303 20200430224813
+5.156.82.202 3 8 80654 20200424201220
+51.36.1.147 3 41 1284097 20200428083157
+66.102.8.227 0 7 112684 
+78.95.86.45 3 3 12909 20200408183356
+38.145.88.193 1 1 4303 20200428080123
+46.152.114.88 7 88 2608071 20200408032738
+104.199.41.221 1 1 20718 20200425161328
+95.218.232.32 9 77 1746751 20200408082129
+125.71.216.114 1 1 4303 20200412212802
+34.219.180.122 1 1 4303 20200425182845
+77.74.177.114 1 1 4303 20200406152518
+172.105.13.127 2 4 31524 20200425224441
+176.225.190.95 6 81 2556735 20200408114506
+51.218.220.161 1 1 4303 20200402113156
+93.159.230.28 1 1 4303 20200420152521
+104.223.170.108 4 4 352 20200403045612
+52.71.64.37 1 1 4303 20200408061636
+91.132.138.62 1 1 20718 20200409071224
+40.94.94.27 0 3 64466 
+91.121.183.15 1 1 88 20200412052052
+40.94.102.69 1 11 708143 20200406051232
+37.105.133.168 2 2 8593 20200417231230
+51.235.123.254 3 41 1283704 20200415081944
+62.149.110.135 3 40 1272638 20200427020118
+40.94.90.93 1 8 189530 20200406104706
+37.43.121.133 1 1 4303 20200417154930
+40.94.95.23 1 7 129446 20200428202011
+161.69.99.11 3 3 12909 20200426211954
+149.109.12.48 9 76 1957763 20200410144346
+209.251.53.192 2 2 25021 20200420003022
+95.218.192.209 8 95 3412960 20200420133745
+207.246.240.100 1 1 20718 20200411011851
+62.210.177.12 2 2 214 20200402014048
+40.94.95.1 0 1 11459 
+51.252.116.101 7 45 1301309 20200407195734
+151.0.33.147 2 2 214 20200418111522
+35.197.41.105 2 2 0 20200407202208
+185.97.201.217 5 64 1729017 20200410075704
+66.102.8.226 1 11 635008 20200409142918
+40.94.94.17 0 8 651775 
+40.94.105.53 0 5 62713 
+95.218.77.210 6 81 1394493 20200410133640
+51.252.76.195 3 40 1272245 20200410083414
+185.254.70.34 1 1 4303 20200425124053
+94.96.147.242 6 45 1311894 20200412070536
+93.168.82.95 4 63 1724714 20200408101002
+40.94.105.27 2 10 217878 20200429221159
+40.94.95.64 1 7 83321 20200428202011
+51.83.2.148 2 4 371 20200403124012
+5.156.161.19 7 66 1759494 20200430080333
+37.43.181.208 3 40 1015677 20200409213126
+193.30.121.226 2 2 41436 20200426041456
+5.105.39.88 1 1 4303 20200413141012
+40.94.94.51 0 2 53541 
+40.94.105.14 0 3 601020 
+196.153.201.207 3 41 1283704 20200406141654
+40.94.105.20 0 5 83106 
+198.108.66.96 1 1 4303 20200426130246
+150.249.214.254 1 1 4303 20200425114607
+95.178.24.14 3 40 1272245 20200410144044
+78.95.103.170 7 67 1747684 20200419220008
+95.218.50.49 6 49 1331145 20200414145719
+45.124.94.161 0 1 8337 
+40.94.90.44 1 7 111352 20200406104706
+188.166.51.23 2 4 31524 20200425215622
+45.242.54.217 3 40 1272638 20200421103839
+50.60.222.14 3 31 419081 20200410140753
+51.218.149.218 5 65 1746242 20200424094333
+5.156.216.251 3 40 1272245 20200409220851
+40.94.90.73 0 6 111711 
+8.28.16.254 3 3 59338 20200428115709
+37.59.56.107 1 1 88 20200414171257
+198.108.66.240 2 2 8606 20200426002201
+173.252.95.26 0 1 30 
+5.156.210.51 1 1 5057 20200409114236
+40.94.105.100 0 1 11459 
+128.234.179.86 3 31 419081 20200424094430
+18.219.216.73 8 42 386507 20200406032732
+51.252.36.131 1 1 4290 20200423220959
+5.132.221.182 8 68 1758258 20200412014430
+2.88.146.48 3 40 1272245 20200409212725
+40.94.102.86 0 5 107717 
+193.148.18.219 2 2 8401 20200416081504
+37.42.167.179 3 32 436906 20200410202918
+40.94.102.28 0 5 162199 
+40.94.105.28 0 4 98963 
+5.41.201.232 3 41 1284097 20200417154956
+51.39.199.97 3 3 12870 20200409111630
+151.255.113.141 7 50 1336184 20200410082407
+40.94.105.83 1 7 153624 20200406104709
+93.168.222.214 6 66 1750114 20200423201018
+209.208.63.64 1 1 4303 20200410064116
+176.58.75.100 8 50 1320617 20200409092044
+185.213.155.161 2 2 4276 20200426045309
+104.192.169.2 3 3 8579 20200427081627
+51.36.48.230 10 92 2637318 20200410054951
+40.94.102.91 1 6 85088 20200406051234
+172.105.13.75 2 4 31524 20200425215343
+194.36.188.199 1 1 20705 20200421231540
+37.104.165.205 6 46 1325259 20200423200740
+40.94.105.72 0 1 11459 
+93.169.103.221 9 87 2414145 20200420182657
+40.94.102.99 0 7 83548 
+65.155.30.101 3 40 1272638 20200425103243
+184.94.240.92 2 2 38620 20200427194953
+37.42.142.223 3 41 1284097 20200408161327
+40.94.95.65 0 7 705019 
+40.94.95.17 1 7 166778 20200428202010
+40.94.94.73 0 6 182749 
+77.30.135.190 7 46 1308465 20200406163625
+45.61.167.94 3 3 39221 20200426025131
+41.107.186.165 4 63 1724714 20200424174350
+64.246.178.34 1 1 4303 20200422124604
+134.122.54.200 1 1 4303 20200426195845
+185.51.228.241 9 9 792 20200417073749
+3.235.103.162 7 7 134555 20200421191219
+108.160.133.137 1 1 20718 20200424125134
+150.249.214.251 1 1 4303 20200425114606
+51.235.78.88 10 75 1802362 20200407213527
+78.95.34.220 6 66 1882072 20200407234535
+40.94.94.13 0 3 27197 
+51.15.86.148 1 1 4303 20200412213220
+93.169.139.114 3 40 1272245 20200426173745
+104.36.18.125 1 1 4303 20200420223247
+91.121.79.16 2 2 41436 20200419193038
+188.161.109.52 4 42 1287994 20200402125059
+65.154.226.109 9 120 3817914 20200425103303
+51.36.109.236 3 41 1283704 20200418152347
+37.105.128.126 7 62 1495391 20200422173821
+70.42.131.189 3 40 1272638 20200425103151
+150.249.214.249 1 1 4303 20200425114603
+129.208.251.56 6 66 1750545 20200409215419
+41.45.123.55 1 1 3349 20200409220838
+5.156.130.191 6 44 1302341 20200426214846
+62.210.177.221 2 2 214 20200401111559
+40.94.105.65 0 6 72818 
+5.156.106.42 4 42 1287994 20200413211101
+5.108.125.33 3 41 1284097 20200425125617
+51.218.34.237 5 44 1309510 20200412191429
+51.252.24.26 2 23 445615 20200415020105
+173.252.83.10 0 1 30 
+37.107.70.253 4 42 1288400 20200424213849
+51.36.105.56 10 72 1791711 20200427093844
+5.156.178.232 5 44 1309510 20200423135702
+51.252.11.65 3 41 1283704 20200419232033
+196.190.154.209 6 51 1491315 20200422195020
+138.197.174.2 3 6 47286 20200425224444
+137.226.113.26 1 1 4303 20200428181612
+31.166.88.223 1 19 778187 20200409142100
+51.253.49.84 5 65 1746242 20200420163039
+182.74.243.46 1 1 4303 20200401043124
+37.56.47.166 1 1 3349 20200405162741
+91.121.242.75 1 1 88 20200403044228
+192.71.12.140 1 1 4303 20200408071357
+78.95.38.125 3 40 1272245 20200411171051
+93.169.122.10 7 66 1737610 20200423134240
+31.166.45.46 2 13 206430 20200408203235
+51.218.145.12 3 41 1283704 20200412122807
+66.102.7.34 1 12 187991 20200421124215
+3.209.248.24 0 1 49766 
+178.62.37.18 1 1 4303 20200408081917
+185.183.96.122 1 1 4303 20200426074339
+31.166.32.126 1 1 4303 20200411202640
+94.98.240.29 10 102 2690976 20200420155531
+45.79.114.29 2 2 176 20200402134715
+40.94.90.17 0 6 63646 
+41.45.114.102 11 146 4336475 20200409130402
+134.122.57.74 1 1 4303 20200407083004
+199.116.169.254 1 1 20718 20200428115652
+40.94.94.7 1 3 33903 20200406051230
+46.4.33.48 1 1 20718 20200426230743
+192.71.126.175 1 1 4303 20200423070635
+89.19.17.212 2 2 41436 20200421165701
+104.219.55.225 1 1 4303 20200414234051
+129.208.70.46 2 21 494451 20200409142100
+40.94.105.49 0 6 139947 
+37.60.245.248 2 2 41436 20200407130528
+51.218.217.181 9 52 1340759 20200409142044
+217.138.200.212 2 2 4276 20200419221723
+37.43.2.6 1 1 4303 20200413063705
+176.224.182.26 7 66 1737623 20200408124019
+137.226.113.8 1 1 20718 20200426021339
+188.163.104.167 2 2 214 20200412105404
+198.108.66.16 1 1 4303 20200426171034
+95.216.15.49 1 1 4303 20200425162945
+37.104.224.228 5 44 1309928 20200408094738
+102.41.82.255 1 12 163323 20200428161441
+78.111.166.3 1 1 20718 20200414093119
+40.94.105.55 0 7 579388 
+198.108.66.208 2 2 8606 20200426003641
+93.168.202.249 6 69 1756953 20200413141416
+66.102.7.38 0 15 841851 
+40.94.105.35 0 3 7845 
+5.108.33.100 5 60 1606034 20200411121427
+95.218.70.188 1 1 4290 20200425001054
+18.213.247.214 7 7 134555 20200412023428
+51.252.12.191 10 69 1754862 20200411221416
+196.191.53.247 3 25 1066165 20200423153258
+66.102.7.37 1 12 186688 20200421124217
+35.197.59.68 2 2 0 20200418154955
+40.94.90.76 0 1 11459 
+77.31.205.154 7 30 498454 20200407185026
+77.30.240.128 1 1 4290 20200428201008
+40.94.94.42 0 1 11459 
+40.94.105.96 2 9 225634 20200406104709
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200401 5 5 8927 5
+20200402 25 94 2589551 7
+20200403 8 10 5114 4
+20200405 3 3 28357 3
+20200406 32 333 9398755 17
+20200407 73 528 13427311 12
+20200408 1499 2101 63652991 17
+20200409 161 695 16578277 21
+20200410 75 674 16881648 14
+20200411 26 215 5959550 8
+20200412 46 311 8353827 12
+20200413 14 77 1791325 6
+20200414 11 54 1362928 6
+20200415 16 127 3390342 3
+20200416 3 3 11738 2
+20200417 15 53 1297785 4
+20200418 18 95 2465288 5
+20200419 29 235 7463850 9
+20200420 46 384 10059243 12
+20200421 19 131 3974251 8
+20200422 14 134 3410098 4
+20200423 37 263 7312712 9
+20200424 46 273 6592522 9
+20200425 42 314 9163805 20
+20200426 30 142 4012320 15
+20200427 22 159 4396826 6
+20200428 33 188 5321933 12
+20200429 3 41 1284097 2
+20200430 8 67 1763797 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 9
+15mn-30mn 6
+30s-2mn 25
+2mn-5mn 13
+0s-30s 187
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 145
+/contact_process.php 826 79802 0 8
+/vendors/themify-icon/fonts/themify.ttf 498 39134832 0 1
+/ 301 1644794 205 106
+/vendors/themify-icon/fonts/themify.woff 198 11109384 6 45
+/css/Cocon/GE-ss%20light.otf 119 2371908 8 23
+/about.php 55 278620 4 8
+/index.php 54 314203 6 16
+/contact.php 51 275667 5 8
+/steps.php 44 280635 1 10
+/feature.php 38 162884 8 15
+/blog/wp-includes/wlwmanifest.xml 1 88 0 0
+/wp-content/plugins/blogtopdf/dompdf/dompdf.php 1 88 0 0
+/web/wp-login.php 1 88 0 0
+/wp-content/plugins/sf-booking/lib/downloads.php 2 176 0 0
+/site/wp-includes/wlwmanifest.xml 1 88 0 0
+/wp-content/plugins/paypal-currency-converter-basic-for-woocommerce/proxy.php 1 88 0 0
+/wp-content/plugins/web-portal-lite-client-portal-secure-file-sharing-private-messaging/includes/libs/pdf/dompdf.php 1 88 0 0
+/wp-content/themes/MichaelCanthony/download.php 1 88 0 0
+/wp-content/plugins/post-pdf-export/dompdf/dompdf.php 1 88 0 0
+/blogs/wp-login.php 1 88 0 0
+/wp-config.php_bak 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-brands-400.woff 1 87048 0 0
+/.wp-config.php.swp 1 88 0 0
+/wp-config.php.save 1 88 0 0
+/wp-content/themes/felis/download.php 1 88 0 0
+/xmlrpc.php 1 88 0 0
+/sitio/wp-login.php 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-brands-400.eot 1 134396 0 0
+/wp-config.php.bakwp-config.php~ 1 88 0 0
+/wp-config.swp 1 88 0 0
+/wp-content/plugins/contus-video-gallery/hdflvplayer/download.php 1 88 0 0
+/wp-config.php.old 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-solid-900.eot 1 209012 0 0
+/info/wp-login.php 1 88 0 0
+/wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php 1 88 0 0
+/press/wp-login.php 1 88 0 0
+/wp-content/themes/SMWF/inc/download.php 1 88 0 0
+/wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php 1 88 0 0
+/wp-content/themes/oxygen-theme/download.php 1 88 0 0
+/wp-content/themes/yakimabait/download.php 1 88 0 0
+/sites/wp-login.php 1 88 0 0
+/wp-config.php.bak 1 88 0 0
+/home/wp-login.php 1 88 0 0
+/wp-login.php 8 704 4 4
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 88 0 0
+/wp-content/plugins/imdb-widget/pic.php 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-regular-400.woff 1 18164 0 0
+/%23wp-config.php%23 1 88 0 0
+/wp-config.php.save.1 1 88 0 0
+/wp-config.php1 1 88 0 0
+/wp-content/plugins/wp-source-control/downloadfiles/download.php 1 88 0 0
+/wp-content/themes/lote27/download.php 1 88 0 0
+/wp-content/plugins/wp-client/includes/libs/pdf/dompdf.php 1 88 0 0
+/wp-content/plugins/wp-checkout/vendors/dompdf/dompdf.php 1 88 0 0
+/wp-includes/wlwmanifest.xml 1 88 0 0
+/wp-admin/admin-ajax.php 7 654 2 2
+/wp-config.orig 1 88 0 0
+/wp-content/plugins/wp-hide-security-enhancer/router/file-process.php 1 88 0 0
+/wp-content/themes/nishizawa_tmp/force-download.php 1 88 0 0
+/wp-config.php.orig 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-regular-400.ttf 1 40080 0 0
+/wp-config.inc 1 88 0 0
+/wp-content/plugins/magicmembers/core/libs/third_party/dompdf/dompdf.php 1 88 0 0
+/wp-content/plugins/advanced-uploader/upload.php 1 88 0 0
+/wp-content/themes/authentic/includes/download.php 1 88 0 0
+/wp-content/themes/cafesalivation/download.php 1 88 0 0
+/wordpress/wp-includes/wlwmanifest.xml 1 88 0 0
+/_wpeprivate/config.json 1 88 0 0
+/wp-config.php.swo 1 88 0 0
+/wp-content/themes/twentyeleven/download.php 3 264 0 0
+/vendors/font-awesome/css/webfonts/fa-solid-900.woff 1 102224 0 0
+/wp-content/themes/churchope/lib/downloadlink.php 1 88 0 0
+/wp-content/themes/acento/includes/view-pdf.php 1 88 0 0
+/wp-config.bak 1 88 0 0
+/wp-json/trx_addons/v2/get/sc_layout 3 321 3 3
+/wp-content/plugins/history-collection/download.php 1 88 0 0
+/wp-content/themes/epic/includes/download.php 1 88 0 0
+/wp-content/plugins/hb-audio-gallery-lite/gallery/audio-download.php 1 88 0 0
+/wp-admin/admin-post.php 1 107 0 0
+/wp-config.original 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-brands-400.ttf 1 134160 0 0
+/wordpress/wp-login.php 1 88 0 0
+/promise.php 20 113226 1 0
+/new/wp-login.php 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-regular-400.woff2 1 14872 0 0
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 88 0 0
+/en/wp-login.php 1 88 0 0
+/web.config 1 88 0 0
+/wp-content/themes/markant/download.php 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-regular-400.eot 1 40308 0 0
+/wp-content/plugins/sam-pro-free/sam-pro-ajax-admin.php 1 88 0 0
+/wp-content/plugins/cip4-folder-download-widget/cip4-download.php 1 88 0 0
+/wp-json/rankmath/v1/ 1 107 1 1
+/wp-content/plugins/wp-custom-pages/wp-download.php 1 88 0 0
+/wp-config.php.original 1 88 0 0
+/wp-content/themes/mTheme-Unus/css/css.php 1 88 0 0
+/wp-content/plugins/abstract-submission/dompdf-0.5.1/dompdf.php 1 88 0 0
+/wp-content/themes/trinity/lib/scripts/download.php 1 88 0 0
+/demo/wp-login.php 1 88 0 0
+/wp-content/themes/kap/download.php 2 176 0 0
+/wp-content/plugins/thecartpress/modules/Miranda.class.php 1 88 0 0
+/blog/wp-login.php 1 88 0 0
+/wpmu/wp-login.php 1 88 0 0
+/wp-config.old 1 88 0 0
+/wp-content/themes/liberator/inc/php/download.php 1 88 0 0
+/wp-config.xml 1 88 0 0
+/site/wp-login.php 1 88 0 0
+/wp-config.php 2 176 0 0
+/portal/wp-login.php 1 88 0 0
+/wp-content/themes/estrutura-basica/scripts/download.php 1 88 0 0
+/english/wp-login.php 1 88 0 1
+/wp-config.save 1 88 0 0
+/wp-config.php_bak/wp-config.php-bak 1 88 0 0
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/dompdf/dompdf.php 1 88 0 0
+/wp-content/themes/urbancity/lib/scripts/download.php 2 176 0 0
+/wp-content/themes/NativeChurch/download/download.php 1 88 0 0
+/blog/ 1 107 0 1
+/wp-content/themes/green_farming_new/download.php 1 88 0 0
+/wp-content/themes/u_parts/force-download.php 1 88 0 0
+/.env 1 88 0 0
+/wp-config.php~ 1 88 0 0
+/wp-e-commerce/wpsc-includes/misc.functions.php 1 88 0 1
+/wp-content/themes/TheLoft/download.php 1 88 0 0
+/cms/wp-includes/wlwmanifest.xml 1 88 0 1
+/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php 1 88 0 0
+/wp/wp-login.php 1 88 0 0
+/wp-content/force-download.php 1 88 0 0
+/wp-content/themes/linenity/functions/download.php 1 88 0 0
+/vendors/bootstrap-selector/js/bootstrap-select.js.map 1 22971 0 0
+/wp-content/plugins/photocart-link/decode.php 1 88 0 0
+/wp/wp-includes/wlwmanifest.xml 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-solid-900.woff2 1 79100 0 0
+/wp-content/plugins/Krea3CustomPosts/src/Lib/dompdf/dompdf.php 1 88 0 0
+/wp-content/themes/antioch/lib/scripts/download.php 1 88 0 0
+/wp-config.php.1 1 88 0 0
+/wp-content/plugins/buddypress-component-stats/lib/dompdf/dompdf.php 1 88 0 0
+/old/wp-login.php 1 88 0 0
+/vendors/font-awesome/css/webfonts/fa-solid-900.ttf 1 208792 0 0
+/vendors/font-awesome/css/webfonts/fa-brands-400.woff2 1 74288 0 0
+/wp-content/plugins/gboutique/library/dompdf/dompdf.php 1 88 0 0
+/wp-config.php.swp 1 88 0 0
+/wp-content/themes/endlesshorizon/download.php 1 88 0 0
+/wp-admin/edit.php 1 88 0 0
+/news/wp-login.php 1 88 0 0
+/wp-content/themes/rowe/download/download.php 1 88 0 0
+END_SIDER
